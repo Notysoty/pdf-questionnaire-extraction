@@ -21,6 +21,11 @@
 [![forks](https://img.shields.io/github/forks/harmonydata/harmony)](https://github.com/harmonydata/harmony/forks)
 [![docker](https://img.shields.io/badge/docker-pull-blue.svg?logo=docker&logoColor=white)](https://hub.docker.com/r/harmonydata/harmonywithtika)
 
+# Data for PDF Kaggle competition
+
+See our competition on Kaggle at: https://www.kaggle.com/competitions/harmony-pdf-and-word-questionnaires-extract
+
+Read about our Kaggle competition [on our blog](https://harmonydata.ac.uk/harmony-on-kaggle/).
 
 # How PDFs are extracted
 
@@ -29,7 +34,9 @@ Harmony relies on two libraries to extract questionnaire items from PDFs:
 1. Apache Tika - to get plain text
 2. [PDF Table Extractor](https://github.com/ronnywang/pdf-table-extractor) Node.js library by Ronny Wang - to get tabular data
 
-This repo contains the training scripts.
+This repo contains the training data and training scripts.
+
+The withheld test annotations are in this private repo: https://github.com/harmonydata/pdf-questionnaire-extraction-test-annotations
 
 # Preprocessing all the PDFs
 
