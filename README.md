@@ -41,10 +41,11 @@ pip install kaggle
 
 3. On the Kaggle website, download your `kaggle.json` file and put it in your home folder under `.kaggle/kaggle.json`.
 
-4. Download the competition data:
+4. Download and unzip the competition data:
 
 ```
 kaggle competitions download -c harmony-pdf-and-word-questionnaires-extract
+unzip harmony-pdf-and-word-questionnaires-extract.zip 
 ```
 
 # How PDFs are extracted
