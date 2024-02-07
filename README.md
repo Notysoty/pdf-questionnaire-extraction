@@ -48,6 +48,14 @@ kaggle competitions download -c harmony-pdf-and-word-questionnaires-extract
 unzip harmony-pdf-and-word-questionnaires-extract.zip 
 ```
 
+5. Run [create_sample_submission.py](https://github.com/harmonydata/pdf-questionnaire-extraction/blob/main/data/create_sample_submission.py) in the folder containing your data. It will create a CSV file `submission.csv`.
+
+6. Submit your CSV file to Kaggle
+
+```
+kaggle competitions submit -c harmony-pdf-and-word-questionnaires-extract -f submission.csv -m "Message"
+```
+
 # How PDFs are extracted
 
 Harmony relies on two libraries to extract questionnaire items from PDFs:
