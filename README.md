@@ -27,6 +27,26 @@ See our competition on Kaggle at: https://www.kaggle.com/competitions/harmony-pd
 
 Read about our Kaggle competition [on our blog](https://harmonydata.ac.uk/harmony-on-kaggle/).
 
+# Entering the Kaggle competition
+
+Requirements: Python 3.10 or greater
+
+1. Create an account on [Kaggle](https://www.kaggle.com/).
+
+2. Install Kaggle on your computer:
+
+```
+pip install kaggle
+```
+
+3. On the Kaggle website, download your `kaggle.json` file and put it in your home folder under `.kaggle/kaggle.json`.
+
+4. Download the competition data:
+
+```
+kaggle competitions download -c harmony-pdf-and-word-questionnaires-extract
+```
+
 # How PDFs are extracted
 
 Harmony relies on two libraries to extract questionnaire items from PDFs:
