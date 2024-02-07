@@ -1,4 +1,19 @@
-import pandas as pd
+import os, pandas as pd
+import sys
+import re
+
+def dummy_extract_questions(pdf_plain_text: str) -> str:
+    '''
+    Placeholder function for extracting questionnaire items from a PDF
+    '''
+    predictions = []
+    for line in pdf_plain_text.split("\n"):
+        line = re.sub(r'\s+', ' ', line).strip()
+        line = re.sub(r'\n+', '', line)
+        line = re.sub(r'^\d+\.?', '', line).strip()
+        predictions.append("\t" + line)
+    return "\n".join(predictions)
+
 
 test_files = ["000_mfqchildselfreportshort.txt",
 "001_patienthealthquestionnaire.txt",
@@ -32,14 +47,33 @@ test_files = ["000_mfqchildselfreportshort.txt",
 "062_eoin_no_numbers.txt",
 "064_hrcw1psicoconf.txt"]
 
+COMMAND_LINE_PARAM = f"Usage: python create_sample_submission.py train|test"
+
+if len(sys.argv) < 2:
+    DATASET = "train"
+else:
+    DATASET = sys.argv[1]
+
+if DATASET != "train" and DATASET != "test":
+    print(COMMAND_LINE_PARAM)
+    exit()
+
+if DATASET == "test":
+    files_to_process = test_files
+    output_file = "submission.csv"
+else:
+    files_to_process = os.listdir("preprocessed_text")
+    output_file = "train_predictions.csv"
+
 ids = []
 predictions = []
-for test_file in test_files:
+for test_file in files_to_process:
     with open("preprocessed_text/" + test_file, "r") as f:
+        predictions.append(dummy_extract_questions(f.read()))
         ids.append(test_file)
-        predictions.append(f.read())
 df = pd.DataFrame()
 df["ID"] = ids
 df["predict"] = predictions
 
-df.to_csv("submission.csv", index=False)
+print ("Writing predictions to", output_file)
+df.to_csv(output_file, index=False)
