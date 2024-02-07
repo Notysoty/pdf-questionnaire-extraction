@@ -1,0 +1,491 @@
+
+ 1 
+
+Adult Behavior Checklist 
+ 
+ABCL5a. Aproximadamente quantos(as) amigos(as) próximos(as) ele(a) tem? (Não incluir pessoas da 
+família) 
+(   ) 0 Nenhum 
+(   ) 1 Um 
+(   ) 2 Dois ou três 
+(   ) 4 Quatro ou mais 
+(   ) 99 NÃO SABE 
+ 
+ABCL5b. Aproximadamente, quantas vezes por mês ele(a) tem contato com qualquer um dos amigo(a) 
+próximo(a)? (Incluir contatos pessoalmente, por telefonemas, cartas, e-mails.) 
+(   ) 0 Menos de um 
+(   ) 1 Um ou dois 
+(   ) 3 Três ou quatro 
+(   ) 5 Cinco ou mais 
+(   ) 99 NÃO SABE 
+ 
+ ABCL5c. Até que ponto ele(a) se dá bem com amigos(as) próximos? 
+(   ) 0 Não se dá bem 
+(   ) 1 Na média 
+(   ) 2 Acima da média 
+(   ) 3 Bem acima da média 
+(   ) 99 NÃO SABE 
+ 
+ABCL5d. Aproximadamente, quantas vezes por mês amigos ou familiares o (a) visitam? 
+(   ) 0 Menos de um 
+(   ) 1 Um ou dois 
+(   ) 3 Três ou quatro 
+(   ) 5 Cinco ou mais 
+(   ) 99 NÃO SABE 
+ 
+ABCL6. Qual o estado civil dele(a)? 
+(   ) 0 Nunca foi casado 
+(   ) 1 Casado e vivendo com o(a) esposo(a) 
+(   ) 2 Casado mas separado 
+(   ) 3 Divorciado(a) 
+(   ) 4 Viúvo(a) 
+(   ) 5 Outro:___________ 
+(   ) 99 NÃO SABE 
+ 
+ABCL7. Em algum momento nos últimos seis meses, ele(a) viveu com um(a) esposo(a) ou companheiro(a)? 
+(   ) 1 Sim ↓ AB7a 
+(   ) 0 Não à AB8. 
+(   ) 99 NÃO SABE à AB8. 
+  
+
+
+
+ 2 
+
+ABCL7a Agora por favor, circule 0, 1 ou 2 ao lado das afirmações abaixo para descrever o relacionamento 
+dele(a) nos últimos seis meses: 
+ 
+
+O jovem ... Não é 
+verdadeira 
+
+Um pouco ou 
+algumas vezes 
+
+verdadeira 
+
+Muito ou 
+frequentement
+e verdadeira 
+
+ABCL7a1. Se dá bem com o esposo(a) ou companheiro(a) (  ) 0 (  ) 1 (  ) 2 
+ABCL7a2. Tem dificuldade em dividir responsabilidades com 
+esposo(a) ou companheiro(a) (  ) 0 (  ) 1 (  ) 2 
+
+ABCL7a3. Parece satisfeito(a) com esposo(a) ou 
+companheiro(a) (  ) 0 (  ) 1 (  ) 2 
+
+ABCL7a4. Gosta das mesmas atividades que o esposo(a) ou 
+companheiro(a) (  ) 0 (  ) 1 (  ) 2 
+
+ABCL7a5. Discorda do esposo(a) ou companheiro(a) sobre 
+questões de administração do lar, como onde morar (  ) 0 (  ) 1 (  ) 2 
+
+ABCL7a6. Ele(a) tem problemas com a família do esposo(a) ou 
+companheiro(a) (  ) 0 (  ) 1 (  ) 2 
+ABCL7a7. Gosta dos amigos do esposo(a) ou companheiro(a) (  ) 0 (  ) 1 (  ) 2 
+ABCL7a8. Incomoda-se com o comportamento do esposo(a) ou 
+companheiro(a) (  ) 0 (  ) 1 (  ) 2 
+
+ 
+ABCL8. Ele(a) tem alguma doença ou deficiência? 
+(   ) 1 Sim ↓ AB8a 
+(   ) 0 Não à AB9. 
+(   ) 99 NÃO SABEà AB9. 
+ 
+ABCL8a. Se sim, por favor, 
+descreva:________________________________________________________________ (   ) 99 NÃO SABE 
+ 
+ABCL9. Por favor, descreva quaisquer preocupações que você tenha sobre ele: 
+ 
+:_________________________________________________________________________________________ 
+ 
+:_________________________________________________________________________________________ 
+ 
+ 
+ABCL10. Por favor, descreva as principais qualidades e pontos positivos dele(a): 
+ 
+:_________________________________________________________________________________________ 
+ 
+:_________________________________________________________________________________________ 
+ 
+  
+
+
+
+ 3 
+
+[ENTREVISTADOR] MOSTRAR C17 
+[LEIA] Logo abaixo, você encontrará uma lista de afirmações que descrevem as pessoas. Para cada 
+afirmação que descreve o jovem relacionado a você, neste momento ou nos últimos seis meses. Por 
+favor, responda a todas as afirmações o melhor que possa, mesmo que algumas não pareçam aplicáveis 
+ao(à) [NOME DO JOVEM] 
+ 
+
+0 = Não é verdadeiro (tanto quanto 
+sabe) 
+
+1 = Um pouco verdadeira ou algumas 
+vezes verdadeira 
+
+2 = Muito verdadeira ou frequentemente 
+verdadeira 
+
+0 1 2 AL1. É muito esquecido(a)  0 1 2 AL33. Acha ou reclama que ninguém gosta dele(a) 
+
+0 1 2 AL2. Sabe aproveitar as oportunidades que 
+lhe aparecem  0 1 2 AL34. Acha que os outros o(a) perseguem 
+
+0 1 2 AL3. Discute muito  0 1 2 AL35. Sente-se sem valor ou inferior aos outros 
+
+0 1 2 AL4. Desenvolve suas habilidades  0 1 2 AL36. Machuca-se com frequência, tem tendência 
+a sofrer acidentes 
+
+0 1 2 AL5. Culpa os outros por seus próprios 
+problemas  0 1 2 AL37. Mete-se em muitas brigas 
+
+0 1 2 
+AL6. Usa drogas (que não álcool ou 
+nicotina) sem fins medicinais (descreva): 
+_______________________ 
+
+ 0 1 2 AL38. Suas relações com os vizinhos são 
+insatisfatórias 
+
+0 1 2 AL7. Gosta de contar vantagem  0 1 2 AL39. Anda em más companhias 
+
+0 1 2 AL8. Não consegue concentrar-se, não 
+consegue prestar atenção muito tempo  0 1 2 
+
+AL40. Escuta sons ou vozes que não existem 
+(descreva): 
+________________________________ 
+
+0 1 2 
+AL9. Não consegue tirar certos 
+pensamentos da cabeça; obsessões 
+(descreva): ________________ 
+
+ 0 1 2 AL41. É impulsivo(a) ou age sem pensar 
+
+0 1 2 AL10. Não consegue parar sentado(a), não 
+para quieto(a) ou é hiperativo(a)  0 1 2 AL42. Prefere estar sozinho(a) do que ficar em 
+
+companhia de outros 
+0 1 2 AL11. É muito dependente dos outros  0 1 2 AL43. Mente ou engana os outros 
+
+0 1 2 AL12. Reclama de solidão  0 1 2 AL44. Sente-se sobrecarregado(a) com as 
+responsabilidades 
+
+0 1 2 AL13. Fica confuso(a) ou desorientado(a)  0 1 2 AL45. É nervoso(a) ou tenso(a) 
+
+0 1 2 AL14. Chora muito  0 1 2 
+AL46. Tem movimentos repetitivos que não 
+consegue parar (tiques) (descreva): 
+____________________ 
+
+0 1 2 AL15. É bastante honesto(a)  0 1 2 AL47. Falta-lhe autoconfiança 
+
+0 1 2 AL16. É cruel, intimida ou faz maldade com 
+outros  0 1 2 AL48. As outras pessoas não gostam dele(a) 
+
+0 1 2 AL17. Vive no “mundo da lua” ou perde-se 
+em seus pensamentos  0 1 2 AL49. Pode fazer certas coisas melhor do que 
+
+outras pessoas 
+
+0 1 2 AL18. Machuca-se de propósito ou já tentou 
+se matar  0 1 2 AL50. É muito medroso(a) ou ansioso(a) 
+
+0 1 2 AL19. Exige que prestem muita atenção 
+nele(a)  0 1 2 AL51. Tem tonturas 
+
+0 1 2 AL20. Estraga ou destrói as suas próprias 
+coisas  0 1 2 AL52. Sente-se muito culpado(a) 
+
+0 1 2 AL21. Estraga ou destrói as coisas de 
+outros  0 1 2 AL53. Tem problemas em fazer planos para o 
+
+futuro 
+0 1 2 AL22. Preocupa-se com seu futuro  0 1 2 AL54. Sente-se cansado(a) demais sem motivo 
+
+0 1 2 AL23. Desrespeita as regras no trabalho ou 
+em outros lugares  0 1 2 AL55. Seu humor oscila entre excitação e 
+
+depressão 
+
+0 1 2 AL24. Não come tão bem quanto deveria  0 1 2 AL56. Tem problemas físicos de fundo emocional 
+(sem causa médica) 
+
+0 1 2 AL25. Não se dá bem com outras pessoas  0 1 2 AL56a. Dores (exceto de cabeça e de estômago) 
+
+0 1 2 AL26. Não se sente culpado depois de se 
+comportar mal  0 1 2 AL56b. Dores de cabeça 
+
+0 1 2 AL27. Sente ciúme ou inveja com facilidade  0 1 2 AL56c. Náuseas, enjoos 
+
+0 1 2 AL28. Não se dá bem com a família  0 1 2 
+AL56d. Problemas com os olhos (que não são 
+corrigidos com o uso de óculos) (descreva): 
+______________ 
+
+0 1 2 
+AL29. Tem medo de certos animais, 
+situações ou lugares (descreva): 
+__________________________ 
+
+ 0 1 2 AL56e. Problemas de pele 
+
+0 1 2 AL30. Suas relações com o sexo oposto são 
+insatisfatórias  0 1 2 AL56f. Dores de estômago ou de barriga 
+
+0 1 2 AL31. Tem medo de pensar ou fazer 
+alguma coisa má  0 1 2 AL56g. Vômitos 
+
+0 1 2 AL32. Acha que tem que fazer tudo perfeito      
+
+
+
+ 4 
+
+  
+0 = Não é verdadeiro (tanto quanto 
+sabe) 
+
+1 = Um pouco verdadeira ou algumas 
+vezes verdadeira 
+
+2 = Muito verdadeira ou frequentemente 
+verdadeira 
+
+0 1 2 AL57. Ataca fisicamente as pessoas  0 1 2 AL86. É teimoso(a), mal humorado(a) ou fácil 
+de se irritar 
+
+0 1 2 
+AL58. Cutuca a pele ou outras partes do corpo 
+(descreva): 
+________________________________ 
+
+ 0 1 2 AL87. Tem mudanças repentinas de humor ou 
+de sentimentos 
+
+0 1 2 AL59. Deixa incompletas as coisas que deveria 
+fazer  0 1 2 AL88. Gosta de estar com pessoas 
+
+0 1 2 AL60. Poucas coisas lhe dão prazer  0 1 2 AL89. Age precipitadamente, sem pensar nos 
+riscos 
+
+0 1 2 AL61. Seu desempenho no trabalho é 
+insatisfatório  0 1 2 AL90. Toma muita bebida alcoólica ou fica 
+
+bêbado(a) 
+
+0 1 2 AL62. É desastrado(a), desajeitado(a) (má 
+coordenação motora)  0 1 2 AL91. Fala que vai se matar 
+
+ 
+0 
+
+ 
+1 
+
+ 
+2 
+
+AL63. Prefere estar com pessoas mais velhas a 
+estar com pessoas da sua idade   
+
+0 
+ 
+1 
+
+ 
+2 
+
+AL92. Faz coisas que podem lhe trazer 
+problemas com a lei (descreva): 
+________________________ 
+
+0 1 2 AL64. Tem dificuldades em estabelecer 
+prioridades  0 1 2 AL93. Fala demais 
+
+0 1 2 AL65. Recusa-se a falar  0 1 2 AL94. Gosta de gozar dos outros 
+
+ 
+0 
+
+ 
+1 
+
+ 
+2 
+
+AL66. Repete as mesmas ações várias vezes 
+seguidas; compulsões (descreva): 
+______________________ 
+
+  
+0 
+
+ 
+1 
+
+ 
+2 AL95. Tem crises de birra ou é esquentado(a) 
+
+0 1 2 AL67. Tem dificuldades para fazer ou manter 
+amigos  0 1 2 AL96. É passivo(a) ou sem iniciativa 
+
+0 1 2 AL68. Grita muito  0 1 2 AL97. Ameaça machucar as pessoas 
+
+0 1 2 AL69. É reservado(a), fechado(a), não conta suas 
+coisas para ninguém  0 1 2 AL98. Gosta de ajudar os outros 
+
+0 1 2 AL70. Vê coisas que não existem (descreva): 
+_______  0 1 2 AL99. Não gosta de ficar em um mesmo lugar 
+
+por muito tempo 
+
+ 
+0 
+
+ 
+1 
+
+ 
+2 
+
+AL71. Fica sem jeito na frente das pessoas com 
+facilidade, preocupado(a) com o que os outros 
+vão pensar dele(a) 
+
+  
+0 
+
+ 
+1 
+
+ 
+2 
+
+AL100. Tem problemas com o sono 
+(descreva):___________________________ 
+
+0 1 2 AL72. Preocupa-se com sua família  0 1 2 AL101. Falta ao trabalho, mesmo quando não 
+está doente ou de férias 
+
+0 1 2 AL73. Cumpre suas responsabilidades para com 
+sua família  0 1 2 AL102. É pouco ativo(a), seus movimentos são 
+
+lentos ou tem falta de energia 
+0 1 2 AL74. Gosta de se exibir, fazer palhaçadas  0 1 2 AL103. É infeliz, triste ou deprimido(a) 
+
+0 1 2 AL75. É muito acanhado(a) ou tímido(a)  0 1 2 AL104. É barulhento(a) demais 
+0 1 2 AL76. Comporta-se de maneira irresponsável  0 1 2 AL105. É desorganizado(a) 
+
+0 1 2 
+AL77. Dorme mais do que a maioria das pessoas 
+durante o dia e/ou a noite (descreva): 
+__________ 
+
+ 0 1 2 AL106. Tenta ser justo(a) com os outros 
+
+0 1 2 AL78. Tem dificuldades para tomar decisões  0 1 2 AL107. Sente que não é capaz de ter sucesso 
+
+0 1 2 AL79. Tem problemas de fala (descreva): 
+__________  0 1 2 AL108. Tem tendência a perder as coisas 
+
+0 1 2 AL80. Fica com o olhar parado, “olhando o vazio”  0 1 2 AL109. Gosta de experimentar coisas novas 
+
+0 1 2 AL81. Seu comportamento varia muito  0 1 2 AL110. Toma boas decisões 
+
+0 1 2 AL82. Rouba  0 1 2 AL111. Isola-se, não se relaciona com os 
+outros 
+
+0 1 2 AL83. Entedia-se com facilidade  0 1 2 AL112. É preocupado(a) 
+
+0 1 2 AL84. Tem comportamento estranho (descreva): 
+___  0 1 2 AL113. Aborrece-se muito 
+
+0 1 2 AL85. Tem ideias estranhas (descreva): 
+___________     AL114. Deixa de pagar suas dívidas ou cumprir 
+
+com outras obrigações financeiras 
+ 
+  
+
+
+
+ 5 
+
+0 = Não é verdadeiro (tanto quanto 
+sabe) 
+
+1 = Um pouco verdadeira ou algumas vezes 
+verdadeira 
+
+2 = Muito verdadeira ou frequentemente 
+verdadeira 
+
+0 1 2 AL115. É inquieto ou agitado  0 1 2 AL122. Tem dificuldade em manter um 
+emprego 
+
+0 1 2 AL116. Fica perturbado(a) com 
+muita facilidade  0 1 2 AL123. É uma pessoa feliz 
+
+ 
+0 
+
+ 
+1 
+
+ 
+2 
+
+AL117. Tem problemas para 
+administrar seu dinheiro ou 
+cartões de crédito 
+
+  
+________vezes por dia 
+
+AL124. Nos últimos seis meses, 
+aproximadamente quantas vezes por dia ele(a) 
+usou tabaco (inclusive fumo de mascar)?  
+
+0 1 2 AL118. É muito impaciente   
+_____________dias 
+
+AL125. Nos últimos seis meses, quantos dias 
+ele(a) ficou bêbado? 
+
+ 
+0 
+
+ 
+1 
+
+ 
+2 
+
+AL119. Presta pouca atenção 
+aos detalhes   
+
+_____________dias 
+
+AL126. Nos últimos seis meses, quantos dias 
+ele(a) usou drogas para fins não medicinais 
+(inclusive maconha, cocaína e outras drogas, 
+exceto álcool e nicotina)?  
+
+0 1 2 AL120. Dirige muito rápido      
+
+0 1 2 AL121. Tende a se atrasar nos 
+compromissos      
+
+ 
+
+ 
+ 
+
+

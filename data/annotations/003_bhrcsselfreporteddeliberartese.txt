@@ -1,0 +1,12 @@
+DSHI1.	Cortou os pulsos, braços ou outras partes do corpo	Nunca/Uma vez/Duas vezes/Trés vezes/Quatro vezes/Cinco vezes/Mais de cinco vezes/NÃO SABE
+DSHI2.	Queimou-se com cigarros, isqueiros ou fósforos	Nunca/Uma vez/Duas vezes/Trés vezes/Quatro vezes/Cinco vezes/Mais de cinco vezes/NÃO SABE
+DSHI3.	Fez palavras, ou desenhos na pele atravès de cortes	Nunca/Uma vez/Duas vezes/Trés vezes/Quatro vezes/Cinco vezes/Mais de cinco vezes/NÃO SABE
+DSHI4.	Arranhou-se gravemente a ponto de sangrar	Nunca/Uma vez/Duas vezes/Trés vezes/Quatro vezes/Cinco vezes/Mais de cinco vezes/NÃO SABE
+DSHI5.	Mordeu-se a ponto de abrir a pele	Nunca/Uma vez/Duas vezes/Trés vezes/Quatro vezes/Cinco vezes/Mais de cinco vezes/NÃO SABE
+DSHI6.	Cravou objetos pontudos na pele	Nunca/Uma vez/Duas vezes/Trés vezes/Quatro vezes/Cinco vezes/Mais de cinco vezes/NÃO SABE
+DSHI7.	Bateu a cabeça a ponto de provocar um machucado	Nunca/Uma vez/Duas vezes/Trés vezes/Quatro vezes/Cinco vezes/Mais de cinco vezes/NÃO SABE
+DSHI8.	Se deu socos a ponto de provocar um machucado	Nunca/Uma vez/Duas vezes/Trés vezes/Quatro vezes/Cinco vezes/Mais de cinco vezes/NÃO SABE
+DSHI9.	Não deixou feridas cicatrizarem	Nunca/Uma vez/Duas vezes/Trés vezes/Quatro vezes/Cinco vezes/Mais de cinco vezes/NÃO SABE
+DSHI10a.	Outro comportamento auto lesivo:	DSHI11/DHSI10b/DSHI11
+DSHI10b.	Quantas vezes realizou o comportamento mencionado anteriormente:	Nunca/Uma vez/Duas vezes/Trés vezes/Quatro vezes/Cinco vezes/Mais de cinco vezes/NÃO SABE
+DSHI11.	Qualquer comportamento auto lesivo suficientemente grave para precisar de hospitalização ou de tratamento médico	Nunca/Uma vez/Duas vezes/Trés vezes/Quatro vezes/Cinco vezes/Mais de cinco vezes/NÃO SABE

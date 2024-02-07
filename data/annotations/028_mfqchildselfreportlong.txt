@@ -1,0 +1,33 @@
+1	I felt miserable or unhappy.	True/Sometimes true/Not true
+2	I didn’t enjoy anything at all.	True/Sometimes true/Not true
+3	I was less hungry than usual.	True/Sometimes true/Not true
+4	I ate more than usual.	True/Sometimes true/Not true
+5	I felt so tired I just sat around and did nothing.	True/Sometimes true/Not true
+6	I was moving and walking more slowly than usual.	True/Sometimes true/Not true
+7	I was very restless.	True/Sometimes true/Not true
+8	I felt I was no good anymore.	True/Sometimes true/Not true
+9	I blamed myself for things that weren’t my fault.	True/Sometimes true/Not true
+10	It was hard for me to make up my mind.	True/Sometimes true/Not true
+11	I felt grumpy and cross with my parents.	True/Sometimes true/Not true
+12	I felt like talking less than usual.	True/Sometimes true/Not true
+13	I was talking more slowly than usual.	True/Sometimes true/Not true
+14	I cried a lot.	True/Sometimes true/Not true
+15	I thought there was nothing good for me in the future.	True/Sometimes true/Not true
+16	I thought that life wasn’t worth living.	True/Sometimes true/Not true
+17	I thought about death or dying.	True/Sometimes true/Not true
+18	I thought my family would be better off without me.	True/Sometimes true/Not true
+19	I thought about killing myself.	True/Sometimes true/Not true
+20	I didn’t want to see my friends.	True/Sometimes true/Not true
+21	I found it hard to think properly or concentrate.	True/Sometimes true/Not true
+22	I thought bad things would happen to me.	True/Sometimes true/Not true
+23	I hated myself.	True/Sometimes true/Not true
+24	I felt I was a bad person.	True/Sometimes true/Not true
+25	I thought I looked ugly.	True/Sometimes true/Not true
+26	I worried about aches and pains.	True/Sometimes true/Not true
+27	I felt lonely.	True/Sometimes true/Not true
+28	I thought nobody really loved me.	True/Sometimes true/Not true
+29	I didn’t have any fun in school.	True/Sometimes true/Not true
+30	I thought I could never be as good as other kids.	True/Sometimes true/Not true
+31	I did everything wrong.	True/Sometimes true/Not true
+32	I didn’t sleep as well as I usually sleep.	True/Sometimes true/Not true
+33	I slept a lot more than usual.	True/Sometimes true/Not true

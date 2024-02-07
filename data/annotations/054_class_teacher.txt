@@ -1,0 +1,161 @@
+	What is the age range of children in your class? from ... years ... months to ... years ... months		
+	How many children are there on the class register? ... children		
+	How many of your class have been excluded from school since the beginning of this school year? for a fixed term		
+	How many of your class have been excluded from school since the beginning of this school year? permanently		
+	How many pupils have statements (or are in the process of being statemented) for special educational needs? ... pupils		
+	For how many children in your class do you have to keep medication?		
+	1 Ventolin/inhaler for asthma	How many (Numeric)	
+	2 Ritalin	How many (Numeric)	
+	3 Anti-convulsants (for epilepsy)	How many (Numeric)	
+	4 Adrenalin/Epipen (for allergic reactions)	How many (Numeric)	
+	For how many children in your class do you have to keep medication? Other (please give number of children and state name(s) of medication) ... No. of children		
+	How many children in your class keep their own regular medication when they come to school? Ventolin/inhaler for asthma ... No. of children		
+	How many children in your class keep their own regular medication when they come to school? Ritalin ... No. of children		
+	How many children in your class keep their own regular medication when they come to school? Other (please give number of children and state name(s) of medication) ... No. of children		
+	Approximately for what proportion of the children currently on your attendance register do you feel you have grounds for concern because the child's development might be impaired by his/her home circumstances? (Please tick one box only)	100%/75-99%/50-74%/25-49%/10-24%/less than 10%
+	How many children in your class are from homes where English is not the first language? ... children		
+	In this class are there ability groups (or setting) for: Literacy	Yes/No	
+	In this class are there ability groups (or setting) for: Maths	Yes/No	
+	In this class are there ability groups (or setting) for: Other (please describe)	Yes/No	
+	How many children in your class have problems of health, behaviour, speech, vision, hearing or development which you consider affects their everyday life in school? ... children		
+	How many children in your class are receiving the following: Remedial reading help ... No. of children		
+	How many children in your class are receiving the following: Remedial mathematics help ... No. of children		
+	How many children in your class are receiving the following: Formal help with behavioural difficulties ... No. of children		
+	How many children in your class are receiving the following: Music lessons during class time ... No. of children		
+	Approximately how many hours a week does the class spend on the following?		
+	1 Literacy/English	hours a week (Numeric)/mins (Numeric)/hours a week (Numeric)/mins (Numeric)	
+	2 Numeracy/Maths	hours a week (Numeric)/mins (Numeric)/hours a week (Numeric)/mins (Numeric)	
+	3 Science	hours a week (Numeric)/mins (Numeric)/hours a week (Numeric)/mins (Numeric)	
+	4 ICT/Computing	hours a week (Numeric)/mins (Numeric)/hours a week (Numeric)/mins (Numeric)	
+	5 History	hours a week (Numeric)/mins (Numeric)/hours a week (Numeric)/mins (Numeric)	
+	6 Geography	hours a week (Numeric)/mins (Numeric)/hours a week (Numeric)/mins (Numeric)	
+	7 Design &amp; technology	hours a week (Numeric)/mins (Numeric)/hours a week (Numeric)/mins (Numeric)	
+	8 Art	hours a week (Numeric)/mins (Numeric)/hours a week (Numeric)/mins (Numeric)	
+	9 PE/games/dance	hours a week (Numeric)/mins (Numeric)/hours a week (Numeric)/mins (Numeric)	
+	10 Music	hours a week (Numeric)/mins (Numeric)/hours a week (Numeric)/mins (Numeric)	
+	11 RE	hours a week (Numeric)/mins (Numeric)/hours a week (Numeric)/mins (Numeric)	
+	12 Personal and social education	hours a week (Numeric)/mins (Numeric)/hours a week (Numeric)/mins (Numeric)	
+	How confident are you about teaching the following to this class: Numeracy	Very/Fairly/Not	
+	How confident are you about teaching the following to this class: Literacy	Very/Fairly/Not	
+	How confident are you about teaching the following to this class: Science	Very/Fairly/Not	
+	In the past year, has there been any class discussion/teaching on: Cigarette smoking	Yes/No/Don't know	
+	In the past year, has there been any class discussion/teaching on: Sex education	Yes/No/Don't know	
+	In the past year, has there been any class discussion/teaching on: Drug/solvent abuse	Yes/No/Don't know	
+	In the past year, has there been any class discussion/teaching on: Healthy diet		Yes/No/Don't know
+	In the past year, has there been any class discussion/teaching on: Exercise	Yes/No/Don't know	
+	How often is homework given in term time?	1 not at all/2 occasionally (less than once a week)/3 once a week/4 2-4 times a week/ 5 every day	
+	Which members of your class are usually given homework?	1 only the most able/2 only the least able/3 all are given homework/ 4 no homework is given	
+	Is the homework:	1 confined to reading and study tasks/2 part reading/study and part assignments due for teacher checking/3 confined to assignments due for teacher checking	
+	On average, how long do you expect pupils in your class to spend on a typical piece of homework?	1 up to 10 minutes/2 11-20 minutes/3 21-30 minutes/4 31-40 minutes	
+	/5 more than 40 minutes		
+	What do you do if pupils do not do their homework? (Tick all that apply)	1 Ask them to do it another time (Code)/2 Use sanctions or punishments (Code)/3 Do nothing (Code)	
+	What do you do if pupils do not do their homework? (Tick all that apply) Other (please describe)		
+	What contribution do you think homework makes to pupils' learning?	large contribution/small contribution/no contribution
+	Are the children in your class given homework or projects to do during half term and/or school holidays?	Yes/No
+	How many of the following paid teaching staff work with your class? (Do not include teachers who do individual tuition for music or special needs)	Full-time teachers (including yourself)/Part-time teachers (including yourself)/Paid classroom assistants (not teachers)
+	How many unpaid adult assistants help with your class?	parents/volunteers
+	How long have you been a teacher at this school?	< 1 year/1-2 years/3-9 years/10 or more years
+	Are you:	Male/Female
+	How long have you taught altogether?
+	Please give the year in which you qualified for teaching
+	Please list your teaching qualifications.
+	How noisy is your school classroom usually? Noise from outside the school (tick all that apply):	Continuous loud noise (e.g. heavy traffic, machinery, etc.)/Intermittent loud noise (e.g. rush-hour traffic, plane taking off)/Continuous moderate noise/Intermittent moderate noise/Usually quiet
+	How noisy is your school classroom usually? Noise from within the school perimeter (e.g. playground, other classes): Noise of other classes through the walls of your classroom:	can hear clearly and is a problem/can hear clearly but not a problem/can hear but not clearly/hardly ever hear
+	How noisy is your school classroom usually? Noise from within the school perimeter (e.g. playground, other classes): Noise of people moving around the school (e.g. along corridors)	can hear clearly and is a problem/can hear clearly but not a problem/can hear but not clearly/hardly ever hear
+	Is there double glazing in the outside windows?	Yes/No
+	Do you feel there is overcrowding: For the staff:	Yes serious/Yes occasional/No
+	Do you feel there is overcrowding: For the pupils:	Yes serious/Yes occasional/No
+	Is this affecting the quality of education that you are providing?	Yes, a great deal/Yes, sometimes/No
+	Are there aspects of a school curriculum that you are having to restrict or omit because of lack of space?	Yes/No
+	Statement Text	Often teachers nowadays are under considerable stress. The following questions will enable us to assess your well-being, and have been used in many studies.	Very Often/Often/Not very often/Never
+	Do you feel upset for no obvious reason?	Very Often/Often/Not very often/Never
+	Do you get troubled by dizziness or shortness of breath?	Very Often/Often/Not very often/Never
+	Have you felt as though you might faint?	Very Often/Often/Not very often/Never
+	Do you feel sick or have indigestion?	Very Often/Often/Not very often/Never
+	Do you feel that life is too much effort?	Very Often/Often/Not very often/Never
+	Do you feel uneasy and restless?	Very Often/Often/Not very often/Never
+	Do you feel tingling or prickling sensations in your body, arms or legs?	Very Often/Often/Not very often/Never
+	Do you regret much of your past behaviour?	Very Often/Often/Not very often/Never
+	Do you sometimes feel panicky?	Very Often/Often/Not very often/Never
+	Do you find that you have little or no appetite?	Very Often/Often/Not very often/Never
+	Do you wake unusually early in the morning even when you haven't been woken by any children you may have?	Very Often/Often/Not very often/Never
+	Do you worry a lot?	Very Often/Often/Not very often/Never
+	Do you feel tired or exhausted?	Very Often/Often/Not very often/Never
+	Do you experience long periods of sadness?	Very Often/Often/Not very often/Never
+	Do you feel strung-up inside?	Very Often/Often/Not very often/Never
+	Can you go to sleep all right?	Very Often/Often/Not very often/Never
+	Do you ever have the feeling you are going to pieces?	Very Often/Often/Not very often/Never
+	Do you often have excessive sweating or fluttering of the heart?	Very Often/Often/Not very often/Never
+	Do you find yourself needing to cry?	Very Often/Often/Not very often/Never
+	Do you have bad dreams which upset you when you wake up?	Very Often/Often/Not very often/Never
+	Do you lose the ability to feel sympathy for others?	Very Often/Often/Not very often/Never
+	Can you think as quickly as you used to?	Very Often/Often/Not very often/Never
+	Do you have to make a special effort to face up to a crisis or difficulty?	Very Often/Often/Not very often/Never
+	The school gives high priority to raising pupils' standards of achievement	Agree strongly/Agree/Disagree/Disagree strongly
+	The teachers have high expectations of the pupils' standards of achievement	Agree strongly/Agree/Disagree/Disagree strongly
+	The school sets educational goals that are appropriate for each pupil's ability to achieve	Agree strongly/Agree/Disagree/Disagree strongly
+	The standards set for pupils at this school are not high enough	Agree strongly/Agree/Disagree/Disagree strongly
+	All teachers set homework every week for their classes	Agree strongly/Agree/Disagree/Disagree strongly
+	All teachers mark and return homework promptly	Agree strongly/Agree/Disagree/Disagree strongly
+	All teachers start their classes on time	Agree strongly/Agree/Disagree/Disagree strongly
+	The teachers spend all of the time in lessons teaching or on learning activities for pupils	Agree strongly/Agree/Disagree/Disagree strongly
+	Teacher absenteeism is low at this school	Agree strongly/Agree/Disagree/Disagree strongly
+	Poor performance by teachers is not tolerated in this school	Agree strongly/Agree/Disagree/Disagree strongly
+	All teachers expect high standards of behaviour in class from their pupils	Agree strongly/Agree/Disagree/Disagree strongly
+	All pupils are required to come to lessons on time	Agree strongly/Agree/Disagree/Disagree strongly
+	Teachers at this school believe that all pupils can achieve regardless of their social background	Agree strongly/Agree/Disagree/Disagree strongly
+	Teachers at this school are all committed to the school's aims and values	Agree strongly/Agree/Disagree/Disagree strongly
+	Teachers follow the same set of rules about pupil behaviour	Agree strongly/Agree/Disagree/Disagree strongly
+	There is general agreement amongst the teachers about what are effective teaching approaches	Agree strongly/Agree/Disagree/Disagree strongly
+	There is unity between teachers and the headteacher on the school's aims and values and how these are implemented through teaching and learning	Agree strongly/Agree/Disagree/Disagree strongly
+	Teachers and the headteacher agree on how teachers and pupils should behave towards each other	Agree strongly/Agree/Disagree/Disagree strongly
+	There is a lot of disagreement between staff	Agree strongly/Agree/Disagree/Disagree strongly
+	There are some staff who do not support the headteacher's aims and policies for the school	Agree strongly/Agree/Disagree/Disagree strongly
+	Teachers are only interested in the pupils who do well in tests and examinations	Agree strongly/Agree/Disagree/Disagree strongly
+	Teachers show respect towards pupils	Agree strongly/Agree/Disagree/Disagree strongly
+	Pupils show respect towards teachers and other staff	Agree strongly/Agree/Disagree/Disagree strongly
+	Teachers and pupils get on well in this school	Agree strongly/Agree/Disagree/Disagree strongly
+	Teachers take care to ensure that their teaching is appropriate for pupils with special educational needs	Agree strongly/Agree/Disagree/Disagree strongly
+	Pupils' views are listened to and taken seriously	Agree strongly/Agree/Disagree/Disagree strongly
+	Pupils organise activities for themselves	Agree strongly/Agree/Disagree/Disagree strongly
+	A pupil who works hard or makes good progress is noticed and praised	Agree strongly/Agree/Disagree/Disagree strongly
+	The school has a system for rewarding pupils who work hard and/or make good progress even if they do not get high standards	Agree strongly/Agree/Disagree/Disagree strongly
+	The school regularly monitors pupils' actual attainments against those expected given their prior attainment or ability	Agree strongly/Agree/Disagree/Disagree strongly
+	Pupils who are underachieving are identified and attempts made to motivate them	Agree strongly/Agree/Disagree/Disagree strongly
+	The school frequently communicates its expectations of pupils to parents and governors	Agree strongly/Agree/Disagree/Disagree strongly
+	Parents are regularly informed about the progress and achievements at school of their child	Agree strongly/Agree/Disagree/Disagree strongly
+	If a pupil seriously infringes school rules parents will be informed immediately	Agree strongly/Agree/Disagree/Disagree strongly
+	There is a high level of parental support for their child's learning at school	Agree strongly/Agree/Disagree/Disagree strongly
+	Dealing with parental complaints and lack of cooperation from parents takes up a lot of teacher and school management time	Agree strongly/Agree/Disagree/Disagree strongly
+	Parents give a lot of support to the work of the school	Agree strongly/Agree/Disagree/Disagree strongly
+	Conditions in the pupils' home environment adversely affect their learning	Agree strongly/Agree/Disagree/Disagree strongly
+	Most pupils at this school want to do well in tests and exams	Agree strongly/Agree/Disagree/Disagree strongly
+	Pupils who get good marks or work hard are teased by the other pupils	Agree strongly/Agree/Disagree/Disagree strongly
+	Most pupils at this school are interested in learning	Agree strongly/Agree/Disagree/Disagree strongly
+	Many pupils don't do as well as they could because they are afraid that other pupils won't like them as much	Agree strongly/Agree/Disagree/Disagree strongly
+	There is good extracurricular provision in this school	Agree strongly/Agree/Disagree/Disagree strongly
+	There are very few pupils at this school whose behaviour in class prevents other pupils from learning	Agree strongly/Agree/Disagree/Disagree strongly
+	Most pupils behave well in class	Agree strongly/Agree/Disagree/Disagree strongly
+	There is not much bullying or name-calling of each other by pupils	Agree strongly/Agree/Disagree/Disagree strongly
+	Teachers participate on a regular basis in the development of school policies	Agree strongly/Agree/Disagree/Disagree strongly
+	Teachers at this school are often involved in activities that improve pupils' enjoyment of school	Agree strongly/Agree/Disagree/Disagree strongly
+	Teachers are encouraged by the head teacher to be involved in school improvement activities	Agree strongly/Agree/Disagree/Disagree strongly
+	Teachers are actively involved in creating school development or improvement plans	Agree strongly/Agree/Disagree/Disagree strongly
+	The head teacher takes most of the decisions with little staff consultation	Agree strongly/Agree/Disagree/Disagree strongly
+	What proportion of parents attend parents' evenings:	Almost all/About two-thirds/About half/Much less than half
+	I feel that I am a person of worth, at least equal to others	Almost always true/Often true/Sometimes true/Seldom true/Never true
+	I feel I have a number of good qualities	Almost always true/Often true/Sometimes true/Seldom true/Never true
+	I am able to do things as well as most other people	Almost always true/Often true/Sometimes true/Seldom true/Never true
+	I feel I do not have much to be proud of	Almost always true/Often true/Sometimes true/Seldom true/Never true
+	I take a positive attitude towards myself	Almost always true/Often true/Sometimes true/Seldom true/Never true
+	Sometimes I think I am no good at all	Almost always true/Often true/Sometimes true/Seldom true/Never true
+	I am a useful person to have around	Almost always true/Often true/Sometimes true/Seldom true/Never true
+	I feel I cannot do anything right	Almost always true/Often true/Sometimes true/Seldom true/Never true
+	When I do a job I do it well	Almost always true/Often true/Sometimes true/Seldom true/Never true
+	I feel that my life is not very useful	Almost always true/Often true/Sometimes true/Seldom true/Never true
+	I am unlucky	Almost always true/Often true/Sometimes true/Seldom true/Never true
+	I really enjoy teaching	Strongly agree/Mildly agree/Can't say/Mildly disagree/Strongly disagree
+	I would prefer to get out of teaching	Strongly agree/Mildly agree/Can't say/Mildly disagree/Strongly disagree
+	I like the challenge of making children understand	Strongly agree/Mildly agree/Can't say/Mildly disagree/Strongly disagree
+	I really enjoy teaching numeracy skills	Strongly agree/Mildly agree/Can't say/Mildly disagree/Strongly disagree
+	Changes in the curriculum are an exciting challenge	Strongly agree/Mildly agree/Can't say/Mildly disagree/Strongly disagree

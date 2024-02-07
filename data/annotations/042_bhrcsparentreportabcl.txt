@@ -1,0 +1,131 @@
+ABCL5a.	Aproximadamente quantos(as) amigos(as) próximos(as) ele(a) tem? (Não incluir pessoas da 
+ABCL5b.	Aproximadamente, quantas vezes por mês ele(a) tem contato com qualquer um dos amigo(a) próximo(a)? (Incluir contatos pessoalmente, por telefonemas, cartas, e-mails.) 
+ABCL5d.	Aproximadamente, quantas vezes por mês amigos ou familiares o (a) visitam? 
+ABCL6.	Qual o estado civil dele(a)? 
+ABCL7.	Em algum momento nos últimos seis meses, ele(a) viveu com um(a) esposo(a) ou companheiro(a)? 
+ABCL7a	Agora por favor, circule 0, 1 ou 2 ao lado das afirmações abaixo para descrever o relacionamento dele(a) nos últimos seis meses:
+ABCL7a1.	Se dá bem com o esposo(a) ou companheiro(a) (  ) 0 (  ) 1 (  ) 2 
+ABCL7a2.	Tem dificuldade em dividir responsabilidades com esposo(a) ou companheiro(a) (  ) 0 (  ) 1 (  ) 2 
+ABCL7a3.	Parece satisfeito(a) com esposo(a) ou companheiro(a) (  ) 0 (  ) 1 (  ) 2 
+ABCL7a4.	Gosta das mesmas atividades que o esposo(a) ou companheiro(a) (  ) 0 (  ) 1 (  ) 2 
+ABCL7a5.	Discorda do esposo(a) ou companheiro(a) sobre 
+ABCL7a6.	Ele(a) tem problemas com a família do esposo(a) ou companheiro(a) (  ) 0 (  ) 1 (  ) 2 
+ABCL7a7.	Gosta dos amigos do esposo(a) ou companheiro(a) (  ) 0 (  ) 1 (  ) 2 
+ABCL7a8.	Incomoda-se com o comportamento do esposo(a) ou companheiro(a) (  ) 0 (  ) 1 (  ) 2 
+ABCL8.	Ele(a) tem alguma doença ou deficiência? 
+ABCL8a.	Se sim, por favor, 
+ABCL9.	Por favor, descreva quaisquer preocupações que você tenha sobre ele: 
+ABCL10.	Por favor, descreva as principais qualidades e pontos positivos dele(a): 
+AL1.	É muito esquecido(a)
+AL33.	Acha ou reclama que ninguém gosta dele(a) 
+AL2.	Sabe aproveitar as oportunidades que lhe aparecem
+AL34.	Acha que os outros o(a) perseguem 
+AL3.	Discute muito
+AL35.	Sente-se sem valor ou inferior aos outros 
+AL4.	Desenvolve suas habilidades
+AL36.	Machuca-se com frequência, tem tendência 
+AL5.	Culpa os outros por seus próprios problemas
+AL37.	Mete-se em muitas brigas 
+AL38.	Suas relações com os vizinhos são 
+AL7.	Gosta de contar vantagem
+AL39.	Anda em más companhias 
+AL8.	Não consegue concentrar-se, não consegue prestar atenção muito tempo  
+AL41.	É impulsivo(a) ou age sem pensar 
+AL10.	Não consegue parar sentado(a), não para quieto(a) ou é hiperativo(a)
+AL42.	Prefere estar sozinho(a) do que ficar em 
+AL11.	É muito dependente dos outros
+AL43.	Mente ou engana os outros 
+AL12.	Reclama de solidão
+AL44.	Sente-se sobrecarregado(a) com as 
+AL13.	Fica confuso(a) ou desorientado(a)
+AL45.	É nervoso(a) ou tenso(a) 
+AL14.	Chora muito  
+AL15.	É bastante honesto(a)
+AL47.	Falta-lhe autoconfiança 
+AL16.	É cruel, intimida ou faz maldade com outros
+AL48.	As outras pessoas não gostam dele(a) 
+AL17.	Vive no “mundo da lua” ou perde-se em seus pensamentos
+AL49.	Pode fazer certas coisas melhor do que 
+AL18.	Machuca-se de propósito ou já tentou se matar
+AL50.	É muito medroso(a) ou ansioso(a) 
+AL19.	Exige que prestem muita atenção nele(a)
+AL51.	Tem tonturas 
+AL20.	Estraga ou destrói as suas próprias coisas
+AL52.	Sente-se muito culpado(a) 
+AL21.	Estraga ou destrói as coisas de outros
+AL53.	Tem problemas em fazer planos para o 
+AL22.	Preocupa-se com seu futuro
+AL54.	Sente-se cansado(a) demais sem motivo 
+AL23.	Desrespeita as regras no trabalho ou em outros lugares
+AL55.	Seu humor oscila entre excitação e 
+AL24.	Não come tão bem quanto deveria
+AL56.	Tem problemas físicos de fundo emocional 
+AL25.	Não se dá bem com outras pessoas
+AL56a.	Dores (exceto de cabeça e de estômago) 
+AL26.	Não se sente culpado depois de se comportar mal
+AL56b.	Dores de cabeça 
+AL27.	Sente ciúme ou inveja com facilidade
+AL56c.	Náuseas, enjoos 
+AL28.	Não se dá bem com a família  
+AL56e.	Problemas de pele 
+AL30.	Suas relações com o sexo oposto são insatisfatórias
+AL56f.	Dores de estômago ou de barriga 
+AL31.	Tem medo de pensar ou fazer alguma coisa má
+AL56g.	Vômitos 
+AL32.	Acha que tem que fazer tudo perfeito      
+AL57.	Ataca fisicamente as pessoas
+AL86.	É teimoso(a), mal humorado(a) ou fácil 
+AL87.	Tem mudanças repentinas de humor ou 
+AL59.	Deixa incompletas as coisas que deveria fazer
+AL88.	Gosta de estar com pessoas 
+AL60.	Poucas coisas lhe dão prazer
+AL89.	Age precipitadamente, sem pensar nos 
+AL61.	Seu desempenho no trabalho é insatisfatório
+AL90.	Toma muita bebida alcoólica ou fica 
+AL62.	É desastrado(a), desajeitado(a) (má coordenação motora)
+AL91.	Fala que vai se matar 
+AL64.	Tem dificuldades em estabelecer prioridades
+AL93.	Fala demais 
+AL65.	Recusa-se a falar
+AL94.	Gosta de gozar dos outros 
+AL67.	Tem dificuldades para fazer ou manter amigos
+AL96.	É passivo(a) ou sem iniciativa 
+AL68.	Grita muito
+AL97.	Ameaça machucar as pessoas 
+AL69.	É reservado(a), fechado(a), não conta suas coisas para ninguém
+AL98.	Gosta de ajudar os outros 
+AL70.	Vê coisas que não existem (descreva): 
+AL99.	Não gosta de ficar em um mesmo lugar 
+AL72.	Preocupa-se com sua família
+AL101.	Falta ao trabalho, mesmo quando não 
+AL73.	Cumpre suas responsabilidades para com sua família
+AL102.	É pouco ativo(a), seus movimentos são 
+AL74.	Gosta de se exibir, fazer palhaçadas
+AL103.	É infeliz, triste ou deprimido(a) 
+AL75.	É muito acanhado(a) ou tímido(a)
+AL104.	É barulhento(a) demais 
+AL76.	Comporta-se de maneira irresponsável
+AL105.	É desorganizado(a) 
+AL106.	Tenta ser justo(a) com os outros 
+AL78.	Tem dificuldades para tomar decisões
+AL107.	Sente que não é capaz de ter sucesso 
+AL79.	Tem problemas de fala (descreva): 
+AL108.	Tem tendência a perder as coisas 
+AL80.	Fica com o olhar parado, “olhando o vazio”
+AL109.	Gosta de experimentar coisas novas 
+AL81.	Seu comportamento varia muito
+AL110.	Toma boas decisões 
+AL82.	Rouba
+AL111.	Isola-se, não se relaciona com os 
+AL83.	Entedia-se com facilidade
+AL112.	É preocupado(a) 
+AL84.	Tem comportamento estranho (descreva): 
+AL113.	Aborrece-se muito 
+AL85.	Tem ideias estranhas (descreva): 
+AL115.	É inquieto ou agitado
+AL122.	Tem dificuldade em manter um 
+AL116.	Fica perturbado(a) com muita facilidade
+AL123.	É uma pessoa feliz 
+AL118.	É muito impaciente   
+AL120.	Dirige muito rápido      
+AL121.	Tende a se atrasar nos 

@@ -1,0 +1,103 @@
+BSCA	I am good at resisting temptation	Not at all like me/A little bit like me/Somewhat like me/Mostly like me/Very much like me
+BSCB	I find it hard to break bad habits	Not at all like me/A little bit like me/Somewhat like me/Mostly like me/Very much like me
+BSCC	I wish I had more self-control	Not at all like me/A little bit like me/Somewhat like me/Mostly like me/Very much like me
+BSCD	People would say that I have strong self-control	Not at all like me/A little bit like me/Somewhat like me/Mostly like me/Very much like me
+OPPO	None of the political parties would do anything to benefit me	Strongly agree/Agree/Neither agree or disagree/Disagree/Strongly disagree
+OPJO	Having almost any job is better than being unemployed	Strongly agree/Agree/Neither agree or disagree/Disagree/Strongly disagree
+OPCH	Couples who have children should not separate	Strongly agree/Agree/Neither agree or disagree/Disagree/Strongly disagree
+OPAB	All women should have the right to choose to have an abortion if they wish	Strongly agree/Agree/Neither agree or disagree/Disagree/Strongly disagree
+OPRA	I would not mind if a family from another race moved in next door to me	Strongly agree/Agree/Neither agree or disagree/Disagree/Strongly disagree
+OPRE	I would not mind if a family from another religion moved in next door to me	Strongly agree/Agree/Neither agree or disagree/Disagree/Strongly disagree
+OPEN	Preserving the environment is more important than any other political issue today	Strongly agree/Agree/Neither agree or disagree/Disagree/Strongly disagree
+DISC	Go to a party, dance, house party or nightclub?	Most days/At least once a week/At least once a month/Several times a year/Once a year or less/Never or almost never
+THEA	Go to the theatre (for example to see a play, pantomime or opera)?	Most days/At least once a week/At least once a month/Several times a year/Once a year or less/Never or almost never
+SPOR	Go to watch live sport (for example at a stadium)?	Most days/At least once a week/At least once a month/Several times a year/Once a year or less/Never or almost never
+BAND	Sing in a choir or play in a band or orchestra?	Most days/At least once a week/At least once a month/Several times a year/Once a year or less/Never or almost never
+MGIG	Go to a live music concert or gig?	Most days/At least once a week/At least once a month/Several times a year/Once a year or less/Never or almost never
+RJOY	Read for enjoyment?	Most days/At least once a week/At least once a month/Several times a year/Once a year or less/Never or almost never
+ORGA	Go to youth clubs, explorer scouts, senior guides or other organised activities?	Most days/At least once a week/At least once a month/Several times a year/Once a year or less/Never or almost never
+LIBR	Go to a library?	Most days/At least once a week/At least once a month/Several times a year/Once a year or less/Never or almost never
+MUSM	Go to museums or galleries, visit a historic place or stately home?	Most days/At least once a week/At least once a month/Several times a year/Once a year or less/Never or almost never
+VOLW	Do voluntary or community work?	Most days/At least once a week/At least once a month/Several times a year/Once a year or less/Never or almost never
+POLM	Go to a political meeting, march, rally or demonstration?	Most days/At least once a week/At least once a month/Several times a year/Once a year or less/Never or almost never
+RLSV	Attend a religious service?	Most days/At least once a week/At least once a month/Several times a year/Once a year or less/Never or almost never
+SPFD	Spend time with friends (outside of school or work)?	Most days/At least once a week/At least once a month/Several times a year/Once a year or less/Never or almost never
+TVHO	On a normal week day, how many hours do you spend <b>watching programmes or	films</b> e.g on a television or a device such as a laptop, tablet or smartphone? Please
+remember to include time spent watching DVDs, Blu-rays etc.	None/Less than half an hour/Half an hour to less than 1 hour/1 hour to less than 2 hours/2 hours to less than 3 hours/3 hours to less than 5 hours/5 hours to less than 7 hours/7 hours to less than 10 hours/10 hours or more
+COMH	On a normal week day, how many hours do you spend <b>playing games, including online games</b>, on a computer, tablet, smartphone or games systems, such as Wii, Nintendo DS, Xbox or PlayStation?	None/Less than half an hour/Half an hour to less than 1 hour/1 hour to less than 2 hours/2 hours to less than 3 hours/3 hours to less than 5 hours/5 hours to less than 7 hours/7 hours to less than 10 hours/10 hours or more
+SOME	On a normal week day, how many hours do you spend on social networking or messaging sites or apps on the internet such as Facebook, Twitter, WhatsApp, Instagram and Snapchat?	None/Less than half an hour/Half an hour to less than 1 hour/1 hour to less than 2 hours/2 hours to less than 3 hours/3 hours to less than 5 hours/5 hours to less than 7 hours/7 hours to less than 10 hours/10 hours or more
+SOCM	I think I am addicted to social media	Strongly agree/Agree/Disagree/Strongly disagree
+SOCH	I’m more connected and happier online than I am in real life	Strongly agree/Agree/Disagree/Strongly disagree
+GAMA	Fruit machines?	Yes/No
+GMBL	Placing a private bet for money (e.g. with friends)?	Yes/No
+GAEM	Placing a bet at a betting shop (e.g. on football or horseracing)?	Yes/No
+GAMJ	Any other gambling (e.g. online gambling)?	Yes/No
+KNIF	In the last 12 months have you carried a knife or other weapon?	True/False
+GANG	Are you a member of a <b>street gang</b>?	True/False
+POLS	Have you ever been stopped and questioned by the police?	True/False
+CAUT	Have you ever been given a formal warning or caution by a police officer?	True/False
+ARES	Have you ever been arrested by a police officer and taken to a police station?	True/False
+EXWT	In the last 12 months, have you exercised to lose weight or to avoid gaining weight?	True/False
+ETLS	In the last 12 months, have you eaten less food, fewer calories, or foods low in fat to lose	True/False
+LSWT	Which of the following are you trying to do about your weight?	I am not trying to do anything about my weight/Lose weight/Gain weight/Stay the same weight
+BRKN	How often do you eat breakfast over a week?	Never/Some days, but not all days/Every day
+FRUT	How often do you eat at least 2 portions of fruit per day?	Never/Some days, but not all days/Every day
+VEGI	How often do you eat at least 2 portions of vegetables including salad, fresh, frozen or tinned vegetables per day?	Never/Some days, but not all days/Every day
+BRED 	Which type of bread do you normally eat?	I only eat white bread/I sometimes eat white bread, sometimes I eat brown or granary or wholemeal bread (including 50:50 bread)/I only eat brown/granary bread (including 50:50 bread)/I sometimes eat brown/granary bread (including 50:50 bread), sometimes I eat wholemeal bread/I only eat wholemeal bread/I never eat bread
+MILK	Which type of milk do you usually have?	I only have whole milk/I sometimes have whole milk, sometimes I have semi-skimmed or skimmed milk/I only have semi-skimmed milk/I sometimes have semi-skimmed, sometimes I have skimmed milk/I only have skimmed milk/I only have 1% fat milk/I have soya milk or other non-cow milk/I never have milk
+ASWD	How often, if at all, do you drink diet drinks or sugar-free drinks like diet cola or sugar-free squash?	More than once a day/Once a day/3-6 days a week/1-2 days a week/Less often but at least once a month/Less than once a month/Hardly ever or never
+SWTD	How often, if at all, do you drink sugary drinks like regular cola or squash?	More than once a day/Once a day/3-6 days a week/1-2 days a week/Less often but at least once a month/Less than once a month/Hardly ever or never
+TKWY	How often, if at all, do you eat fast food such as McDonalds, Burger King, KFC or other fast food like that?	More than once a day/Once a day/3-6 days a week/1-2 days a week/Less often but at least once a month/Less than once a month/Hardly ever or never
+RSKA	Would you prefer:	A 50-50 chance of £240 or £132 for certain
+RSKB	Would you prefer:	A 50-50 chance of £240 or £120 for certain
+RSKC	Would you prefer:	A 50-50 chance of £240 or £108 for certain 
+RSKD	Would you prefer:	A 50-50 chance of £240 or £96 for certain 
+RSKE	Would you prefer:	A 50-50 chance of £240 or £84 for certain 
+RSKF	Would you prefer:	A 50-50 chance of £240 or £72 for certain 
+RSKG	Would you prefer:	A 50-50 chance of £240 or £60 for certain 
+RSKH	Would you prefer:	A 50-50 chance of £240 or £48 for certain 
+RSKI	Would you prefer:	A 50-50 chance of £240 or £36 for certain 
+RSKJ	Would you prefer:	A 50-50 chance of £240 or £24 for certain 
+PRFA	Would you prefer:	£50 in two months or £50 in four months
+PRFB	Would you prefer:	£50 in two months or £52 in four months
+PRFC	Would you prefer:	£50 in two months or £55 in four months
+PRFD	Would you prefer:	£50 in two months or £60 in four months
+PRFE	Would you prefer:	£50 in two months or £70 in four months
+PRFF	Would you prefer:	£50 in two months or £80 in four months
+PRFG	Would you prefer:	£50 in two months or £90 in four months
+PRFH	Would you prefer:	£50 in two months or £100 in four months
+PRFI	Would you prefer:	£50 in two months or £120 in four months
+PRFJ	Would you prefer:	£50 in two months or £150 in four months
+RELE	What is your religion?	No religion/Christian (including Church of England, Catholic, Protestant and all other Christian denominations)/Buddhist/Hindu/Jewish/Muslim/Sikh/Any other religion
+RELW	What is your religion?	No religion/Christian (all denominations)/Buddhist/Hindu/Jewish/Muslim/Sikh/Any other religion
+RELS	What is your religion?	None/Church of Scotland/Roman Catholic/Other Christian/Muslim/Buddhist/Sikh/Jewish/Hindu/Another religion or body
+RELN	What is your religion?	Roman Catholic/Presbyterian Church in Ireland/Church of Ireland/Methodist Church in Ireland/Other (PLEASE WRITE IN)/None
+LANF	Which languages do you speak with your friends?	English/Welsh/Gaelic/Urdu/Punjabi/Gujarati/Hindi/Bengali/Sylheti/Cantonese/Somali/Tamil/Turkish/Kurdish/Arabic/Other
+HLAN	Which languages do you speak at home?	English/Welsh/Gaelic/Urdu/Punjabi/Gujarati/Hindi/Bengali/Sylheti/Cantonese/Somali/Tamil/Turkish/Kurdish/Arabic/Other
+UNIQ	Are you currently studying at university?	Yes/No
+STYR	How likely (0-100%) do you think it is that you <b>will go</b> to university?  
+REUN	What is the main reason why you might or will <b>go</b> to university?	To gain qualifications to get a better job/pursue the career I want/To learn more/ increase my knowledge/I enjoy education /I feel I should go to university/My parent(s)/relatives recommend that I should go/My teachers recommend that I should go/My friends will go/I would enjoy the social life/To get away from home /To experience new things/places/Other (PLEASE WRITE IN) 
+STUN	What is the main reason why you might not or will <b>not go</b> to university?	I will not get the grades/I / my family can’t afford it  /I would prefer to get a job / start a career/Going to university will not help me in my future career/I'm not interested in going to university / I wouldn’t enjoy it/I want to start a family/Parent(s) / relatives recommend that I should leave after/Because my friends plan to leave after/It is too early to decide whether I would stay on or not/Other (PLEASE WRITE IN)  
+COST	How much do you think it would cost in total to get a three-year undergraduate degree? Include tuition fees and the cost of living expenses from going to university.	£1-9,999 /£10,000-19,999 /£20,000-29,999 /£30,000-39,999 /£40,000-49,999 /£50,000-59,999 /£60,000-69,999 /£70,000-79,999 /£80,000-89,999 /£90,000-99,999 /More than £100,000
+CNFA	How confident are you in your answer about the cost of a three-year undergraduate degree?	Very confident /Confident /Slightly confident /Not at all confident 
+QZPY	Student loans only start being repaid once earnings are above a certain level 	True/False
+QZLN	Any student loans outstanding after a given number of years are written off 	True/False
+PDJA	…<b>don’t<b> go to university?	0-100
+PDJB	…<b>do<b> go to university?	0-100
+EARN	…<b>don’t<b> go to university?	0-9999997
+ERNU	…<b>do<b> go to university?	0-9999997
+CARR	What job do you think you will be doing when you are 30?
+ASPR	By the time you are 30, which of the following do you think you will have achieved?	Owning your own home /Having a good car /Earning a lot of money /Having a worthwhile job /Having children /Having a partner or being married /Being famous or making a name for yourself /Having a personal achievement in sport, the arts or travel etc. /None of these (EXCLUSIVE)
+SQLT	During the past month, how would you rate your sleep quality overall? Would you say it has	Very true/Partly true/Not true at all
+SAFF	I have family and friends who help me feel safe, secure and happy	Very true/Partly true/Not true at all
+TRSS	There is someone I trust whom I would turn to for advice if I were having problems	Very true/Partly true/Not true at all
+NCLS	There is no one I feel close to	Very true/Partly true/Not true at all
+LWPA	Do you live with your parent(s)?	Yes/No
+OUTW	How often do your parents know where you are going when you go out?	Always/Usually/Sometimes/Never
+OTNT	If you go out at night, do your parents ever set a time for you to be back by?	Always/Usually/Sometimes/Never/Not allowed out / don't go out
+CARE	Some people have extra responsibilities because they look after someone who has long-term physical or mental health difficulties or disability, or problems related to old age.	Yes/No
+CRWO	Please tell us who you care for.	Your mother/Your father/Your brother(s)/Your sister(s)/Your grandmother(s)/Your grandfather(s)/Somebody else
+CRHR	Taking account of all the unpaid help you give, including travelling time, about how long did you spend looking after people last week?	0-2 hours/3-4 hours/5-9 hours/10-19 hours/20-29 hours/30 hours or more
+TRSC	Now thinking about getting to the place you study or work. How do you usually travel?	Public transport, such as bus, train, tram or underground/School or local authority bus, minibus or coach/Car or other vehicle (including taxi)/Bicycle/Walking/Other
+CYCF	How often do you use a bicycle?	Every day or almost every day/Several times a week/Once or twice a week/At least once a month/Every few months/At least once a year/Less often or never/Do not use a bicycle
+TRTI	Thinking of your usual journey on a typical day, how long does it take you to get from home to school, college, university, training place or work <b>one way</b>?	Under 5 minutes/5 minutes to under 15 minutes/15 minutes to under 30 minutes/30 minutes to under 45 minutes/45 minutes to under 1 hour/1 hour to under 2 hours/2 or more hours/I am not in training, in work or going to school, college or university

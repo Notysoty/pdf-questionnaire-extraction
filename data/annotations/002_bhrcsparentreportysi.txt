@@ -1,0 +1,26 @@
+N1	As descrişōes a seguir servem para ele(a)?
+a)	Generoso(a)	Não/Um pouco/Muito
+b)	Animado(a)	Não/Um pouco/Muito
+c)	Tem vontade de aprender	Não/Um pouco/Muito
+d)	Afetuoso(a)	Não/Um pouco/Muito
+e) 	Confiǎvel e responsǎvel	Não/Um pouco/Muito
+f)	Fǎcil de lidar	Não/Um pouco/Muito
+g)	Divertido(a), com senso de humor	Não/Um pouco/Muito
+h) 	Interessado em muitas coisas	Não/Um pouco/Muito
+i)	Carinhoso(a), bom-coraçǎo	Não/Um pouco/Muito
+j)	Se algo dǎ errado, levanta a cabeça e segue em frente	Não/Um pouco/Muito
+k)	Agradecido(a), dǎ valor ao que recebe	Não/Um pouco/Muito
+l)	Independente	Não/Um pouco/Muito
+N2 	Quais sǎo as coisas que ele/a faz que realmente lhe agradam?	Não/Um pouco/Muito
+a)	Ajuda em casa	Não/Um pouco/Muito
+b)	Se dǎ bem com o resto da familia	Não/Um pouco/Muito
+c)	Faz a licǎo de casa sem precisar ser lembrado(a)	Não/Um pouco/Muito
+d)	Atividades criativas: artes interpretaçǎo, musica, trabalhos manuais	Não/Um pouco/Muito
+e)	Gosta de estar envolvido(a) em ativides familiares	Não/Um pouco/Muito
+f) 	Cuida da aparěncia	Não/Um pouco/Muito
+g)	Bom/boa em trabalhos escolares	Não/Um pouco/Muito
+h)	Educado(a)	Não/Um pouco/Muito
+i)	Bom/boa em esportes	Não/Um pouco/Muito
+j)	Mantèm o quarto arrumado	Não/Um pouco/Muito
+k)	Bom/boa com amigos	Não/Um pouco/Muito
+l)	Bem comportado(a)	Não/Um pouco/Muito

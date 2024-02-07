@@ -1,0 +1,12 @@
+CB5a. 	...se dá com os irmãos/irmãs?	Pior/Igual/Melhor /Não sabe/não se aplica
+CB5b. 	...se dá com outros adolescentes?	Pior/Igual/Melhor /Não sabe/não se aplica
+CB5c. 	...se comporta em relação aos pais?	Pior/Igual/Melhor /Não sabe/não se aplica
+CB5d. 	...brinca ou trabalha sozinho?	Pior/Igual/Melhor /Não sabe/não se aplica
+CB4a. 	Português ou Literatura	Insuficiente (abaixo da média exigida pela escola)/ Pior /Igual /Melhor /Não sabe não se aplica
+CB4b. 	História ou Estudos Sociais	Insuficiente (abaixo da média exigida pela escola)/ Pior /Igual /Melhor /Não sabe não se aplica
+CB4c. 	Matemática	Insuficiente (abaixo da média exigida pela escola)/ Pior /Igual /Melhor /Não sabe não se aplica
+CB4d. 	Ciências	Insuficiente (abaixo da média exigida pela escola)/ Pior /Igual /Melhor /Não sabe não se aplica
+CB4e. 	Geografia	Insuficiente (abaixo da média exigida pela escola)/ Pior /Igual /Melhor /Não sabe não se aplica
+CB4f. 	Inglês ou Espanhol (Língua estrangeira)	Insuficiente (abaixo da média exigida pela escola)/ Pior /Igual /Melhor /Não sabe não se aplica
+CB4g. 	Computação	Insuficiente (abaixo da média exigida pela escola)/ Pior /Igual /Melhor /Não sabe não se aplica
+CB4h. 	Biologia	Insuficiente (abaixo da média exigida pela escola)/ Pior /Igual /Melhor /Não sabe não se aplica		

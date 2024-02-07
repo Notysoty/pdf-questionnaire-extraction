@@ -1,0 +1,24 @@
+1	Do you often have backache?	
+2	Do you feel tired most of the time?	
+3	Do you often feel miserable or depressed?	
+4	Do you often have bad headaches?	
+5	Do you often get worried about things?	
+6	Do you usually have great difficulty in falling or staying asleep?	
+7	Do you usually wake unnecessarily early in the morning?	
+8	Do you wear yourself out worrying about your health?	
+9	Do you often get in a violent rage?	
+10	Do people often annoy and irritate you?	
+11	Have you at times had twitching of the face, head or shoulders?	
+12	Do you often suddenly become scared for no good reason?	
+13	Are you scared to be alone when there are no friends near you?	
+14	Are you easily upset or irritated?	
+15	Are you frightened of going out alone or of meeting people?	
+16	Are you constantly keyed up and jittery?	
+17	Do you suffer from indigestion?	
+18	Do you suffer from an upset stomach?	
+19	Is your appetite poor?	
+20	Does every little thing get on your nerves and wear you out?	
+21	Does your heart often race like mad?	
+22	Do you often have bad pains in your eyes?	
+23	Are you troubled with rheumatism or fibrositis?	
+24	Have you ever had a nervous breakdown?	

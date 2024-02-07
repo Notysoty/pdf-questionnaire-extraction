@@ -1,0 +1,231 @@
+1	Name and Address:	Full name of Mother/Mother's maiden name/Address of mother's normal place of residence/County of County Borough/Address where this delivery 	occured/Hospital number
+2	Date of birth of mother:	Day/Month/Year
+3	Town and Country of birth:	Mother of baby/Father of baby/Mother's mother
+4	Age at which full-time education was completed (including college or university)	Mother of baby_____ years/Father of baby_____ years/
+5	Date of marriage	____/____/19___
+6	Present marital status:	Single/Married/Widowed/Divorced/Separated/Not known
+7	Occupation	Actual job____/Description of job____/Self employed/Not self employed/Employed at present/Unemployed at present
+8	Does the mother care for children at home (including adopted and foster children)? Yes/No/Not known/If yes: give details of who is looking after them now./Living at home/ 	Living away from home
+9	Since January, 1968 was any form of contraception was any form of contraception used?	Yes/No/Not known
+	If YES:what method was used	Pill/Alone/With other method/Other methods/Not known
+	If the pill was used:	How many different brands have been used?	Name of Pills used and period taken
+10	What type of antenatal preparation did the mother receive during this pregnancy?	
+	a)In mothercraft (e.g. care of the baby)	None/Individual instruction /L.H.A. Clinic/Hospital/Other (specify)_____/Not known
+	b)	Inpreparation for labour (e.g. exercises, relaxation, etc.)	None/Individual instruction/L.H.A. Clinic/Hospital/Other (specify)/Not known
+11	Smoking:
+	a)	Does the mother smoke now?	Yes/No/Not known
+	b)	If NO to 11a, did she ever smoke?	Yes/No/Not known
+	c)	If YES to 11b how long ago did she stop?	____years_____ months
+	d)	How much does/did she smoke? Cigarettes per day		1-4/5-14/15-24/25 or more/Not known
+	e)	Has she smoked during this pregnancy?	Yes/No/Not known
+12	Part 1 was completed by: 
+	Interviewing the mother 
+	Using records 
+	Hospital
+	G.P.
+	Midwife
+	Co-operation Card
+	Other (specify)
+Q8.	Does the mother care for children at home (including adopted and foster children)?
+	Details of who 1st instance=A0021
+	No. of children  1st instance=A0022
+	Details of who 2nd instance=A0023
+	No. of children  2nd instance=A0024
+	Details of who 3rd instance=A0025
+	No. of children  3rd instance=A0026
+	Details of who 4th instance=A0027
+	No. of children 4th instance=A0028
+Q9.	Since January, 1968 was any form of contraception used?
+	Month stopped Pill=A0029D
+	Months on pill 1=A0029F
+	Months on pill 2=A0029H
+	Months on pill 3=A0029J
+	Months on pill 4=A0029L
+	Months on pill 5=A0029N
+	Any gaps between contraceptive use=A0029P
+13	Previous pregnancies	Give details of all previous pregnancies (include miscarriages and ectopics) in the order of occurence (the earliest first)
+14	Total number of recorded antenatal visits	
+	Date of first visit____/19___/Date of last visit__/19__
+	Who undertook the antenatal care?
+	Hospital medical staff
+15	What was the first day of the last normal menstrual period?	____/____/1969
+	Was this date recorded as being	Certain/Uncertain/Not known
+16	Standing height of the mother	_____ft_____ins or ____cms
+17	Mother's blood group	O/A/B/AB/Not known
+	Rh factor	Positive/Negative/Not known
+	Rh antibodies	Present/Absent//Not known
+	Were haemoglobon estimations done?	Yes/No/Not known
+	If YES: Number of times estimated	Highest value _____Date__/__/19__/Lowest value___Date__/__/19__
+	W.R. or similar test	Negative/Positive/Not done/Not known
+Q13	Previous pregnancies
+	No. of previous pregnancies= A0163
+	No. of previous pregnancies (entries on file)=A0164
+	No. of twinned pregnancies=A0165
+	Parity=A0166
+	No. of previous miscarriages=A0167
+	No. of previous pregnancies miscarriaged=A0168
+	No. of stillbirths=A0169
+	No. of deaths <7 days=A0170
+	No. of deaths 7 days+=A0171
+Q15.	What was the first day of the last normal menstrual period?	
+	Gestational age in days= A0195A
+	Gestational age in months=A0195B
+	Is the last normal menstrual period date believable?=A0196A
+Q17	Were haemoglobin estimations done?
+	Highest haemoglobin estimation=A0205A
+	Lowest haemoglobin estimation=A0205B
+18	Blood pressures during antenatal period		Reading/Date
+	First (or only)		Reading/Date
+	Highest systolic	Reading/Date
+	Last before labour	Reading/Date
+	Not recorded 	Reading/Date
+	Not known	Reading/Date
+	Was there any non-infective proteinuria?	Yes/No/Not known
+	Was pitting oedema present?	Yes/No/Not known
+	Were there any eclamptic fits prior to labour?	Yes/No/Not known
+19	Has the mother clinical diabetes?	Yes/No/Not known
+20	Was there any bleeding from the genital tract after the last period and before the onset of labour?	Yes/No/Not known
+	If YES: Number of bleeds_____/19___
+	Date of first (or only) bleed _____/19___
+	Date of last bleed_____/19___
+	Placenta Praevia
+	Accidental Haemorrhage (Abruptio Placentae)
+	Threatened Abortion
+	Other (specify)
+21	X-rays taken of the mother during pregnancy	
+	None
+	Chest
+	Abdomen
+	Pelvis
+	Other (specify)
+	Not known	
+22	Did the mother have any inpatient care during the antenatal period (exculding admissions in labour or false labour?)	Yes/No/Not known
+	If YES: Give date(s) of admission(s)
+23	Where was the mother delivered?		At home/In an NHS Consultant Hospital 	Consultant bed/GP bed/NHS GP Maternity Unit without resident medical 	officer/Private/Other(specify)
+	Was the mother booked for delivery at the place where her confinement occured?	Yes/No/Not known
+	If Yes, give the date of booking ___/___/19___
+24	Did labour start	Spontaeously/Induced/Not known
+	If INDUCED, what methods were used?	Oxytocic Drugs	Intravenous Drip/Buccal/Other/Artificial rupture of membranes/Other(specify)/Not known
+	What was the time interval between the rupture of the membranes and the delivery?	Less than 24 hours/24-47 hours/48 hours or more/Not known
+25	Was the birth	Single/Twin/Triplet/Other(specify)
+	What was the the outcome of the delivery? Prior to 28 weeks of gestation	Abortion/Livebirth	28 weeks or more gestation	Stillbirth/Livebirth	Sex	Male/Female
+26	Give the length of each stage of labour	First Stage/Hours/Minutes	Second Stage/Hours/Minutes	Third stage/Hours/Minutes
+Q18.	Blood pressures during antenatal period		Reading	Systolic/Diastolic	Date	Day/Month
+	First (or only)		Reading	Systolic/Diastolic	Date	Day/Month
+	Highest systolic	Reading	Systolic/Diastolic	Date	Day/Month
+	Highest diastolic	Reading	Systolic/Diastolic	Date	Day/Month
+	Last before labour	Reading	Systolic/Diastolic	Date	Day/Month
+	Not recorded	Reading	Systolic/Diastolic
+	Not known	Reading	Systolic/Diastolic
+Q22.	Did the mother have any inpatient care duting the antenatal period (exluding admissionsin labour or false labour?)
+	No. times mother discharged=A0237
+	Date of 1st/Only admission(days)=A0238A
+	Date of 1st/Only admission(months)=A0238B
+	Date of discharged from 1st admission (days)=A0239A 
+	Date of discharged from 1st admission (months)=A0239B
+	Date of last admission (days)=A0240A
+	Date of last admission (months)=A0240B
+	Date of last discharge (days)=A0241A
+	Date of last discharge (months)=A0241B
+27	During labour did the fetal heart rate	Remain between 120 and 160/Rise above 160/Fall below 120/Not known
+	Was there passage of meconium?	Yes/No/Not known
+28	Delivery
+	Spontaeous cephalic	anterior/posterior/Spontaeous breech
+	Operative delivery Forceps	Cephalic/with breech/Other(specify)/Caesaran section/Vacuum extraction/Other(specify)
+29	Relief of pain during labour
+	Analgesics inhalation	Gas/oxygen /Gas/Air /Trilene
+	Drugs	Pethidine/Pethilorfan/Morphia/Fortral/Psychoprophylaxis/Hypnosis/Decompression/Other(specify)
+30	Did a postpartrum haemorrhage of 500 ml. or more occur?	Yes/No/Not known
+	Was a blood trasfusion given?	Yes/No/Not known
+	Did the mother have a manual removal of the placenta?	Yes/No/Not known
+31	When was the regular respiration established?	Less than 1  minute/1-3 minutes/More than 3 minutes/Not known
+	Administration of oxygen	None/Face funnel/Face mask/Nasal tube/Endotracheal tube/Incubator/Other(specify)/Not Known
+	Other methods of resuscitation	None/Mouth to mouth resuscitation/Mucus extraction/Stomach aspiration/Other(specify)/Not known
+	Was Vitamin K (e.g. Synkavit, Konakion) given?	Yes/No/Not known
+	Were eye drops used prophylactically?	None/albucid/Silver Nitrate/Other(specify)/Not known
+	Did the baby have:	Lethidrone (Nalorphine)	Yes/No/Not known
+	Vanillic Acid (Vandid)	Yes/No/Not known
+	Other treatments given  to baby	None/Yes(specify)/Not known
+32	Birthweight of baby _____lbs.____ozs or _____gm
+	Age of baby when weighed	Under 12 hours/12-23 hours/24-35 hours/36 hours or more/Not known
+	Lowest recorded  weight of baby ___lbs. ___ozs. or ___ gm
+	Date of thisweighing _____
+33	Was there an episiotomy or tear?	Episiotomy/Third degree tear/Other tear/None/Not known
+34	Who undertook the delivery?	Midwife	Domiciliary/Hospital/Pupil Midwife/Consultant Obstetrician/Registrar/House officer/G.P./Medical Student/Other(specify)
+35	Part II was completed by	Using records	Hospital/G.P./Midwife/Co-operation Card	Personal Communication	Hospital doctor/G.P./Midwife/Other(specify)
+36	Did the mother have any evidence  of eclapsia occuring for the first time in labour or the puerperium?	Yes/No/Not known
+37	During the first seven days after the delivery did the mother:	Have any urinary infection?	Yes/No/Not known	
+	Have any genital tract infection?	Yes/No/Not known
+	Have any venous complication of the legs?	None/In superficial veins/In deep veins/Not known
+	Have any operations in puerperium?	None/Sterilisation/Other(specify)/Not known
+	Have any other morbidity or illness?	No/Yes(specify)/Not known
+	Have a haemoglobin estimation done?	Yes/No/Not known
+38	Was the baby medically examined within the first 24 hours?	Yes/No/Not  known	
+	If YES, by whom?	Consultant Obstetrician/Obstetric Registrar/Obstetric House Officer/Consultant Paediatrician/Paediatric Registrar/Paediatric House 	Officer/G.P./Other(specify)/Not known
+39	Was lactation	Attempted/Not Attempted/Not known	Was it	Suppressed/Not suppressed/Not known
+	If SUPPRESSED, was oestrogen used?	No/Yes(specify type)/Not known
+40	What type of feed did the baby have during each of the 24 hour periods after birth?
+	1st	None/Water/Sugar solution/Breast milk/Dried milk full cream/Half cream/Humanised/Evaporated milk/Other specify/Not known
+	2nd	None/Water/Sugar solution/Breast milk/Dried milk full cream/Half cream/Humanised/Evaporated milk/Other specify/Not known
+	3rd	None/Water/Sugar solution/Breast milk/Dried milk full cream/Half cream/Humanised/Evaporated milk/Other specify/Not known
+	4th	None/Water/Sugar solution/Breast milk/Dried milk full cream/Half cream/Humanised/Evaporated milk/Other specify/Not known
+	5th	None/Water/Sugar solution/Breast milk/Dried milk full cream/Half cream/Humanised/Evaporated milk/Other specify/Not known
+	6th	None/Water/Sugar solution/Breast milk/Dried milk full cream/Half cream/Humanised/Evaporated milk/Other specify/Not known
+	7th	None/Water/Sugar solution/Breast milk/Dried milk full cream/Half cream/Humanised/Evaporated milk/Other specify/Not known
+41	Congenital Abnormalities of the baby:	No abnormality/Anencephaly/Spina bifida with hydrocephalus/Spina bifida without hydrocephalus/Hydrocephalus only/Cleft lip and/or 	palate/Down's syndrome(mongolism)/Talipes/Abnormalities of the hip/Extra digits/Naevi/Other(specify)
+42	What was the lowest recorded rectal temperature?_____	Date____/April/1970	Less than 24 hours of file/24 hours or later/Not recorded
+	Was a low reading thermometer i.e. recording 85°F (30°C) or lower used?	Yes/No/Not known
+	Was the baby examined for congenital dislocation of the hip?	Yes/No/Not known
+	Was the baby tested for phenylketonuria	Yes(specify method used)/No/Not known
+	Was the baby jaundiced?	Yes	Less than 24 hours of life/24 hours or later/No/Not known	Maximum serum bilirubin level	Date____/April__/1970	   Cause (if 	known)
+	Was the baby's blood sugar level taken?	Yes/No/Not known	Minimum level	Date____/April__/1970	Age of baby if less than 24 hours
+	Did the baby develop any breathing difficulties, including respiratory destress syndrome?	Yes(specify)/No/Not known	
+	Did the baby have cyanotic attacks?	Yes/No/Not known
+43	If the baby was discharged during the first seven days, what was the date of the last medical examination?____/April/1970
+	Examined by	Consultant Obstetrician/Obstetric Registrar/Obstetric House Officer/Consultant Paediatrician/Paediatrician House officer/G.P./Other(specify)/Not known
+44	Where was the baby cared for each day?	
+	Day of birth	By mother's bed day and night/Day only/In ward nursery/In special care unit/In a neonatal surgical unit/Elsewhere(specify)
+	Days following birth
+	1st	By mother's bed day and night/Day only/In ward nursery/In special care unit/In a neonatal surgical unit/Elsewhere(specify)
+	2nd	By mother's bed day and night/Day only/In ward nursery/In special care unit/In a neonatal surgical unit/Elsewhere(specify)
+	3rd	By mother's bed day and night/Day only/In ward nursery/In special care unit/In a neonatal surgical unit/Elsewhere(specify)
+	4th	By mother's bed day and night/Day only/In ward nursery/In special care unit/In a neonatal surgical unit/Elsewhere(specify)
+	5th	By mother's bed day and night/Day only/In ward nursery/In special care unit/In a neonatal surgical unit/Elsewhere(specify)
+	6th	By mother's bed day and night/Day only/In ward nursery/In special care unit/In a neonatal surgical unit/Elsewhere(specify)
+	7th	By mother's bed day and night/Day only/In ward nursery/In special care unit/In a neonatal surgical unit/Elsewhere(specify)
+	Day of birth	In a cot/In an incubator/Elsewhere(specify)
+	Days following birth
+	1st	In a cot/In an incubator/Elsewhere(specify)
+	2nd	In a cot/In an incubator/Elsewhere(specify)
+	3rd	In a cot/In an incubator/Elsewhere(specify)
+	4th	In a cot/In an incubator/Elsewhere(specify)
+	5th	In a cot/In an incubator/Elsewhere(specify)
+	6th	In a cot/In an incubator/Elsewhere(specify)
+	7th	In a cot/In an incubator/Elsewhere(specify)
+45	Where was the the mother during teh first seven days?
+	Day of birth	N.H.S. Consultant Hospital	Consultant bed/G.P. Bed/N.H.S. G.P. Maternity Unit without resident medical officer/Private Maternity Home/Own home or 	other private household/Other (specify)
+	Days following birth
+	1st	N.H.S. Consultant Hospital	Consultant bed/G.P. Bed/N.H.S. G.P. Maternity Unit without resident medical officer/Private Maternity Home/Own home or other 	private household/Other (specify)
+	2nd	N.H.S. Consultant Hospital	Consultant bed/G.P. Bed/N.H.S. G.P. Maternity Unit without resident medical officer/Private Maternity Home/Own home or other 	private household/Other (specify)
+	3rd	N.H.S. Consultant Hospital	Consultant bed/G.P. Bed/N.H.S. G.P. Maternity Unit without resident medical officer/Private Maternity Home/Own home or other 	private household/Other (specify)
+	4th	N.H.S. Consultant Hospital	Consultant bed/G.P. Bed/N.H.S. G.P. Maternity Unit without resident medical officer/Private Maternity Home/Own home or other 	private household/Other (specify)
+	5th	N.H.S. Consultant Hospital	Consultant bed/G.P. Bed/N.H.S. G.P. Maternity Unit without resident medical officer/Private Maternity Home/Own home or other 	private household/Other (specify)
+	6th	N.H.S. Consultant Hospital	Consultant bed/G.P. Bed/N.H.S. G.P. Maternity Unit without resident medical officer/Private Maternity Home/Own home or other 	private household/Other (specify)
+	7th	N.H.S. Consultant Hospital	Consultant bed/G.P. Bed/N.H.S. G.P. Maternity Unit without resident medical officer/Private Maternity Home/Own home or other 	private household/Other (specify)
+46	If the mother moved who was informed?
+	First move	G.P./Local Health Department/Midwife	Domiciliary/G.P. Unit/ Hospital or G.P. Unit/Other(specify)
+	Second move	G.P./Local Health Department/Midwife	Domiciliary/G.P. Unit/ Hospital or G.P. Unit/Other(specify)
+	Third move	G.P./Local Health Department/Midwife	Domiciliary/G.P. Unit/ Hospital or G.P. Unit/Other(specify)
+	Who  were they informed?
+	First move	Letter/Telephone/Personal Communication/Other(specify)
+	Second move	Letter/Telephone/Personal Communication/Other(specify)
+	Third move	Letter/Telephone/Personal Communication/Other(specify)
+	When where they informed?
+47	Part III was completed by:	Using records	Hospital/G.P./Midwife/Co-operation Card		Personal Communnication	Hospital Doctor/G.P./Midwife/Other
+48	Name of baby (if known)
+49	ABORTIONS, STILLBIRTHS AND NEONATAL DEATHS ONLY		Date of death_____
+	Was a postmortem  performed?	Yes/No/Not known	Cause of death (attach P.M. report if available_________
+Q46	If the mother moved who was informed? 	
+	First move	Person informed/G.P./Local  Health department/Midwife	Domiciliary/G.P. Unit/Hospital or G.P. Unit/Other(specify)
+	Second move	Person informed/G.P./Local  Health department/Midwife	Domiciliary/G.P. Unit/Hospital or G.P. Unit/Other(specify)
+	Third move	Person informed

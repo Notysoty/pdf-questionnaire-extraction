@@ -1,0 +1,4266 @@
+
+Journal of Counseling Psychology
+1996, Vol. 43, No. 4, 490-501
+
+Copyright 1996 by the American Psychological Association, Inc.
+0022-0167/96/S3.00
+
+Development and Validation of the Index of Race-Related Stress (IRRS)
+
+Shawn O. Utsey and Joseph G. Ponterotto
+Fordham University at Lincoln Center
+
+This article describes the development and validation of a measure of the stress experienced
+by African Americans as a result of their daily encounters with racism and discrimination.
+The Index of Race-Related Stress (IRRS) is a 46-item instrument developed according to the
+theoretical framework of daily hassles (R. S. Lazarus & S. Folkman, 1984) and integrated
+with P. Essed's (1990) concept of everyday racism. The IRRS has adequate indexes of
+internal consistency and fair-to-adequate estimates of test-retest stability. Several subscales
+of the IRRS and a global racism index were correlated with other measures of stress and
+racism. Furthermore, the IRRS discriminated between Blacks and non-Blacks in a group-
+differences study. Both principal-components and confirmatory factor analyses supported a
+4-component model of race-related stress.
+
+Racism and acts of discrimination against African Amer-
+icans have taken on various forms over the past 350 years,
+ranging from lynchings, burnings, beatings, and other forms
+of direct violence to more subtle slights and innuendoes
+(Duckitt, 1992; Ponterotto & Pederson, 1993; Thompson,
+Neville, Weathers, Poston, & Atkinson, 1990). There have
+been several scholarly works of historical significance ex-
+amining the nature of racism and discrimination in relation
+to the experiences of African Americans in the United
+States (e.g., Allport, 1954; Dovidio & Gaertner, 1986; Duc-
+kitt, 1992; Essed, 1990; Myrdal, 1944; Jones, 1972; Petti-
+grew, 1964; Simpson & Yinger, 1985). For the most part,
+racism has been of interest primarily to social psychologists
+who study the development and expression of prejudice and
+in-group/out-group attitudes, or sociologists who are pri-
+marily concerned with the outcome effects of racism and
+discrimination on groups of people within society. How-
+ever, psychologists have more recently begun to examine
+the clinical significance of racism and its relationship to the
+psychological well-being of African Americans who expe-
+rience it as a chronic stressor in their daily lives (see Burke,
+1984; Fernando, 1984; Jackson, Williams, & Torres, 1995;
+McNeilly et al., in press; Smith, 1985; White & Parham,
+1990).
+
+Despite some perceived progress made in U.S. race rela-
+tions over the last three decades, many writers believe that
+for African Americans, racism continues to be an inescap-
+able and painful reality of daily life (Essed, 1990; Feagin &
+
+Shawn O. Utsey and Joseph G. Ponterotto, Psychological and
+Educational Services, Fordham University at Lincoln Center.
+
+We gratefully acknowledge Dorinda Trader, Pat Vincent,
+Reginald Gougis, Lisa Whitten, and the many others who assisted
+with data collection, and Khayriyyah Abdul-Lateef for her excel-
+lent editorial work on several drafts of this article. We also thank
+James S. Jackson, Francis Terrell, and Shelly Harrell for their
+assistance in locating relevant literature.
+
+Correspondence concerning this article should be addressed to
+Shawn O. Utsey, who is now at 214-37 36th Avenue, Bayside,
+New York 11361. Electronic mail may be sent via Internet to
+utsey @ mary.fordham.edu.
+
+Sikes, 1994; McNeilly et al., in press). Essed (1990), in her
+groundbreaking qualitative study of the daily experiences of
+Blacks with racism, described the chronic nature of the
+stress associated with racism this way: "to live with the
+threat of racism means planning, almost everyday of one's
+life, how to avoid or defend oneself against discrimination"
+(p. 260). The experience of racism for African Americans is
+cumulative, whereby new encounters are interpreted on the
+basis of past experiences with racism, knowledge of others'
+experience with racism, and knowledge about the systemic
+nature of racism (Essed, 1990; Feagin & Sikes, 1994).
+
+According to Dovidio and Gaetner (1986) racism is em-
+bedded in the "social norms, institutional policies, and cog-
+nitive and affective systems of White Americans" (p. xi)
+and as a result has a significant adverse impact on the
+quality of life for African Americans. Racism can occur in
+three spheres: (a) individual racism, experienced on a per-
+sonal level; (b) institutional racism, experienced as a result
+of racism being embedded in the policies of a given insti-
+tution; and (c) cultural racism, results from the cultural
+practices of one group being lauded as superior to those of
+another (Essed, 1990; Jones, 1972). Essed (1990) extended
+the individual realm of racism to include collective racism.
+Collective racism occurs when organized (or semiorga-
+nized) Whites/non-Blacks seek to restrict the rights of
+Blacks (e.g., when a Black family moves into a White
+community and is met with open hostility by its new neigh-
+bors). Because of the omnipresence of racism, it makes
+intuitive sense that any effort to study its impact on African
+Americans would focus on the multidimensional character
+of its expression and experience.
+
+Due to the insidiousness of everyday racism, empirical
+examination of this construct can be an arduous task. Con-
+sequently, past research has generally focused on examining
+the most overt acts of racism experienced by African Amer-
+icans. However, the racism experienced by African Amer-
+icans throughout the day—whether at work, in public
+places, in route to and from their homes, or on television
+and other popular media outlets—for the most part has
+remained unexamined (Essed, 1990). The greatest challenge
+
+490
+
+T
+h
+is
+
+ d
+o
+cu
+
+m
+en
+
+t 
+is
+
+ c
+o
+p
+y
+ri
+
+g
+h
+te
+
+d
+ b
+
+y
+ t
+
+h
+e 
+
+A
+m
+
+er
+ic
+
+an
+ P
+
+sy
+ch
+
+o
+lo
+
+g
+ic
+
+al
+ A
+
+ss
+o
+ci
+
+at
+io
+
+n
+ o
+
+r 
+o
+n
+e 
+
+o
+f 
+
+it
+s 
+
+al
+li
+
+ed
+ p
+
+u
+b
+li
+
+sh
+er
+
+s.
+  
+
+T
+h
+is
+
+ a
+rt
+
+ic
+le
+
+ i
+s 
+
+in
+te
+
+n
+d
+ed
+
+ s
+o
+le
+
+ly
+ f
+
+o
+r 
+
+th
+e 
+
+p
+er
+
+so
+n
+al
+
+ u
+se
+
+ o
+f 
+
+th
+e 
+
+in
+d
+iv
+
+id
+u
+al
+
+ u
+se
+
+r 
+an
+
+d
+ i
+
+s 
+n
+o
+t 
+
+to
+ b
+
+e 
+d
+is
+
+se
+m
+
+in
+at
+
+ed
+ b
+
+ro
+ad
+
+ly
+.
+
+
+
+INDEX OF RACE-RELATED STRESS 491
+
+faced by researchers who wish to measure the stressful
+effects of everyday racism is to first identify it. The diffi-
+culty of this task is exacerbated by the fact that everyday
+racism is often covert and can be subtle, elusive, or seem-
+ingly intangible to those who experience it in their daily
+lives (Dovidio, 1993; Dovidio & Gaertner, 1986; Essed,
+1990).
+
+The stress associated with the experience of discrimina-
+tion has been implicated in the development of psychiatric
+disorders such as depression (Burke, 1984), antisocial be-
+havior (Simpson & Yinger, 1985), lowered self-esteem
+(Fernando, 1984), lowered levels of general happiness and
+life satisfaction (Jackson et al., 1995), and poor academic
+performance (Gougis, 1986). The deleterious effect on the
+psychological health of African Americans that may result
+from everyday racism is significant and should be addressed
+by counseling psychologists and other mental health prac-
+titioners. When providing psychological services to African
+American clients, counselors can include an assessment,
+possibly during the intake process, of the extent to which
+racism and discrimination might be related to the client's
+presenting problem or problems, or in some way interfering
+with the client's current level of functioning (Smith, 1985).
+Consequently, there is a strong need for a self-administered,
+psychometrically sound (and relatively brief) measure of the
+magnitude and range of an individual's experiences with
+racism and discrimination (Outlaw, 1993).
+
+Previous attempts to quantitatively examine the experi-
+ences of African Americans with racism have resulted in the
+development of several paper-and-pencil self-report instru-
+ments, none of which have been published in the major
+psychological journals. These efforts have been aimed at
+examining the cognitive processes, emotional responses,
+and the behavioral reactions associated with the experience
+of racism and discrimination as reported by African Amer-
+icans. The measures of racism currently available include
+the Racial Discrimination Index (RDI; Terrell & Miller,
+1980), the Racism Reaction Scale (RRS; Thompson et al.,
+1990), the Perceived Racism Scale (PRS; McNeilly et al., in
+press), and the Racism and Life Experience Scales—Brief
+Version (RaLES-B; Harrell, 1994). In spite of several the-
+oretical and methodological limitations, these attempts to
+quantify the experiences of African Americans with racism
+and discrimination have made a substantial contribution to
+the empirical examination of the stressful effects of racism.
+
+A psychometrically sound self-report instrument that
+measures the stress associated with daily encounters of
+racism and discrimination experienced by African Ameri-
+cans is needed. Such an instrument, if used in a clinical
+setting, would allow for the effective and efficient assess-
+ment of the experience of race-related stress and its impact
+on the psychological functioning of an individual. Having a
+valid and reliable self-report measure available to determine
+the extent to which racism adversely affects an individual's
+psychological well-being would aid in the diagnosis and
+treatment of some psychological and somatic stress-related
+disorders prevalent in the African American community.
+Furthermore, a measure of race-related stress would have
+implications as a research tool, which would effectively
+
+allow for an examination of the relationship between racism
+and some of the stress-induced psychological and somatic
+health problems of African Americans. Other possibilities
+for research inquiry include the relationship between the
+stressful experience of racism and discrimination and racial-
+identity development among African Americans. One could
+also examine the relationship between the stressful effects
+of racism and the impact of the counselor's willingness to
+address these issues on counseling outcomes for African
+Americans.
+
+The Index of Race-Related Stress (IRRS) is intended to
+provide a much needed measure of the stress associated
+with the experiences of racism and discrimination encoun-
+tered by African Americans in their daily lives. The theo-
+retical framework of the IRRS is grounded in the daily
+hassles conceptualization of life stress proposed by Lazarus
+and Folkman (1984) and integrated with Essed's (1990)
+concept of everyday racism. The IRRS samples the occur-
+rence and perceived magnitude of stressful race-related
+events occurring daily in the lives of African Americans.
+The ERRS also takes into account the stressful effects of
+network events, which are stressful events that happen to
+family members and people one cares about (Feagin &
+Sikes, 1994; Thoits, 1991). According to Lazarus and Folk-
+man (1984), "it is perfectly appropriate to measure stress as
+either input, response, or strained relationship" (p. 307).
+Furthermore, they posit that stress can be envisioned as a
+general concept much like emotion, motivation, or cogni-
+tion, but operationalized according to the perceived magni-
+tude of the interactions with the environment that tax or
+exceed the person's resources. Accordingly, the IRRS mea-
+sures race-related stress operationalized as the occurrence
+and perceived magnitude of specific events of racism and
+discrimination that African Americans potentially experi-
+ence in their daily lives.
+
+In the development of the IRRS as a measure of race-
+related stress, the researchers sought to answer several sig-
+nificant and related questions. First, is the experience of
+racism that African Americans encounter in their daily lives
+a multidimensional phenomenon that occurs across domains
+(i.e., institutionally, culturally, etc.)? Second, would the
+IRRS correlate with other measures of stress and racism,
+thereby proving itself to be a valid measure of race-related
+stress within its own right? Furthermore, could the IRRS be
+proven as a reliable measure of race-related stress on the
+basis of indexes of internal consistency and stability over
+time? Finally, because the IRRS is intended to measure the
+stress associated with everyday racism as uniquely experi-
+enced by African Americans, would it effectively discrim-
+inate between Blacks and non-Blacks?
+
+On the basis of a review of the literature (Essed, 1990;
+Feagin & Sikes, 1994; Jones, 1972), an examination of
+existing measures of racism (RDI; Terrell & Miller, 1980;
+RRS; Thompson et al., 1990; PRS; McNeilly et al., in press;
+RaLES-B; Harrell, 1994), and a pilot study, we anticipated
+that the IRRS would sample the multidimensionality of
+racism. More specifically, on the basis of the pilot study and
+the model of racism posited by Jones (1972) and later
+expanded on by Essed (1990), we hypothesized that the
+
+T
+h
+is
+
+ d
+o
+cu
+
+m
+en
+
+t 
+is
+
+ c
+o
+p
+y
+ri
+
+g
+h
+te
+
+d
+ b
+
+y
+ t
+
+h
+e 
+
+A
+m
+
+er
+ic
+
+an
+ P
+
+sy
+ch
+
+o
+lo
+
+g
+ic
+
+al
+ A
+
+ss
+o
+ci
+
+at
+io
+
+n
+ o
+
+r 
+o
+n
+e 
+
+o
+f 
+
+it
+s 
+
+al
+li
+
+ed
+ p
+
+u
+b
+li
+
+sh
+er
+
+s.
+  
+
+T
+h
+is
+
+ a
+rt
+
+ic
+le
+
+ i
+s 
+
+in
+te
+
+n
+d
+ed
+
+ s
+o
+le
+
+ly
+ f
+
+o
+r 
+
+th
+e 
+
+p
+er
+
+so
+n
+al
+
+ u
+se
+
+ o
+f 
+
+th
+e 
+
+in
+d
+iv
+
+id
+u
+al
+
+ u
+se
+
+r 
+an
+
+d
+ i
+
+s 
+n
+o
+t 
+
+to
+ b
+
+e 
+d
+is
+
+se
+m
+
+in
+at
+
+ed
+ b
+
+ro
+ad
+
+ly
+.
+
+
+
+492 UTSEY AND PONTEROTTO
+
+principal-component structure of the IRRS would produce a
+three- or four-component model. Using one of the racism
+measures currently in existence (RaLES-B; Harrell, 1994;
+see Instruments), the researchers also hypothesized that the
+IRRS and the RaLES-B would be positively correlated on
+measures representing comparable domains of racism (i.e.,
+RaLES-B Group and the IRRS' measure of cultural racism)
+as well as their global measures of racism. It was also
+hypothesized that the IRRS subscales and global measure
+would be positively correlated with another measure of
+stress (PSS; Cohen, Karmarck, & Mermelstein, 1983; see
+Instruments). Finally, the researchers hypothesized that the
+IRRS would discriminate between Blacks and non-Blacks,
+with Blacks having higher indicators of race-related stress.
+
+General Method
+
+Item Development
+
+The development of the initial items included on the IRRS was
+based on informal interviews with African Americans from diverse
+backgrounds (both men and women), a review of the literature, and
+the personal life experiences of the primary researcher (a male
+African American). Efforts were made to ensure that the items
+could be easily understood by someone reading at the eighth-grade
+level or higher. The researchers reviewed all potential items for
+redundancy, and those found to be repetitious were eliminated
+from the scale. On the basis of these procedures, a total of 74 items
+were generated and placed on a 5-point Likert-type scale. If an
+individual was the victim of a racist or discriminatory act, they
+were to indicate their reaction to the event on the basis of the
+following response choices: 1 = no reaction, 2 = irritation, 3 =
+anger, 4 = hostility, 5 = rage. Individuals were to respond only to
+those events that they experienced, leaving the ones they did not
+experience blank.
+
+Content Validity
+
+To aid in assessing the content validity of the IRRS, a focus
+group composed of 5 African Americans was facilitated by the
+primary researcher for approximately 2
+
+x
+h hr. In addition to eval-
+
+uating the content validity of the IRRS, it was examined for its
+efficiency of administration and any potential harmful effects that
+might result from its completion. The group members completed
+the IRRS and a discussion concerning its structure, item clarity,
+item domain appropriateness, and the comprehensiveness of the
+scale ensued.
+
+As a result of the focus group, concerns were raised that resulted
+in several changes being made to the IRRS. First, the original
+5-point Likert-type scale (1 = no reaction; 2 = irritation; 3 =
+anger; 4 = hostility; and 5 = rage), on which group members
+found it difficult to differentiate between several of the response
+choices (i.e., anger, hostility, and rage), was changed (1 = unaf-
+fected by the event; 2 = slightly bothered by the event; 3 = event
+was upsetting; and 4 = extremely upset by event) to allow respon-
+dents to more clearly distinguish between their reactions. Second,
+some of the events were ambiguous and needed clarification.
+Third, the group pointed out that several significant events fitting
+the criteria for inclusion were omitted (i.e., events relating to the
+race-sex dynamic).
+
+In addition to the focus group, five individuals (who were not
+part of the focus group) with extensive research backgrounds on
+
+racial-ethnic, gender, and cultural issues examined the IRRS items
+for their clarity and domain appropriateness. Each expert judge,
+who was a published scholar in the topical area, rated the items on
+the IRRS using a 4-point Likert-type scale (1 = confusing; 2 =
+ambiguous; 3 = fairly clear; and 4 = very clear) to indicate the
+item's clarity. The domain appropriateness of each item was rated
+as yes or no. Those items receiving a mean rating of less than 3.0
+on item clarity were either rewritten or eliminated. Items rated as
+not being domain appropriate were likewise rewritten or elimi-
+nated. The net result was an initial IRRS version consisting of 67
+items with a total score range of 1 to 268, with higher scores
+indicating a greater severity of race-related stress.
+
+Pilot Study
+
+Following the item development and content validity studies of
+the IRRS, a pilot study was conducted with 377 participants from
+various geographic locations throughout the United States. The
+sample consisted of 203 women and 163 men (11 missing gender
+variables) with ages ranging from 17 to 57, with a mean age of
+22.65 years (SD = 6.85). One purpose of the pilot study was to
+determine the logistics of the IRRS's administration, such as the
+time it takes to complete, the readability and clarity of the items,
+the clarity of the IRRS instructions, and the content validity of the
+IRRS items, with a sample of participants similar in demographic
+background to the target population. Another purpose of the pilot
+study was to conduct a preliminary examination of the IRRS's
+factor structure for an informal comparison to Jones's (1972)
+three-tier model of racism and Essed's (1990) four-tier model.
+
+Based on the results of the pilot study, several changes were
+made to the IRRS. Foremost, it was discovered that during the
+pilot study many of the questionnaires were incorrectly completed.
+The researchers suspected that requiring participants to check
+some items, while leaving others blank, was confusing. As a result,
+a new Likert-type scale on which no items are left blank was
+designed (0 = This has never happened to me; 1 = This event
+happened, but did not bother me; 2 = This event happened and I
+was slightly upset; 3 = This event happened and I was upset; 4 =
+This event happened and I was extremely upset). This response
+rating scale is consistent with those used on other stress-related
+measures (i.e., Daily Hassles Scale; Kanner, Coyne, Schafer, &
+Lazarus, 1980; Perceived Stress Scale, Cohen et al., 1983; Ways of
+Coping Scale, Lazarus & Folkman, 1984).
+
+Using only those surveys that were completed correctly, a
+principal-components analysis was performed on all 67 items of
+the IRRS. This procedure yielded 17 factors with eigenvalues of
+greater than 1.0. However, a scree test (Cattell, 1965) indicated
+that as many as four factors were interpretable. Consequently, the
+researchers forced a one-, two-, three-, and four-component ex-
+traction using both an orthogonal and oblique solution. The most
+interpretable of the four extractions, and consistent with the liter-
+ature on the multidimensionality of racism (i.e., Essed, 1990;
+Jones, 1972), was the three-component orthogonal solution. Com-
+ponent 1 (eigenvalue = 13.6), with 25 items, accounted for 20% of
+the common variance; Component 2 (eigenvalue = 3.4), with 20
+items, accounted for 5.1% of the common variance; and Compo-
+nent 3 (eigenvalue = 3.0), with 15 items, accounted for 4.6% of
+the common variance. The criteria for retaining items were as
+follows: (a) items with component loadings of .35 or higher were
+selected; (b) items meeting the .35 criteria on more than one
+component were eliminated.
+
+From the results of the principal-components analysis, a total of
+eight items were eliminated on the basis of the selection criteria.
+An additional item was dropped on the basis of the researchers'
+
+T
+h
+is
+
+ d
+o
+cu
+
+m
+en
+
+t 
+is
+
+ c
+o
+p
+y
+ri
+
+g
+h
+te
+
+d
+ b
+
+y
+ t
+
+h
+e 
+
+A
+m
+
+er
+ic
+
+an
+ P
+
+sy
+ch
+
+o
+lo
+
+g
+ic
+
+al
+ A
+
+ss
+o
+ci
+
+at
+io
+
+n
+ o
+
+r 
+o
+n
+e 
+
+o
+f 
+
+it
+s 
+
+al
+li
+
+ed
+ p
+
+u
+b
+li
+
+sh
+er
+
+s.
+  
+
+T
+h
+is
+
+ a
+rt
+
+ic
+le
+
+ i
+s 
+
+in
+te
+
+n
+d
+ed
+
+ s
+o
+le
+
+ly
+ f
+
+o
+r 
+
+th
+e 
+
+p
+er
+
+so
+n
+al
+
+ u
+se
+
+ o
+f 
+
+th
+e 
+
+in
+d
+iv
+
+id
+u
+al
+
+ u
+se
+
+r 
+an
+
+d
+ i
+
+s 
+n
+o
+t 
+
+to
+ b
+
+e 
+d
+is
+
+se
+m
+
+in
+at
+
+ed
+ b
+
+ro
+ad
+
+ly
+.
+
+
+
+INDEX OF RACE-RELATED STRESS 493
+
+judgment. Thus, the current version of the IRRS comprised 59
+items in total.
+
+Study 1
+
+The purpose of Study 1 was to determine the principal-
+component structure of the revised IRRS by conducting a
+second principal-components analysis. In addition to deter-
+mining the component structure of the IRRS, indexes of
+internal consistency (Cronbach's alpha) were computed for
+each of the components extracted during this study. Fur-
+thermore, Pearson's product-moment correlation coeffi-
+cients were calculated to determine the relationship between
+the IRRS subscales.
+
+The IRRS is intended for use with individuals identifying
+themselves as African American. As the IRRS is intended
+for use with African American adults in general, the re-
+searchers attempted to sample a heterogeneous population
+for Study 1. Only those individuals over the age of 17 were
+included in this study, as the scale is designed to measure
+race-related stress in African American adults. Moreover,
+various geographic regions, educational levels, and socio-
+economic levels are represented in the sample.
+
+Method
+
+Sample. The total sample for Study 1 included 302 participants
+from Greensboro, NC, and New York City. In an effort to obtain
+a sample demographically similar to the target population, partic-
+ipants were selected from a variety of settings: colleges and
+universities, a substance abuse treatment facility, and the commu-
+nity at large. It is significant to note that there were no incorrectly
+completed surveys in this study. There were approximately 10
+surveys that were incomplete or suspected of being invalid. A total
+of 7 individuals refused to participate, primarily non-Blacks who
+found the material offensive. Participants in Study 1 did not take
+part in the pilot study.
+
+Of the 302 participants in Study 1, 167 (55%) were female and
+115 (38%) were male (19 missing values). Their ages ranged from
+18 to 61 years, with a mean age of 26.77 (SD = 9.02). The sample
+included 90% American-born Blacks (8% represent Caribbean-
+born Blacks; 2% = missing values). Geographically, the sample
+included 188 participants from the New York City region and 113
+from North Carolina (1 missing value). Of the entire sample, 35%
+were from the community at large, 51 % were college students, and
+13% were residents in a substance abuse treatment facility. The
+marital status of the sample included 76% single, 13% married, 5%
+separated, and 1% widowed. For the entire sample, 29% were
+employed, with 17% earning between $10,000 and $25,000 annu-
+ally, and 28% earning below $10,000. Only 10% of those em-
+ployed earned more than $25,000 annually. The sample's mean
+years of education was 13.79.
+
+Procedure. In cases in which the IRRS was sent away for data
+collection, it was administered by doctoral-level proctors who had
+been thoroughly briefed in the proper protocol for its administra-
+tion. In all other cases, the primary researcher was responsible for
+administration of the questionnaires. The survey was completed
+anonymously, and participation was on a voluntary basis. Each
+survey included a cover letter and demographic questionnaire. In
+
+the cover letter a statement was issued to the effect that by
+completing the questionnaire, informed consent could be assumed.
+The survey generally took 20 to 30 min to complete, dependent on
+the average reading ability of the group.
+
+The recruitment of participants was aided by a lottery held as an
+incentive for participation in the study. Individuals who agreed to
+participate were given a lottery number, and a drawing was held at
+the conclusion of each data collection session. The winner received
+a $25 cash prize. The participants were debriefed individually or in
+groups following the collection of data.
+
+Results
+
+IRRS component structure. A principal-components
+analysis was again performed on all items of the IRRS. This
+time the procedure yielded 15 components with eigenvalues
+of greater than 1.0. Once more, a scree test (Cattell, 1965)
+indicated that as many as four components were interpret-
+able. As a result, one-, two-, three-, and four-component
+extractions were forced using both an oblique and orthog-
+onal rotation method. For this study the most interpretable
+of the four extractions, and the one conceptually supported
+by the literature (see Essed's, 1990, Collective Racism as an
+extension of the three-tier model proposed by Jones, 1972),
+was the four-component orthogonal solution.
+
+The four-component orthogonal solution accounted for
+38% of the common variance, as did the oblique solution,
+but the orthogonal solution loaded items to components that
+were consistently more logical than the oblique. The criteria
+for retaining items to the scale were as follows: (a) items
+were required to have a component loading of .40 or higher
+to be selected, and (b) items meeting the .40 criteria must
+also have been at least .15 greater than all other items
+loading on the same component. See Table 1 for IRRS
+items, component loadings, communalities, and item means
+and standard deviations.
+
+Component 1 (eigenvalue = 13.36) was responsible for
+23% of the common variance, with 16 items loading on this
+component. These items represent the experience of racism
+on a cultural level. Component 2 (eigenvalue = 4.58) was
+responsible for 8% of the common variance, with 11 items
+meeting the selection criteria. For the most part these items
+represent the experience of racism on an institutional level.
+Component 3 (eigenvalue = 2.45) accounted for 4% of the
+common variance, with 11 items meeting the criteria for
+selection. The general theme of these items relates to the
+experience of racism on an individual level. Component 4
+(eigenvalue = 2.06) accounted for 3% of the common
+variance, with 8 items meeting the criteria for selection. The
+concept of collective racism, an extension of individual
+racism (Essed, 1990), accounts for the general theme of this
+component.
+
+Internal consistency and subscale inter correlations.
+The coefficient alphas for the new IRRS subscales were .87
+for Component 1, Cultural Racism; .85 for Component 2,
+Institutional Racism; .84 for Component 3, Individual Rac-
+ism; and .79 for Component 4, Collective Racism.
+
+Pearson product-moment correlation coefficients were
+calculated to determine the subscale intercorrelations of the
+
+T
+h
+is
+
+ d
+o
+cu
+
+m
+en
+
+t 
+is
+
+ c
+o
+p
+y
+ri
+
+g
+h
+te
+
+d
+ b
+
+y
+ t
+
+h
+e 
+
+A
+m
+
+er
+ic
+
+an
+ P
+
+sy
+ch
+
+o
+lo
+
+g
+ic
+
+al
+ A
+
+ss
+o
+ci
+
+at
+io
+
+n
+ o
+
+r 
+o
+n
+e 
+
+o
+f 
+
+it
+s 
+
+al
+li
+
+ed
+ p
+
+u
+b
+li
+
+sh
+er
+
+s.
+  
+
+T
+h
+is
+
+ a
+rt
+
+ic
+le
+
+ i
+s 
+
+in
+te
+
+n
+d
+ed
+
+ s
+o
+le
+
+ly
+ f
+
+o
+r 
+
+th
+e 
+
+p
+er
+
+so
+n
+al
+
+ u
+se
+
+ o
+f 
+
+th
+e 
+
+in
+d
+iv
+
+id
+u
+al
+
+ u
+se
+
+r 
+an
+
+d
+ i
+
+s 
+n
+o
+t 
+
+to
+ b
+
+e 
+d
+is
+
+se
+m
+
+in
+at
+
+ed
+ b
+
+ro
+ad
+
+ly
+.
+
+
+
+494 UTSEY AND PONTEROTTO
+
+Table 1
+Items, Component Loadings, Item Means, Standard Deviations, and Communalities for the Index of Race-Related Stress
+
+Component loadings Item
+
+Item M SD
+
+2. You notice that crimes committed by White people tend to be
+romanticized, whereas the same crime committed by a Black person is
+portrayed as savagery, and the Black person who committed it, as an
+animal. .65
+
+3. You notice that when a Black person is killed by a White mob or
+policeman no one is sent to jail. .59
+
+8. You notice that when Black people are killed by the police, the media
+informs the public of the victim's criminal record or negative
+information in their background, suggesting they got what they
+deserved.
+
+13. You have observed that White kids who commit violent crimes are
+portrayed as "boys being boys," while Black kids who commit similar
+crimes are wild animals. .63
+
+15. You seldom hear or read anything positive about Black people on radio,
+TV, newspapers, or in history books. .49
+
+21. You have observed a double standard in the way the law or other
+systems of government (court, media, disciplinary committees, etc.)
+work (or don't work) when dealing with Blacks as opposed to Whites/
+non-Blacks. .57
+
+23. White/non-Black people have been apologetic about the Japanese
+internment, Jewish holocaust, and other violations of human rights, but
+would prefer to forget about slavery, Jim Crowism, and other abuses of
+Black people. .57
+
+29. You have observed the police treat White/non-Blacks with more respect
+and dignity than they do Blacks. .55
+
+31. You have noticed that the public services are inadequate or nonexistent
+in Black communities (police, sanitation, street repairs, etc.). .55
+
+34. You have heard Blacks constantly being compared with other
+immigrants and minorities in terms of what they have not achieved, in
+spite of having been in the U.S. for so much longer than the other
+groups. .57
+
+35. You have observed situations where other Blacks were treated harshly
+or unfairly by Whites/non-Blacks because of their race. .56
+
+37. You have heard reports of White people/non-Blacks who have
+committed crimes, and in an effort to cover up their deeds falsely
+reported that a Black man was responsible for the crime. .56
+
+40. You notice that the media plays up those stories that cast Blacks in
+negative ways (child abusers, rapists, muggers, etc. [or as savages] Wild
+Man of 96th St., Wolf Pack, etc.) usually accompanied by a large
+picture of a Black person looking angry or disturbed. .65
+
+42. You have heard it suggested that Black men have an uncontrollable
+desire to possess a White woman. .49
+
+43. You have heard racist remarks or comments about Black people spoken
+with impunity by White public officials or other influential White
+people. .59
+
+44. You have heard or seen other Black people express the desire to be
+White or to have White physical characteristics because they disliked
+being Black or thought it was ugly. .45
+
+12. You did not receive a promotion you deserved; you suspect it was
+because you are Black. .07
+
+18. White people have expected you to denounce or reject the views or
+remarks of controversial Black leaders. .29
+
+19. You did not get the job you applied for although you were well
+qualified; you suspect because you are Black. .14
+
+20. You were refused an apartment or other housing; you suspect it was
+because you are Black. —.02
+
+26. You were passed over for an important project although you were more
+qualified and competent than the White/non-Black person given the
+task. .03
+
+32. You have been subjected to racist jokes by Whites/non-Blacks in
+positions of authority, and you did not protest for fear they might have
+held it against you. —.10
+
+38. You have held back angry or hostile feelings in the presence of White/
+non-Black people for fear they would've accused you of having a
+"chip" on your shoulder. .08
+
+-.03 .17 .01 3.21 1.13 .45
+
+-.03 .14 .10 3.26 1.12 .38
+
+.60 - .09 .14 .18 3.01 1.13 .43
+
+.12 .15 - .00 2.86 1.28 .44
+
+- .01 .13 .06 2.48 1.35 .26
+
+.19 .19 .01 2.68 1.48 .40
+
+.26 - .05 .05 2.51 1.59 .40
+
+.09 .18 .19 2.68 1.45 .38
+
+.09 .18 .19 2.54 1.48 .38
+
+.28 - .08 .17 2.27 1.62 .44
+
+.06 .22 .14 2.95 1.36 .38
+
+- .03 .02 - .07 3.15 1.30 .32
+
+.04 .13 - .08 3.01 1.28 .44
+
+.24 .22 -.15 2.19 1.58 .36
+
+.12 .08 .18 2.54 1.48 .40
+
+.23 .06 -.11 2.51 1.48 .28
+
+.49 .14 .23 0.92 1.52 .32
+
+.42 .15 .17 1.35 1.57 .31
+
+.53 .18 .21 1.36 1.63 .38
+
+.59 .08 .18 0.98 1.53 .39
+
+.60 .04 .29 0.95 1.47 .44
+
+.59 .14 .33 1.03 1.52 .49
+
+.57 .20 .10 1.36 1.55 .38
+
+T
+h
+is
+
+ d
+o
+cu
+
+m
+en
+
+t 
+is
+
+ c
+o
+p
+y
+ri
+
+g
+h
+te
+
+d
+ b
+
+y
+ t
+
+h
+e 
+
+A
+m
+
+er
+ic
+
+an
+ P
+
+sy
+ch
+
+o
+lo
+
+g
+ic
+
+al
+ A
+
+ss
+o
+ci
+
+at
+io
+
+n
+ o
+
+r 
+o
+n
+e 
+
+o
+f 
+
+it
+s 
+
+al
+li
+
+ed
+ p
+
+u
+b
+li
+
+sh
+er
+
+s.
+  
+
+T
+h
+is
+
+ a
+rt
+
+ic
+le
+
+ i
+s 
+
+in
+te
+
+n
+d
+ed
+
+ s
+o
+le
+
+ly
+ f
+
+o
+r 
+
+th
+e 
+
+p
+er
+
+so
+n
+al
+
+ u
+se
+
+ o
+f 
+
+th
+e 
+
+in
+d
+iv
+
+id
+u
+al
+
+ u
+se
+
+r 
+an
+
+d
+ i
+
+s 
+n
+o
+t 
+
+to
+ b
+
+e 
+d
+is
+
+se
+m
+
+in
+at
+
+ed
+ b
+
+ro
+ad
+
+ly
+.
+
+
+
+INDEX OF RACE-RELATED STRESS 495
+
+Table 1 (continued)
+
+Component loadings Item
+
+Item M SD
+
+39. You have been asked to pay in advance for goods/services that are
+usually paid for after a person receives them; you suspect it was
+because you are Black.
+
+41. You have been given more work or the most undesirable jobs at your
+place of employment, whereas the White/non-Black of equal or less
+seniority and credentials is given less work and more desirable tasks.
+
+45. When you have interacted with Whites/non-Blacks, you anticipated
+them saying or doing something racist either intentionally or
+unintentionally.
+
+46. You have discovered that the White/non-Black person employed in the
+same capacity as you with equal or less qualifications is paid a higher
+salary.
+
+1. You have been in a restaurant or other White/non-Black establishment
+where everyone was waited on before you.
+
+4. You have been followed by security (or employees) while shopping in
+some stores.
+
+5. Sales people/clerks did not say thank you or show other forms of
+courtesy and respect (i.e. put your things in a bag) when you shopped at
+some White/non-Black owned businesses.
+
+6. White people or other non-Blacks have treated you as if you were
+unintelligent and needed things explained to you slowly or numerous
+times.
+
+9. Whites/non-Blacks have failed to apologize for stepping on your foot or
+bumping into you.
+
+17. Although waiting in line first, you were assisted after the White/non-
+Black person behind you.
+
+22. While shopping at a store, the sales clerk assumed that you couldn't
+afford certain items (i.e., you were directed toward the items on sale).
+
+24. You were treated with less respect and courtesy than Whites and other
+non-Blacks while in a store, restaurant, or other business establishment.
+
+27. Whites/non-Blacks have stared at you as if you didn't belong in the
+same place with them, whether it was a restaurant, theater, or other
+place of business.
+
+30. White/non-Black people have mistaken you for a salesperson, waiter, or
+other service help when you were actually a customer.
+
+33. While shopping at a store or when attempting to make a purchase, you
+were ignored as if you were not a serious customer or didn't have any
+money.
+
+7. You have been questioned about your presence in a White
+neighborhood for no apparent reason.
+
+10. You have been threatened with physical violence by an individual or
+group of Whites/non-Blacks.
+
+11. You were physically attacked by an individual or group of White/non-
+Blacks.
+
+14. You have had trouble getting a cab to go certain places or even stop for
+you.
+
+16. While on public transportation or in public places, White people/non-
+Blacks have opted to stand up rather than sit next to you.
+
+25. You were the victim of a crime and the police treated you as if you
+should just accept it as part of being Black.
+
+28. You called the police for assistance and when they arrived they treated
+you like a criminal.
+
+36. You have attempted to hail a cab, but they refused to stop, you think
+because you are Black.
+
+.20 .54 .26 .23 1.54 1.65 .45
+
+.09 .51 .28 .07 1.66 1.70 .36
+
+- .26 .53 .20 .03 1.79 1.57 .39
+
+22
+
+19
+
+19
+
+.62
+
+.21
+
+.13
+
+.15
+
+.49
+
+.50
+
+.09
+
+.15
+
+.19
+
+1.95
+
+2.05
+
+2.88
+
+1.77
+
+1.60
+
+1.36
+
+.46
+
+.34
+
+.35
+
+.18 .04 .60 .09 2.19 1.46 .40
+
+.05
+
+.10
+
+.18
+
+.20
+
+.36
+
+.28
+
+.24
+
+.28
+
+.02
+
+.03
+
+.00
+
+.10
+
+.11
+
+.12
+
+.02
+
+.17
+
+.22
+
+.10
+
+.22
+
+.37
+
+.19
+
+.11
+
+.24
+
+.24
+
+.09
+
+.16
+
+.25
+
+.06
+
+.26
+
+.26
+
+.37
+
+.22
+
+.57
+
+.40
+
+.45
+
+.60
+
+.58
+
+.54
+
+.43
+
+.62
+
+.24
+
+.19
+
+.10
+
+- .09
+
+.18
+
+.12
+
+.12
+
+- .09
+
+- .06
+
+.08
+
+.09
+
+-.07
+
+.12
+
+.11
+
+.15
+
+.03
+
+.57
+
+.50
+
+.51
+
+.72
+
+.47
+
+.59
+
+.59
+
+.67
+
+2.09
+
+1.59
+
+1.35
+
+2.16
+
+2.34
+
+2.41
+
+1.91
+
+2.34
+
+0.99
+
+0.89
+
+0.43
+
+1.52
+
+1.01
+
+1.18
+
+1.23
+
+1.50
+
+1.54
+
+1.42
+
+1.54
+
+1.63
+
+1.49
+
+1.47
+
+1.55
+
+1.52
+
+1.48
+
+1.50
+
+1.10
+
+1.63
+
+1.24
+
+1.64
+
+1.65
+
+1.70
+
+.39
+
+.19
+
+.29
+
+.54
+
+.51
+
+.39
+
+.33
+
+.52
+
+.39
+
+.31
+
+.33
+
+.54
+
+.33
+
+.44
+
+.49
+
+.54
+
+Note. Values in boldface type are component loadings at or above the criteria for selection. Component loadings: 1 = Cultural Racism;
+2 = Institutional Racism; 3 = Individual Racism; 4 = Collective Racism.
+
+IRRS. Cultural Racism correlated .42 with Institutional
+Racism, .56 with Individual Racism, and .30 with Collective
+Racism, ps < .01. Institutional Racism correlated .57 with
+Individual Racism and .58 with Collective Racism, ps <
+.01. Individual Racism correlated .39 with Collective Rac-
+
+ism, p < .01. On the basis of these low-to-moderate inter-
+correlations, the IRRS subscales are best conceptualized as
+related yet distinct measures of the stress experienced by
+African Americans in their encounters with racism and
+discrimination.
+
+T
+h
+is
+
+ d
+o
+cu
+
+m
+en
+
+t 
+is
+
+ c
+o
+p
+y
+ri
+
+g
+h
+te
+
+d
+ b
+
+y
+ t
+
+h
+e 
+
+A
+m
+
+er
+ic
+
+an
+ P
+
+sy
+ch
+
+o
+lo
+
+g
+ic
+
+al
+ A
+
+ss
+o
+ci
+
+at
+io
+
+n
+ o
+
+r 
+o
+n
+e 
+
+o
+f 
+
+it
+s 
+
+al
+li
+
+ed
+ p
+
+u
+b
+li
+
+sh
+er
+
+s.
+  
+
+T
+h
+is
+
+ a
+rt
+
+ic
+le
+
+ i
+s 
+
+in
+te
+
+n
+d
+ed
+
+ s
+o
+le
+
+ly
+ f
+
+o
+r 
+
+th
+e 
+
+p
+er
+
+so
+n
+al
+
+ u
+se
+
+ o
+f 
+
+th
+e 
+
+in
+d
+iv
+
+id
+u
+al
+
+ u
+se
+
+r 
+an
+
+d
+ i
+
+s 
+n
+o
+t 
+
+to
+ b
+
+e 
+d
+is
+
+se
+m
+
+in
+at
+
+ed
+ b
+
+ro
+ad
+
+ly
+.
+
+
+
+496 UTSEY AND PONTEROTTO
+
+Study 2
+
+A second study was conducted to examine other forms of
+construct validity for the IRRS. First of all, a confirmatory
+factor analysis (CFA) of the IRRS component structure was
+conducted. A CFA is an effective and powerful method for
+investigating the construct validity of a measure (Rahim &
+Magner, 1995). Also, in an effort to establish the concurrent
+validity of the Index of Race-Related Stress, we adminis-
+tered simultaneously a second measure of the perceived
+stressful magnitude of racism and discrimination
+(RaLES-B) as well as a second measure of perceived stress
+(Perceived Stress Scale). Furthermore, we used the group-
+differences method (see Cronbach & Meehl, 1955) for es-
+tablishing construct validity by comparing IRRS subscale
+scores for Blacks with the scores of a subsample of non-
+Blacks (Whites and Asians; n = 31). Moreover, indexes of
+internal consistency for the IRRS subscales were again
+calculated.
+
+Method
+
+Sample. The total sample size for Study 2 was 341 participants,
+including a subsample of 31 non-Blacks used for the group-
+comparison validity procedure. The non-Black subsample was not
+included in any data analysis other than the group-comparison
+procedure. In this study, as with the previous one, participants
+were selected from colleges, universities, and the community at
+large. Again, there is representation of African Americans from a
+wide range of socioeconomic backgrounds, geographic regions,
+and educational levels.
+
+For Blacks exclusively, the total sample size in Study 2 was 310.
+Of this number, 207 (67%) were female and 92 (30%) were male.
+Their ages ranged from 17 to 76 years, with a mean age of 23.38
+(SD = 7.74). This sample included 87% American-born Blacks
+(12% represent Caribbean-born Blacks; missing values = 4). Geo-
+graphically, the sample for Study 2 included 153 participants from
+Washington, DC, and 157 from New York City. Of the entire
+sample, 16% were from the community at large and the remainder
+were college students representing various colleges and universi-
+ties in the Northeast. The marital status of the sample was 85%
+single, 9% married, 3% separated, 2% divorced, and 6% widowed.
+For participants in the community sample, 6.7% were employed.
+Of this group the annual income was $10,000 or less for the
+majority of participants. The mean years of education for the
+community-at-large sample was 12.39.
+
+In the non-Black subsample (n = 31), there were 23 Whites and
+8 Asians. The non-Black subsample had an age range of 19 to 47
+years, with a mean of 27.97 (SD = 7.64). There were 16 women
+(55%) and 15 men (45%). The mean for years of education in the
+non-Black subsample was 13.74 (SD = 3.97). The marital status of
+the subsample was 78% single, 16% married, and 6% divorced.
+The majority of participants in the non-Black subsample also had
+an annual income level below $10,000.
+
+Instruments. The RaLES-B is a self-report measure that sam-
+ples the minority group members' perceptions of the impact of
+racism on their lives. Part I of the scale produces a Perceived
+Racism—Self total score and consists of 20 items, with a range
+from 0-80. Part II produces a Perceived Racism—Group total
+score and consists of 12 items, with a range from 0-48. The
+RaLES, in a study on the adaptive functioning of African Amer-
+ican adolescents (Wells, 1995), was reported to have a Cronbach's
+
+alpha of .88 for the Racism—Self subscale and .90 for the
+Racism—Group subscale. In addition, Racism—Self was signifi-
+cantly correlated with the Immersion dimension of racial identity
+(r = .26, p < .01) and with adaptive functioning (r = .18, p <
+.05). Racism—Group was significantly correlated with both the
+Encounter (r = .23, p < .01) and Internalization (r = .29, p < .01)
+dimensions of racial identity development. In the current study the
+RaLES-B Self and Group subscales had Cronbach alphas of .90
+and .83, respectively (n = 55).
+
+The Perceived Stress Scale is a 14 item Likert-type (item re-
+sponse scale = 0-4) self-report measure of the degree to which
+one views situations in his or her life as stressful. The PSS was
+designed to assess the degree to which people find events in their
+lives to be unpredictable, uncontrollable, and overloading. PSS
+scores are calculated by first reversing the scores on 7 positive
+items and then summing across all 14 items. In one study (Cohen
+et al., 1983), the PSS was found to correlate positively and sig-
+nificantly with Life Events Scores among two separate college
+samples (.20 to .35, p < .01). Cohen et al. (1983) reported
+Cronbach alphas of .84 and .85 for the two college samples and .86
+for a smoking cessation sample. The PSS had a 2-day test-retest
+correlation of .85 and a .55 correlation after 6 weeks. In the current
+study, the PSS had a Cronbach's alpha of .70 (n = 51).
+
+Procedure. A new sample of participants was recruited for
+Study 2, of which most were participating on a volunteer basis, the
+exception being one group of college students (n = 153), who
+received extra class credit for participation. In administering the
+IRRS, the same procedures as followed in the previous studies
+were repeated. Participants were again debriefed individually or in
+groups following the questionnaire's administration. All partici-
+pants except those in the non-Black subsample were given the
+same instructions for completing the IRRS. The non-Black sub-
+sample was instructed to replace "Black" with their own racial
+group identity; for example, instead of reading the item "you were
+treated with less respect because you are Black," it would be "you
+were treated with less respect because you are White (or Asian)."
+
+As previously noted, two additional instruments were adminis-
+tered simultaneously with the IRRS to two separate subsamples for
+the purpose of establishing the scale's concurrent validity. The first
+subsample (n = 51) received the PSS, randomly distributed over
+the entire sample of Study 2. The second subsample (n = 57)
+received the RaLES-B. These were also randomly distributed over
+the entire sample. For the RaLES-B, the sequence in which the
+surveys were administered was alternated to control for instrumen-
+tation effects. However, the PSS was always placed before the
+IRRS in its order in the survey package to prevent the participants
+from being influenced in their responses to the PSS by the nature
+of the IRRS items.
+
+Results
+
+Confirmatory factor analysis. A confirmatory factor
+analysis (CFA) was conducted on the 46 items of the IRRS,
+using the LISREL 7 computer program (Joreskog & Sor-
+bom, 1989). Comparisons were made between the identified
+four-component orthogonal model, a four-component
+oblique model, a global component model, and a null
+model. Several indexes assessing the degree to which the
+model fits the data were computed by the researchers for all
+four competing models. First, a chi-square statistic was
+computed for each of the models, including the null. It is
+important to note that the chi-square statistic tends to be
+affected by large sample sizes and will likely produce a
+
+T
+h
+is
+
+ d
+o
+cu
+
+m
+en
+
+t 
+is
+
+ c
+o
+p
+y
+ri
+
+g
+h
+te
+
+d
+ b
+
+y
+ t
+
+h
+e 
+
+A
+m
+
+er
+ic
+
+an
+ P
+
+sy
+ch
+
+o
+lo
+
+g
+ic
+
+al
+ A
+
+ss
+o
+ci
+
+at
+io
+
+n
+ o
+
+r 
+o
+n
+e 
+
+o
+f 
+
+it
+s 
+
+al
+li
+
+ed
+ p
+
+u
+b
+li
+
+sh
+er
+
+s.
+  
+
+T
+h
+is
+
+ a
+rt
+
+ic
+le
+
+ i
+s 
+
+in
+te
+
+n
+d
+ed
+
+ s
+o
+le
+
+ly
+ f
+
+o
+r 
+
+th
+e 
+
+p
+er
+
+so
+n
+al
+
+ u
+se
+
+ o
+f 
+
+th
+e 
+
+in
+d
+iv
+
+id
+u
+al
+
+ u
+se
+
+r 
+an
+
+d
+ i
+
+s 
+n
+o
+t 
+
+to
+ b
+
+e 
+d
+is
+
+se
+m
+
+in
+at
+
+ed
+ b
+
+ro
+ad
+
+ly
+.
+
+
+
+INDEX OF RACE-RELATED STRESS 497
+
+significant result in spite of a reasonable fit to the data
+(Bentler & Bonett, 1980). In addition, significant chi-
+squares will occur with models that have numerous vari-
+ables and high degrees of freedom (Bryant & Yarnold,
+1995).
+
+By referring to Table 2 for a complete summary of the
+results of the confirmatory factor analysis, it will be ob-
+served that the chi-square statistic for all four competing
+models was significant, suggesting an unsatisfactory fit.
+Additionally, as indicated by all indexes used in this study
+to evaluate the fit of the competing models, the four-
+component oblique model had the greatest degree of fit
+across all measures. The four-component oblique model
+was the best fit because it had the lowest x2 value
+(1,865.24), the highest goodness-of-fit index (GFI; .78) and
+adjusted goodness-of-fit index (AGFI; .76), the lowest -^Idf
+value (1.89), the lowest root mean square residual (RMSR;
+.080), and the highest relative noncentrality index (RNI;
+.80). The RNI is also independent of sample size, and
+according to Gerbing and Anderson (1993), the best avail-
+able measure for determining the fit of structural equation
+models.
+
+Looking closely at these values, we would evaluate the
+general fit of the proposed model as unsatisfactory. More
+desirable fits have, for example, the GFI in the high .80s and
+.90s. According to Bagozzi and Heatherton (1994), it is
+common for measurement models to have an unsatisfactory
+fit when more than four or five items represent each com-
+ponent and the sample size is large. The poor fit in these
+cases is likely to be related to several factors: (a) the
+complexity of the models, (b) high levels of random error to
+be found in a scale with many items, and (c) the many
+parameters to be estimated. One method that has been
+recommended (see Bagozzi & Heatherton, 1994; Rahim &
+Magner, 1995) to address this problem is to sum items
+within each component, thus creating aggregate variables
+that represent parallel indicators of the construct being
+measured by the items. Items with the highest component
+loadings are paired with items having the lowest component
+loading in sequential order in which the first, second, and
+third highest loadings are paired with their corresponding
+lowest loadings, whereas the remaining items are randomly
+distributed among the new indicator variables (see Mathieu,
+1991). After the items have been aggregated to form new
+and fewer indicators of the same construct, they are reen-
+
+tered into the LISREL 7 program and subjected to a second
+confirmatory factor analysis.
+
+Using the method recommended by Bagozzi and Heath-
+erton (1994) and Rahim and Magner (1995), the authors
+created the following aggregate variables to be reanalyzed
+using the LISREL 7 program: Cultural Racism 1 (Items 2,
+15, 31, & 3); Cultural Racism 2 (Items 40, 44, 43, & 34);
+Cultural Racism 3 (Items 8, 29, 21, & 35); Cultural Racism
+4 (Items 13, 42, 23, & 37); Institutional Racism 1 (Items 18
+& 46); Institutional Racism 2 (Items 12, 26, & 19); Insti-
+tutional Racism 3 (Items 20,45, & 39); Institutional Racism
+4 (Items 32,41, & 38); Individual Racism 1 (Items 9 & 33);
+Individual Racism 2 (Items 22, 30, & 4); Individual Racism
+3 (Items 5, 17, & 27); Individual Racism 4 (Items 1, 24, &
+6); Collective Racism 1 (Items 14 & 16); Collective Racism
+2 (Items 10 & 36); Collective Racism 3 (Items 7 & 25);
+Collective Racism 4 (Items 11 & 28). Because these aggre-
+gated variables represent new items of the same compo-
+nents, Cronbach's alphas were again calculated. For Cul-
+tural Racism, Institutional Racism, Individual Racism, and
+Collective Racism, the Cronbach alpha was .86, .77, .83,
+and .75, respectively.
+
+On review of the second confirmatory factor analysis
+results found in Table 3, it will be observed that the fit
+indexes for the four-component 16 aggregate variables im-
+proved. The GFIs and AGFIs for both the orthogonal and
+oblique models ranged from .78 to .90 and .71 to .86,
+respectively. The RNIs for the orthogonal and oblique mod-
+els ranged from .74 to .92, respectively. Although a better fit
+for the proposed model (orthogonal) would have been de-
+sirable, the primary objective of this study was to find the
+best fit for the data among the competing models. Accord-
+ing to Bryant and Yarnold (1995), the most common use of
+a confirmatory factor analysis is to determine "whether a
+particular factor model fits the data better than others" (p.
+119). Consequently, and in contradiction to the hypothe-
+sized model (four-component orthogonal model), the four-
+component oblique model demonstrated the best overall fit
+among the competing component models in this study (see
+Table 3). That the four-component oblique model is the best
+fit is not surprising given the moderate correlations found
+between some subscales of the IRRS.
+
+Internal consistency and intercorrelations of IRRS sub-
+scales. Consistent with Study 1, the internal consistency of
+the IRRS subscales was determined to be sufficiently ade-
+
+Table 2
+Goodness-of-Fit Indicators for the Null Model and Competing Hypothesized Models
+for the 46-Item IRRS
+
+Model x
+2
+ df p GFI AGFI x*/df RMSR RNI
+
+Null model
+Global component
+Four-component orthogonal
+Four-component oblique
+
+Note. N = 289. IRRS = Index of Race-Related Stress; GFI = goodness-of-fit index; AGFI =
+adjusted goodness-of-fit index; RMSR = root mean square residual; RNI = relative noncentrality
+index.
+
+5,445.34
+2,957.48
+2,261.29
+1,873.56
+
+1035
+989
+989
+983
+
+.00
+
+.00
+
+.00
+
+.00
+
+.28
+
+.55
+
+.74
+
+.78
+
+.25
+
+.50
+
+.72
+
+.76
+
+5.3
+3.0
+2.3
+1.9
+
+.23
+
+.11
+
+.17
+
+.08
+
+.55
+
+.71
+
+.80
+
+T
+h
+is
+
+ d
+o
+cu
+
+m
+en
+
+t 
+is
+
+ c
+o
+p
+y
+ri
+
+g
+h
+te
+
+d
+ b
+
+y
+ t
+
+h
+e 
+
+A
+m
+
+er
+ic
+
+an
+ P
+
+sy
+ch
+
+o
+lo
+
+g
+ic
+
+al
+ A
+
+ss
+o
+ci
+
+at
+io
+
+n
+ o
+
+r 
+o
+n
+e 
+
+o
+f 
+
+it
+s 
+
+al
+li
+
+ed
+ p
+
+u
+b
+li
+
+sh
+er
+
+s.
+  
+
+T
+h
+is
+
+ a
+rt
+
+ic
+le
+
+ i
+s 
+
+in
+te
+
+n
+d
+ed
+
+ s
+o
+le
+
+ly
+ f
+
+o
+r 
+
+th
+e 
+
+p
+er
+
+so
+n
+al
+
+ u
+se
+
+ o
+f 
+
+th
+e 
+
+in
+d
+iv
+
+id
+u
+al
+
+ u
+se
+
+r 
+an
+
+d
+ i
+
+s 
+n
+o
+t 
+
+to
+ b
+
+e 
+d
+is
+
+se
+m
+
+in
+at
+
+ed
+ b
+
+ro
+ad
+
+ly
+.
+
+
+
+498 UTSEY AND PONTEROTTO
+
+Table 3
+Goodness-of-Fit Indicators for the Null Model and Competing Hypothesized Models
+for the IRRS Based on 16 Aggregate Variables
+
+Model x
+2
+ df p GFI AGFI yfldf RMSR RNI
+
+Null model
+Global component
+Four-component orthogonal
+Four-component oblique
+
+Note. N = 309. IRRS = Index of Race-Related Stress; GFI = goodness-of-fit index; AGFI =
+adjusted goodness-of-fit index; RMSR = root mean square residual; RNI = relative noncentrality
+index.
+
+2,354.47
+885.39
+672.19
+268.90
+
+120
+104
+104
+98
+
+.00
+
+.00
+
+.00
+
+.00
+
+.32
+
+.65
+
+.78
+
+.90
+
+.23
+
+.55
+
+.71
+
+.86
+
+19.6
+8.5
+6.4
+2.7
+
+.35
+
+.12
+
+.27
+
+.06
+
+.65
+
+.74
+
+.92
+
+quate. Component 1, Cultural Racism, obtained a Cron-
+bach's alpha of .89. Component 2, Institutional Racism,
+obtained a Cronbach's alpha of .82. Component 3, Individ-
+ual Racism, obtained a Cronbach's alpha of .84. For Com-
+ponent 4, Collective Racism, Cronbach's alpha was .74.
+
+Also consistent with Study 1, the IRRS subscale intercor-
+relations were as follows: Cultural Racism correlated .37
+with Institutional Racism, .53 with Individual Racism, and
+.22 with Collective Racism, ps < .01. Institutional Racism
+correlated .56 with Individual Racism and .66 with Collec-
+tive Racism, ps < .01. Individual Racism correlated .51
+with Collective Racism,/? < .01. Subscale intercorrelations
+remain low to moderate, again suggesting that the IRRS is
+measuring related yet distinct aspects of race-related stress.
+
+Concurrent validity. To establish the concurrent validity
+of the IRRS, Pearson product-moment correlation coeffi-
+cients were computed between its four subscales, the
+RaLES-B Self and Group subscales, and the PSS. In addi-
+tion, an IRRS Global Racism score was calculated by con-
+verting each subscale total score to a z score, thereby
+weighting equally the contribution that each racism domain
+contributes to the Global score. The IRRS Global Racism
+score was then correlated with a global racism score for the
+RaLES-B (Self and Group subscale score combined) and
+the PSS.
+
+The results of the Pearson product-moment correlation
+procedure between the IRRS subscales, including the
+Global Racism measure, and the RaLES-B are presented in
+Table 4. A positive and significant correlation was found to
+exist between Cultural Racism, Institutional Racism, Indi-
+
+Table 4
+Pearson Product—Moment Correlation Coefficients for the
+IRRS Subscales, the PSS, and the RaLES-B
+
+RaLES-B
+
+IRRS
+
+Cultural racism
+Institutional racism
+Individual racism
+Collective racism
+Global racism
+
+Self
+
+.04
+
+.39**
+
+.23*
+
+.25*
+
+.30*
+
+Group
+
+.46**
+
+.36**
+
+.31**
+-.02
+
+.38**
+
+Global
+
+.29*
+
+.44**
+
+.31**
+
+.15
+
+.39**
+
+PSS
+
+.31*
+
+.15
+
+.24*
+
+.09
+
+.24*
+
+Note. Values in boldface type are significant. IRRS = Index of
+Race-Related Stress; PSS = Perceived Stress Scale; RaLES-B =
+Racism and Life Experience Scale—Brief Version.
+*p < .05. **p < .01.
+
+vidual Racism, and the Group subscale of the RaLES-B.
+Collective Racism did not significantly correlate with the
+RaLES-B Group subscale. For the Self subscale of the
+RaLES-B, there was a positive and significant correlation
+with the Institutional Racism, Individual Racism, and Col-
+lective Racism subscales of the IRRS. The RaLES-B Self
+subscale did not significantly correlate with the IRRS Cul-
+tural Racism subscale. The IRRS Global Racism measure
+was positively and significantly correlated with the
+RaLES-B Global Racism measure.
+
+To establish further evidence of the concurrent validity of
+the IRRS' subscales and its Global Racism measure, a
+second measure of stress (Perceived Stress Scale; Cohen et
+al., 1983) was administered simultaneously. Consequently,
+Pearson's product-moment correlation coefficients were
+calculated on these variables. It can be observed, by refer-
+ring to Table 4, that a positive and significant correlation
+exists between Cultural Racism, Individual Racism, and the
+PSS. Institutional Racism and Collective Racism were not
+significantly correlated with the PSS. However, a positive
+and significant correlation was found to exist between the
+IRRS's Global Racism measure and the PSS.
+
+Group differences. On the expectation that Blacks
+would score significantly higher than non-Blacks on the
+IRRS subscales, a multivariate analysis of variance
+(MANOVA) comparing these two subsamples was per-
+formed. Whites and Asians were combined for this analysis
+on the basis of a MANOVA finding of no significant
+difference between the groups' IRRS subscale scores, Ho-
+tellings T
+
+2
+ = F(4, 27) = 1.21, p = .32. The MANOVA
+
+comparing Blacks with non-Blacks (Whites and Asians)
+produced a significant result, Hotellings T
+
+2
+ = .322, F(4,
+
+336) = 27.04, p = .00. The Bonferroni formula was used to
+control for the inflated alpha due to four follow-up univar-
+iate ANOVAs. Alpha was set at .012. Subsequent univariate
+F test and mean examination indicated that Blacks scored
+significantly higher than non-Blacks on Cultural Racism,
+F(l, 339) = 55.89, p < .00 (Blacks' M = 44.50, SD =
+13.03; non-Blacks' M = 18.38, SD = 17.75); Institutional
+Racism, F(l, 339) = 10.37, p < .00 (Blacks' M = 13.88,
+SD = 9.88; non-Blacks' M = 6.22, SD = 5.63); Individual
+Racism, F{\, 339) = 37.89, p < .00 (Blacks' M = 21.46,
+SD = 10.39; non-Blacks' M = 10.12, SD = 6.93); and
+Collective Racism, F(l, 339) = 15.27, p < .00 (Blacks'
+M = 8.63, SD = 6.75; non-Blacks' M = 5.66, SD = 4.93).
+
+T
+h
+is
+
+ d
+o
+cu
+
+m
+en
+
+t 
+is
+
+ c
+o
+p
+y
+ri
+
+g
+h
+te
+
+d
+ b
+
+y
+ t
+
+h
+e 
+
+A
+m
+
+er
+ic
+
+an
+ P
+
+sy
+ch
+
+o
+lo
+
+g
+ic
+
+al
+ A
+
+ss
+o
+ci
+
+at
+io
+
+n
+ o
+
+r 
+o
+n
+e 
+
+o
+f 
+
+it
+s 
+
+al
+li
+
+ed
+ p
+
+u
+b
+li
+
+sh
+er
+
+s.
+  
+
+T
+h
+is
+
+ a
+rt
+
+ic
+le
+
+ i
+s 
+
+in
+te
+
+n
+d
+ed
+
+ s
+o
+le
+
+ly
+ f
+
+o
+r 
+
+th
+e 
+
+p
+er
+
+so
+n
+al
+
+ u
+se
+
+ o
+f 
+
+th
+e 
+
+in
+d
+iv
+
+id
+u
+al
+
+ u
+se
+
+r 
+an
+
+d
+ i
+
+s 
+n
+o
+t 
+
+to
+ b
+
+e 
+d
+is
+
+se
+m
+
+in
+at
+
+ed
+ b
+
+ro
+ad
+
+ly
+.
+
+
+
+INDEX OF RACE-RELATED STRESS 499
+
+Study 3
+
+To establish the stability of the ERRS over time, two
+separate samples were recruited for a test-retest adminis-
+tration. In addition to using two separate samples, we used
+different test-retest intervals in the IRRS's administration.
+
+Method
+
+Sample. The first sample was recruited from introductory psy-
+chology classes at an historically Black college in Greensboro, NC
+(n = 31). Of the 31 in this sample, 9 were men and 21 were women
+(1 missing). The mean age of this group was 20.48 (5D = 3.78).
+The participants in the second sample (n = 19) were recruited
+from an adult education program located in New York City. Of
+these participants, 4 were men and 15 were women. The mean age
+for this group was 29.42 (SD = 9.42).
+
+Procedure. The general procedures followed during regular
+administrations of the IRRS were followed during Study 3 for both
+test-retest samples. The IRRS was administered to the first sample
+of participants on a designated day and then again 3 weeks later.
+Likewise, the second sample of participants was administered the
+IRRS on a designated day and men again 2 weeks later. In both
+cases participants were debriefed individually or in groups.
+
+Results
+
+In the first sample the test-retest reliability coefficients
+for Cultural Racism, Institutional Racism, Individual Rac-
+ism, and Collective Racism were .77, .69, .61, and .79,
+respectively. In the second sample, the test-retest reliability
+coefficients for Cultural Racism, Institutional Racism, In-
+dividual Racism, and Collective Racism were .58, .71, .54,
+and .75, respectively.
+
+Discussion
+
+The current research sought to develop and validate a
+paper-and-pencil self-report instrument that measures the
+stress associated with the experience of racism in the daily
+lives of African Americans. The theoretical framework un-
+derlying the development of this measure was based on an
+integration of the daily-hassles concept of stress (Lazarus &
+Folkman, 1984) and the multidimensional conceptualization
+of everyday racism posited by Essed (1990). The net result
+of the preliminary phase of this study was a 46-item, self-
+report instrument, intended for use with African American
+adults from a wide range of demographic backgrounds.
+
+A principal-components analysis and a confirmatory fac-
+tor analysis supported a four-component structure as best
+representing the experiences of racism in the daily lives of
+African Americans. The four subscales of the IRRS repeat-
+edly demonstrated adequate internal consistency reliabilities
+over two separate studies. In addition, the subscale inter-
+correlations were low to moderate across the two studies.
+Moreover, the four subscales of the IRRS proved to be
+consistent with Essed's (1990) conceptual model of every-
+day racism; the following domains were represented by the
+
+four-component structure: (a) cultural, (b) institutional, (c)
+individual, (d) collective.
+
+Initial evidence for the concurrent validity of the IRRS
+subscales was established by using a second measure of
+racism (RaLES-B) and a second measure of perceived
+stress (PSS). Both the Self and Group subscales of
+RaLES-B provided support for the concurrent validity of
+the ERRS by positively and significantly correlating with
+several of its subscales. The RaLES-B Group subscale, as
+hypothesized, correlated positively and significantly with
+the Cultural Racism, Institutional Racism, and Individual
+Racism subscales of the ERRS. The RaLES-B Self subscale
+was significantly correlated (in a positive direction) with the
+Institutional Racism, Individual Racism, and Collective
+Racism subscales of the ERRS. In addition, the IRRS Global
+Racism measure was positively and significantly correlated
+with the RaLES-B Global Racism measure. The fact that no
+correlation was found between the RaLES-B Self subscale
+and the Cultural Racism subscale of the IRRS is logical
+given the divergent manifestations associated with these
+two types of racism.
+
+In a second correlational study, the PSS, as hypothesized,
+correlated positively and significantly with the Cultural
+Racism, Individual Racism, and a Global Racism measure
+of the ERRS. The lack of a significant correlation between
+the PSS and the other subscales of the IRRS might be
+explained by several factors. For example, encounters with
+institutional racism are likely to be less frequent than expo-
+sure to cultural racism, and better concealed by the perpe-
+trator or perpetrators than the direct encounters of individual
+racism. The lack of a significant correlation of the Collec-
+tive Racism measure and the PSS might be explained by the
+extreme nature of these events and their low rate of inci-
+dence among the current sample.
+
+Using the group differences approach, the IRRS demon-
+strated adequate criterion-related validity by discriminating
+between Blacks and non-Blacks on its Cultural Racism,
+Institutional Racism, Individual Racism, and Collective
+Racism subscales. As hypothesized, the IRRS performed
+well as an index of the unique experiences and the magni-
+tude of such experiences that African Americans have with
+racism. The fact that the IRRS subscales discriminate be-
+tween Blacks and non-Blacks provides further evidence for
+the construct validity of the instrument.
+
+Based on the results of two separate studies, using two
+distinct samples, the test-retest reliability of the IRRS sub-
+scales ranged from fair to adequate. In the first sample,
+which consisted primarily of college students from the
+South, the ERRS subscales obtained indexes of stability over
+a 3-week period ranging from .61 to .79. In the second
+study, with participants from an adult education program,
+the indexes of stability for the IRRS subscales over a
+2-week period ranged from .54 to .75. Indexes of stability
+are considered adequate when they are in the .70 range. For
+the IRRS subscales, the college sample obtained indexes
+much more consistent with this criterion (i.e., .77, .69, .61,
+and .79). This might be accounted for in part by the fact that
+the college sample is from a historically Black college,
+where the likelihood of having had any new encounters with
+
+T
+h
+is
+
+ d
+o
+cu
+
+m
+en
+
+t 
+is
+
+ c
+o
+p
+y
+ri
+
+g
+h
+te
+
+d
+ b
+
+y
+ t
+
+h
+e 
+
+A
+m
+
+er
+ic
+
+an
+ P
+
+sy
+ch
+
+o
+lo
+
+g
+ic
+
+al
+ A
+
+ss
+o
+ci
+
+at
+io
+
+n
+ o
+
+r 
+o
+n
+e 
+
+o
+f 
+
+it
+s 
+
+al
+li
+
+ed
+ p
+
+u
+b
+li
+
+sh
+er
+
+s.
+  
+
+T
+h
+is
+
+ a
+rt
+
+ic
+le
+
+ i
+s 
+
+in
+te
+
+n
+d
+ed
+
+ s
+o
+le
+
+ly
+ f
+
+o
+r 
+
+th
+e 
+
+p
+er
+
+so
+n
+al
+
+ u
+se
+
+ o
+f 
+
+th
+e 
+
+in
+d
+iv
+
+id
+u
+al
+
+ u
+se
+
+r 
+an
+
+d
+ i
+
+s 
+n
+o
+t 
+
+to
+ b
+
+e 
+d
+is
+
+se
+m
+
+in
+at
+
+ed
+ b
+
+ro
+ad
+
+ly
+.
+
+
+
+500 UTSEY AND PONTEROTTO
+
+discrimination during the test-retest interval is reduced. On
+the other hand, the sample from the adult education program
+were exposed to events, including racism and discrimina-
+tion, that might normally be experienced by African Amer-
+icans in their daily contact with Whites and other non-
+Blacks.
+
+A potential criticism of the IRRS relates to the absence of
+a time frame in which the participants are requested to recall
+the occurrence of an event relating to racism or discrimina-
+tion, or both, that they have experienced. The question
+arises in this circumstance as to how accurate one can
+remember his or her reaction to an event that occurred
+several months ago, or even several years in the past.
+However, assessing the stressful impact of African Ameri-
+cans' experiences with racism is best served by not restrict-
+ing the period of time in which it occurred; for as Feagin
+and Sikes (1994) suggested, the effects of such traumatic
+experiences are long lasting. Another potential criticism of
+the IRRS and an ongoing issue in the field of stress research
+relates to the potential confound between the occurrence of
+race-related events and the intensity of such experiences.
+Because participants who have not experienced a given
+event are requested to select a response of 0, and those who
+have had a given experience must select a response between
+1 and 4, it might be argued that the two responses are
+measures of separate constructs and should be analyzed
+separately. This is a debatable issue (J. E. Holm, personal
+communication, April 22, 1996; R. S. Lazarus, personal
+communication, April 30, 1996), and it continues to be
+deliberated between the major camps (i.e., daily hassles and
+stressful life events proponents) of stress researchers and
+can by no means be solved within the limits of this study.
+For all practical purposes, and consistent with the work of
+Lazarus and his colleagues (on which this study is in part
+based), not having experienced an event results in a stress
+score of 0 and is viewed within the realm of a scoring
+continuum of 0 to 4 (see Daily Hassles Scale [Revised] by
+Holm & Holroyd, 1992; Ways of Coping Scale by Lazarus
+& Folkman, 1984).
+
+The current findings suggest that the IRRS is a reliable
+and valid measure of the multidimensional aspects of race-
+related stress that African Americans potentially experience
+in their daily lives. The IRRS can be used in assessing the
+impact of racism and discrimination on the psychological
+well-being of African American clients. Those providing
+counseling services to this population can use the IRRS in
+determining the need to address issues related to the client's
+experience with racism and discrimination. In addition, the
+IRRS can be further studied for possible adaptation as a
+semistructured clinical interview protocol that can be used
+qualitatively by counseling psychologists in serving an Af-
+rican American population. The research utility of the IRRS
+is limitless and includes such topical areas as examining the
+therapy outcomes for African American clients, the impact
+of racism on the racial identity development of African
+Americans, racism and its relation to the life satisfaction of
+African Americans, and the impact of racism on vocational
+choices and academic outcomes.
+
+References
+
+Allport, G. W. (1954). The nature of prejudice. Reading, MA:
+Addison-Wesley.
+
+Bagozzi, R. P., & Heatherton, T. F. (1994). A general approach to
+representing multifaceted personality constructs: Application to
+state self-esteem. Structural Equation Modeling, I, 35-67.
+
+Bentler, P. M., & Bonett, D. G. (1980). Significance tests and
+goodness-of-fit in the analysis of covariance structures. Psycho-
+logical Bulletin, 88, 588-606.
+
+Bryant, F. B., & Yarnold, P. R. (1995). Principal-components
+analysis and exploratory and confirmatory component analysis.
+In L. G. Grimm & P. R. Yarnold (Eds.), Reading and under-
+
+standing multivariate statistics (pp. 99-136). Washington, DC:
+American Psychological Association.
+
+Burke, A. W. (1984). Is racism a causatory component in mental
+illness? The International Journal of Social Psychiatry, 30, 1-3.
+
+Cattell, R. B. (1965). Component analysis: An introduction to
+essentials: I. The purpose and underlying models. Biometrics,
+
+21, 190-215.
+Cohen, S., Karmarck, T., & Mermelstein, R. (1983). A global
+
+measure of perceived stress. Journal of Health and Social Be-
+havior, 24, 385-396.
+
+Cronbach, L. J., & Meehl, P. E. (1955). Construct validity in
+psychological test. Psychological Bulletin, 52, 281-302.
+
+Dovidio, J. (1993). The subtlety of racism. Training and Devel-
+
+opment, 51-57.
+Dovidio, R. V., & Gaertner, S. L. (1986). Prejudice, discrimina-
+
+tion, and racism. Orlando, FL: Academic Press.
+Duckitt, J. (1992). Psychology and prejudice: A historical analysis
+
+and integrative framework. American Psychologist, 47, 1182—
+1193.
+
+Essed, P. (1990). Everyday racism: Reports from women of two
+
+cultures. Claremont, CA: Hunter House.
+Feagin, J. R., & Sikes, M. P. (1994). Living with racism: The black
+
+middle-class experience. Boston: Beacon Press.
+Fernando, S. (1984). Racism as a cause of depression. The Inter-
+
+national Journal of Social Psychiatry, 30, 41-49.
+Gerbing, D. W., & Anderson, J. C. (1993). Monte Carlo evaluation
+
+of goodness-of-fit indices for structural equation models. In
+K. A. Bollen & J. S. Long (Eds.), Testing structural equation
+
+models (pp. 40-65). Newbury Park, CA: Sage.
+Gougis, R. A. (1986). The effects of prejudice and stress on the
+
+academic performance of Black-Americans. In U. Neisser (Ed.),
+The school achievement of minority children: New perspectives
+(pp. 145-158). Hillsdale, NJ: Erlbaum.
+
+Harrell, S. P. (1994). The Racism and Life Experience Scale-
+
+Revised. Unpublished manuscript.
+Holm, J. E., & Holroyd, K. A. (1992). The Daily Hassles Scale
+
+(Revised): Does it measure stress or symptoms? Behavioral
+
+Assessment, 14, 465-482.
+Jackson, J. S., Williams, D. R., & Torres, M. (1995). Racial dis-
+
+crimination, stress, action orientation and physical and psycho-
+
+logical health. Paper presented at a workshop for the Office of
+Disease Prevention and Special Projects, National Institute of
+Mental Health, Rockville, MD.
+
+Jones, J. M. (1972). Prejudice and racism. Menlo Park, CA:
+Addison-Wesley.
+
+Joreskog, K. G., & Sorbom, D. (1989). LISREL VII: User's refer-
+
+ence guide. Mooresville, IN: Scientific Software.
+Kanner, A. D., Coyne, J. C , Schafer, C , & Lazarus, R. S. (1980).
+
+Comparison of two modes of stress measurement: Daily hassles
+and uplifts versus major life events. Journal of Behavioral
+
+Medicine, 4, 1-39.
+
+T
+h
+is
+
+ d
+o
+cu
+
+m
+en
+
+t 
+is
+
+ c
+o
+p
+y
+ri
+
+g
+h
+te
+
+d
+ b
+
+y
+ t
+
+h
+e 
+
+A
+m
+
+er
+ic
+
+an
+ P
+
+sy
+ch
+
+o
+lo
+
+g
+ic
+
+al
+ A
+
+ss
+o
+ci
+
+at
+io
+
+n
+ o
+
+r 
+o
+n
+e 
+
+o
+f 
+
+it
+s 
+
+al
+li
+
+ed
+ p
+
+u
+b
+li
+
+sh
+er
+
+s.
+  
+
+T
+h
+is
+
+ a
+rt
+
+ic
+le
+
+ i
+s 
+
+in
+te
+
+n
+d
+ed
+
+ s
+o
+le
+
+ly
+ f
+
+o
+r 
+
+th
+e 
+
+p
+er
+
+so
+n
+al
+
+ u
+se
+
+ o
+f 
+
+th
+e 
+
+in
+d
+iv
+
+id
+u
+al
+
+ u
+se
+
+r 
+an
+
+d
+ i
+
+s 
+n
+o
+t 
+
+to
+ b
+
+e 
+d
+is
+
+se
+m
+
+in
+at
+
+ed
+ b
+
+ro
+ad
+
+ly
+.
+
+
+
+INDEX OF RACE-RELATED STRESS 501
+
+Lazarus, R. S., & Folkman, S. (1984). Stress, appraisal, and
+coping. New York: Springer.
+
+Mathieu, J. E. (1991). A cross-level nonrecursive model of the
+antecedents of organizational commitment and satisfaction.
+Journal of Applied Psychology, 76, 607-618.
+
+McNeilly, M. D., Anderson, N. B., Armstead, C. A., Clark, R.,
+Corbett, M., Robinson, E, L., Pieper, C. F., & Lepisto, E. M. (in
+press). The Perceived Racism Scale: A multidimensional assess-
+ment of the experience of White racism among African Amer-
+icans. Ethnicity & Disease.
+
+Myrdal, G. (1944). An American dilemma: The Negro problem in
+modern democracy. New York: Harper.
+
+Outlaw, F. H. (1993). Stress and coping: The influence of racism
+on the cognitive appraisal processing of African-Americans.
+Issues in Mental Health Nursing, 14, 399-409.
+
+Pettigrew, T. F. (1964). A profile of the American Negro. Prince-
+ton, NJ: Van Nostrand.
+
+Ponterotto, J. G., & Pedersen, P. B. (1993). Preventing prejudice:
+A guide for counselors and educators. Newbury Park, CA: Sage.
+
+Rahim, A. M., & Magner, N. R. (1995). Confirmatory factor anal-
+ysis of the Styles of Handling Interpersonal Conflict: First-order
+factor model and its invariance across groups. Journal of Ap-
+plied Psychology, 80, 122-132.
+
+Simpson, G. E., & Yinger, J. M. (1985). Racial and cultural mi-
+norities: An analysis of prejudice and discrimination (5th ed.).
+New York: Plenum Press.
+
+Smith, E. M. J. (1985). Ethnic minorities: Life stress, social sup-
+port, and mental health issues. The Counseling Psychologist, 13,
+537-579.
+
+Terrell, F., & Miller, F. S. (1980). The development of an inventory
+to measure experience with racialistic incidents among Blacks.
+Unpublished manuscript.
+
+Thoits, P. A. (1991). On merging identity theory and stress re-
+search. Social Psychology Quarterly, 54, 101-112.
+
+Thompson, C. E., Neville, H., Weathers, P. L., Poston, W. C , &
+Atkinson, D. R. (1990). Cultural mistrust and racism reaction
+among African-American students. Journal of College Student
+Development, 31, 162-168.
+
+Wells, T. (1995). Learned effectiveness: The role of self-efficacy,
+racial identity, and perceptions of racism in the adaptive func-
+tioning of African American youth. Unpublished doctoral dis-
+sertation, California School of Professional Psychology, Los
+Angeles.
+
+White, J. L., & Parham, T. A. (1990). The psychology of Blacks:
+An African-American perspective (2nd ed.). New Jersey: Pren-
+tice Hall.
+
+Received October 3, 1995
+Revision received May 28, 1996
+
+Accepted May 29, 1996
+
+Statement of Ownership, Management, end circulation
+
+Journal of Counse
+
+Quarterly
+
+?....,._^_H|W»UiUI
+
+ling Psychology J l 7 »f-H«
+
+DC 20002-4242
+
+October
+
+$37/Mbr,
+J142/Ins
+
+cTf°BrWl
+
+"702/336
+
+1996
+
+5579
+
+American Psych
+
+EH*>. <***••-
+
+MD 2074
+
+750 Firs
+
+2
+
+ologic
+
+et NE,
+
+al Associa
+
+W
+
+• " • " " " " ^
+
+Washingtc
+
+n,°DC 20002-42
+
+n, DC 20002-42
+
+42
+
+42
+
+rnnHMMMNMAMI
+
+Washington, DC 20002-4242
+
+3 HlJ Hoi ChvieH During Framing 12
+
+PS torn 3526. S a t w x w 19*.
+
+'JS
+
+.»-«»-.o».,»™«™,.,,. . ,
+
+'—•—-« -«» -» . •
+
+,,0-c.U^L-^Sp-
+
+(Z) RMunu Iron f f a « Again
+
+LiDCHfSifi.<xr«B.r*BfiJ.»natJnO)J •
+
+H a m P»n w n Hiqumi a ctnjMixi
+
+July 1996
+
+10,701
+
+9,398
+
+9,398
+
+113
+
+. . .
+
+113
+
+9,511
+
+1,190
+
+10,701
+
+98.8
+
+11,702
+
+10,202
+
+10,202
+
+110
+
+110
+
+10,312
+
+1,390
+
+11,702
+
+98.9
+
+«MUn«lTlW«pMl
+og b in md krcHminM) m
+
+Instructions to Publishers
+
+T
+h
+is
+
+ d
+o
+cu
+
+m
+en
+
+t 
+is
+
+ c
+o
+p
+y
+ri
+
+g
+h
+te
+
+d
+ b
+
+y
+ t
+
+h
+e 
+
+A
+m
+
+er
+ic
+
+an
+ P
+
+sy
+ch
+
+o
+lo
+
+g
+ic
+
+al
+ A
+
+ss
+o
+ci
+
+at
+io
+
+n
+ o
+
+r 
+o
+n
+e 
+
+o
+f 
+
+it
+s 
+
+al
+li
+
+ed
+ p
+
+u
+b
+li
+
+sh
+er
+
+s.
+  
+
+T
+h
+is
+
+ a
+rt
+
+ic
+le
+
+ i
+s 
+
+in
+te
+
+n
+d
+ed
+
+ s
+o
+le
+
+ly
+ f
+
+o
+r 
+
+th
+e 
+
+p
+er
+
+so
+n
+al
+
+ u
+se
+
+ o
+f 
+
+th
+e 
+
+in
+d
+iv
+
+id
+u
+al
+
+ u
+se
+
+r 
+an
+
+d
+ i
+
+s 
+n
+o
+t 
+
+to
+ b
+
+e 
+d
+is
+
+se
+m
+
+in
+at
+
+ed
+ b
+
+ro
+ad
+
+ly
+.
+
+

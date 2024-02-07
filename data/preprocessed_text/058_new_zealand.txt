@@ -1,0 +1,1851 @@
+
+Project:Election Survey   Job:SNAP072                               Page 1  
+ 
+ Good...., my name is ^I and I am calling from ACNielsen, 
+ the market research company. 
+ We are conducting a survey on what people are thinking during the 2002 
+ election campaign, on behalf of the New Zealand Election Study Group based 
+ at the University of Auckland. 
+ May I please speak to the person in your household, aged 18 years or over,  
+ who MOST RECENTLY had a birthday, and who is eligible to vote in the coming 
+ election?    
+           ** ARRANGE CALLBACK IF NECESSARY ** REINTRODUCE IF NECESSARY ** 
+ 
+ NEW PERSON TO THE PHONE: 
+ Can I just confirm that you are the member of your household who most  
+ recently had a birthday, and who is aged 18 or over, and is eligible 
+ to vote in the coming election? 
+ 
+ 
+ TIMDAY - Version 3 - 21/6/02 RC/SJ                    (2) 
+ 
+        MORNING.....................................00 
+        MORNING.....................................01 
+        MORNING.....................................02 
+        MORNING.....................................03 
+        MORNING.....................................04 
+        MORNING.....................................05 
+        MORNING.....................................06 
+        MORNING.....................................07 
+        MORNING.....................................08 
+        MORNING.....................................09 
+        MORNING.....................................10 
+        MORNING.....................................11 
+        AFTERNOON...................................12 
+        AFTERNOON...................................13 
+        AFTERNOON...................................14 
+        AFTERNOON...................................15 
+        AFTERNOON...................................16 
+        EVENING.....................................17 
+        EVENING.....................................18 
+        EVENING.....................................19 
+        EVENING.....................................20 
+        EVENING.....................................21 
+        EVENING.....................................22 
+        EVENING.....................................23 
+ 
+ INTV NAME                                             (3) 
+                                        ______________ 
+ 
+ INTV CODE                                             (4) 
+                                        ______________ 
+ 
+ PHONE NUMBER                                          (5) 
+                                        ______________ 
+ 
+ INTERVIEW TIME                                        (6) 
+                                        ______________ 
+ 
+ INTERVIEW DATE                                        (7) 
+                                        ______________ 
+ 
+ NUMBER OF TIMES CALLED                                (8) 
+
+
+
+                                        ______________ 
+ 
+ IDENT                                                 (9) 
+                                        ______________ 
+ 
+
+
+
+Project:Election Survey   Job:SNAP072                               Page 2  
+ 
+ REGION                                                (10) 
+ 
+        LOCATION.....................................1 
+ 
+ VALIDATION TIME STAMP                                 (11) 
+                                        ______________ 
+ 
+ INFOEXPRESS AREAS                                     (12) 
+ 
+        WHANGAREI...................................01 
+        AUCKLAND ZONE 1.............................02 
+        AUCKLAND ZONE 2.............................03 
+        AUCKLAND ZONE 3.............................04 
+        AUCKLAND ZONE 4.............................05 
+        HAMILTON....................................06 
+        TAURANGA....................................07 
+        ROTORUA.....................................08 
+        GISBORNE....................................09 
+        NAPIER/HASTINGS.............................10 
+        NEW PLYMOUTH................................11 
+        WANGANUI....................................12 
+        PALMERSTON NORTH............................13 
+        WELLINGTON ZONE 1...........................14 
+        WELLINGTON ZONE 2...........................15 
+        WELLINGTON ZONE 3...........................16 
+        WELLINGTON ZONE 4...........................17 
+        NELSON......................................18 
+        CHRISTCHURCH ZONE 1.........................19 
+        CHRISTCHURCH ZONE 2.........................20 
+        CHRISTCHURCH ZONE 3.........................21 
+        DUNEDIN.....................................22 
+        INVERCARGILL................................23 
+        NORTHLAND RURAL/TOWNS.......................24 
+        AUCKLAND RURAL/TOWNS........................25 
+        WAIKATO RURAL/TOWNS.........................26 
+        BOP RURAL/TOWNS.............................27 
+        EAST COAST RURAL/TOWNS......................28 
+        TARANAKI RURAL/TOWNS........................29 
+        WANGANUI RURAL/TOWNS........................30 
+        MANAWATU RURAL/TOWNS........................31 
+        HAWKES BAY RURAL/TOWNS......................32 
+        WAIRARAPA RURAL/TOWNS.......................33 
+        WGTN/KAPITI RURAL/TOWNS.....................34 
+        NLSN/MARLBRGH RURAL/TOWNS...................35 
+        WEST COAST S.I.RURAL/TOWNS..................36 
+        CANTY RURAL/TOWNS...........................37 
+        SOUTH CANTERBURY RURAL/TOWNS................38 
+        OTAGO RURAL/TOWNS...........................39 
+        SOUTHLAND RURAL/TOWNS.......................40 
+ 
+
+
+
+Project:Election Survey   Job:SNAP072                               Page 3  
+ 
+ TLA AREAS                                             (16) 
+ 
+        000.........................................00 
+        001.........................................01 
+        002.........................................02 
+        003.........................................03 
+        004.........................................04 
+        005.........................................05 
+        006.........................................06 
+        007.........................................07 
+        008.........................................08 
+        009.........................................09 
+        010.........................................10 
+        011.........................................11 
+        012.........................................12 
+        013.........................................13 
+        014.........................................14 
+        015.........................................15 
+        016.........................................16 
+        017.........................................17 
+        018.........................................18 
+        019.........................................19 
+        020.........................................20 
+        021.........................................21 
+        022.........................................22 
+        023.........................................23 
+        024.........................................24 
+        025.........................................25 
+        026.........................................26 
+        027.........................................27 
+        028.........................................28 
+        029.........................................29 
+        030.........................................30 
+        031.........................................31 
+        032.........................................32 
+        033.........................................33 
+        034.........................................34 
+        035.........................................35 
+        036.........................................36 
+        037.........................................37 
+        038.........................................38 
+        039.........................................39 
+        040.........................................40 
+        041.........................................41 
+        042.........................................42 
+        043.........................................43 
+        044.........................................44 
+        045.........................................45 
+        046.........................................46 
+        047.........................................47 
+        048.........................................48 
+        049.........................................49 
+        050.........................................50 
+        051.........................................51 
+        052.........................................52 
+        053.........................................53 
+        054.........................................54 
+        055.........................................55 
+        056.........................................56 
+
+
+
+        057.........................................57 
+        058.........................................58 
+        059.........................................59 
+        060.........................................60 
+        061.........................................61 
+        062.........................................62 
+        063.........................................63 
+        064.........................................64 
+        065.........................................65 
+        066.........................................66 
+        067.........................................67 
+        068.........................................68 
+        069.........................................69 
+        070.........................................70 
+        071.........................................71 
+        072.........................................72 
+        073.........................................73 
+        074.........................................74 
+        075.........................................75 
+ 
+
+
+
+Project:Election Survey   Job:SNAP072                               Page 4  
+ 
+ SUBURB                                                (13) 
+                        ______________________________ 
+ 
+ STREET                                                (14) 
+                        ______________________________ 
+ 
+ STREET TYPE                                           (15) 
+                        ______________________________ 
+ 
+ SMS Reference                                         (17) 
+                                        ______________ 
+ 
+ Day sample filed in definer                           (18) 
+ 
+        DAY 1 -21/6/02..............................01 
+        DAY 2 -22...................................02 
+        DAY 3 -23...................................03 
+        DAY 4 -24...................................04 
+        DAY 5 -25...................................05 
+        DAY 6 -26...................................06 
+        DAY 7 -27...................................07 
+        DAY 8 -28...................................08 
+        DAY 9 -29...................................09 
+        DAY 10 -30..................................10 
+        DAY 11 -01/07/02............................11 
+        DAY 12 -02..................................12 
+        DAY 13 -03..................................13 
+        DAY 14 -04..................................14 
+        DAY 15 -05..................................15 
+        DAY 16 -06..................................16 
+        DAY 17 -07..................................17 
+        DAY 18 -08..................................18 
+        DAY 19 -09..................................19 
+        DAY 20 -10..................................20 
+        DAY 21 -11..................................21 
+        DAY 22 -12..................................22 
+        DAY 23 -13..................................23 
+        DAY 24 -14..................................24 
+        DAY 25 -15..................................25 
+        DAY 26 -16..................................26 
+        DAY 27 -17..................................27 
+        DAY 28 -18..................................28 
+        DAY 29 -19..................................29 
+        DAY 30 -20..................................30 
+        DAY 31 -21..................................31 
+        DAY 32 -22..................................32 
+        DAY 33 -23..................................33 
+        DAY 34 -24..................................34 
+        DAY 35 -25..................................35 
+        DAY 36 -26..................................36 
+ 
+
+
+
+Project:Election Survey   Job:SNAP072                               Page 5  
+ 
+ 
+ NUMBER OF TIMES CALLED                                (20) 
+                                            __________ 
+ 
+ INTRO START TIME (SECONDS)                            (21) 
+                                                    __ 
+ 
+ DATE OF SAMPLE LOAD                                   (22) 
+                                  ____________________ 
+ 
+                                                       (121) 
+  Q121.As I said, we are conducting interviews on behalf of the New Zealand 
+       Election Study Group based at the University of Auckland. They are 
+       studying what people are thinking during the 2002 election campaign. 
+       We would be very grateful for your help and in appreciation would like 
+       to put your name in a draw to win $300 to be spent at a retail outlet 
+       of your choice. I'll record your name at the end of the survey. 
+   
+       The survey will take around 15 minutes, is it convenient to talk to 
+       you now? 
+   
+       IF HESITANT: Your telephone number was randomly selected by computer 
+       and your identity will remain completely confidential. It will take 
+       approximately 15 minutes to complete the questions and your answers 
+       recorded in our dataset will be completely anonymous. 
+ 
+        Continue with survey now.....................1 -Skip-(128) 
+        Call back [ALT S -make an appointment].......2 -Back-(121) 
+        Still hesitant...............................3 
+ 
+                                                       (122) 
+   
+            *** FURTHER INFORMATION IF NECESSARY *** 
+  Q122. 
+      This research is publicly funded and will generate information that 
+      will help assessment of how well our electoral and political processes 
+      are working, and what people think about politics. 
+   
+      The research is being conducted by the New Zealand Election Study and 
+      it is funded by the Foundation for Research, Science, and Technology. 
+      If you wish for any further information you can call Professor Jack 
+      Vowles on 09-3737599 extension 8644 
+   
+   
+   
+   
+      < PRESS ENTER TO CONTINUE > 
+                                        ______________ 
+ 
+                                                       (128) 
+   
+   
+   
+  Q128. First, can I just confirm that you are eligible to vote in New Zealand? 
+   
+ 
+        Yes..........................................1 -Skip-(134) 
+        No...........................................2 
+        Refused......................................8 
+
+
+
+        Don't know...................................9 
+ 
+                                                       (129) 
+
+
+
+Project:Election Survey   Job:SNAP072                               Page 6  
+ 
+   
+  Q129.Please may I speak to the person aged 18 and over, who celebrated 
+       their birthday BEFORE yours AND who is eligible to vote? 
+   
+ 
+        Yes -available to come to phone..............1 -Back-(121) 
+        Yes -not available...........................2 
+        No other eligible voter in household.........3 -Skip-(133) 
+        Refused......................................8 -Skip-(133) 
+        Don't know...................................9 -Skip-(133) 
+ 
+                                                       (130) 
+   
+   
+  Q130.And can you suggest a more convenient time when I could speak to 
+       that person? 
+   
+ 
+        Yes [ALT S -make an appointment].............1 -Back-(130) 
+        No...........................................2 
+        Refused......................................8 
+        Don't know...................................9 
+ 
+                                                       (133) 
+  Q133. 
+   
+      For this survey we need to speak to people eligible to vote 
+      in New Zealand. 
+   
+      In case you missed it my name is (3) from ACNielsen. 
+   
+      Thank you very much for your time. 
+ 
+        To Close Survey..............................1 -Terminate. 
+ 
+                                                       (134) 
+  Q134. 
+   
+      As far as you know, are you on the electoral roll? 
+ 
+        Yes..........................................1 
+        No...........................................2 -Skip-(136) 
+        Refused......................................8 -Skip-(136) 
+        Not sure/Don't know..........................9 
+ 
+                                                       (135) 
+   
+  Q135.And which electoral roll are you on, the General or Maori roll? 
+ 
+        General......................................1 
+        Maori........................................2 
+        Refused......................................8 
+        Don't know...................................9 
+ 
+                                                       (136) 
+  Q136. 
+   
+      Generally speaking, how much interest do you usually have in what's 
+      going on in politics? Would you say you are... 
+
+
+
+   
+      *** READ OUT ***  
+ 
+        Very interested..............................1 
+        Fairly interested............................2 
+        Not very interested..........................3 
+        Not at all interested........................4 
+        TOTAL INTERESTED.............................5 
+        TOTAL NOT INTERESTED.........................6 
+        *** DO NOT READ *** Refused..................8 
+        *** DO NOT READ *** Don't know...............9 
+ 
+                                                       (152) 
+
+
+
+Project:Election Survey   Job:SNAP072                               Page 7  
+ 
+   
+  Q152.Did you watch the news on TV One either last night or the night before? 
+   
+       IF CLARIFICATION NEEDED: Either the 6pm or the late night news. 
+ 
+        Yes..........................................1 
+        No...........................................2 
+        Refused......................................8 
+        Don't know...................................9 
+ 
+                                                       (154) 
+   
+  Q154.Did you watch the news on TV3 either last night or the night before? 
+   
+       IF CLARIFICATION NEEDED: Either the 6pm or the late night news. 
+ 
+        Yes..........................................1 
+        No...........................................2 
+        Refused......................................8 
+        Don't know...................................9 
+ 
+                                                       (155) 
+   
+   
+  Q155.Did you see any party broadcasts or advertising on television either 
+       last night or the night before? 
+ 
+        Yes..........................................1 
+        No...........................................2 -Skip-(171) 
+ 
+                                                       (156) 
+
+
+
+Project:Election Survey   Job:SNAP072                               Page 8  
+ 
+   
+  Q156.Which party's broadcasts or advertising did you see? 
+ 
+        ACT........................................01, 
+        Alliance...................................02, 
+        Christian Heritage.........................03, 
+        Green......................................04, 
+        Jim Anderton's Progressive Coalition.......05, 
+        Labour.....................................06, 
+        National...................................07, 
+        New Zealand First..........................08, 
+        United Future..............................09, 
+        Refused....................................98, 
+        Don't know/Don't care......................99, 
+ 
+                                                       (171) 
+
+
+
+Project:Election Survey   Job:SNAP072                               Page 9  
+ 
+  Q171. 
+   
+      Which radio stations have you listened to over the last two days? 
+   
+      *** CODE ALL MENTIONS *** 
+ 
+        National...................................01, 
+        Newstalk ZB................................02, 
+        Radio Pacific..............................03, 
+        Mai FM.....................................04, 
+        Channel Z..................................05, 
+        Radio Hauraki..............................06, 
+        The Edge...................................07, 
+        The Rock...................................08, 
+        Other 1 (TYPE IN)..........................37, 
+        Other 2 (TYPE IN)..........................38, 
+        Other 3 (TYPE IN)..........................39, 
+        Other 4 (TYPE IN)..........................40, 
+        Other 5 (TYPE IN)..........................41, 
+        Don't listen to the radio..................99, -Skip-(181) 
+ 
+ 
+ 
+ <<IF:(171)(1)>> 
+ <<CONTINUE else<<SKIP to:(174)>> 
+ 
+                                                       (173) 
+   
+   
+  Q173.And did you listen to Morning Report or Checkpoint over the last 
+       two days? 
+   
+ 
+        Yes..........................................1 
+        No...........................................2 
+        Don't know...................................9 
+ 
+
+
+
+Project:Election Survey   Job:SNAP072                              Page 10  
+ 
+   
+  Q175.Can you remember hearing a news bulletin on (174) 
+       either yesterday or today? 
+   
+                                   (175) Q175      
+                               Frequency listen to 
+                                politics on other  
+                                    stations       
+                               ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ 
+                               Yes     No    Don't  
+                                             know   
+                               
+ (174) Q174 Other radio       
+ stations                     
+               Newstalk ZB #2......1......2......9 
+             Radio Pacific #3......1......2......9 
+                    Mai FM #4......1......2......9 
+                 Channel Z #5......1......2......9 
+             Radio Hauraki #6......1......2......9 
+                  The Edge #7......1......2......9 
+                  The Rock #8......1......2......9 
+                ^171(C37) #37......1......2......9 
+                ^171(C38) #38......1......2......9 
+                ^171(C39) #39......1......2......9 
+                ^171(C40) #40......1......2......9 
+                ^171(C41) #41......1......2......9 
+ 
+                                                       (183) 
+   
+  Q183.Did you read any political news or see any political advertising in 
+       today's or yesterday's paper?(0)s2 
+ 
+        Yes..........................................1 
+        No...........................................2 
+        Refused......................................8 
+        Don't know...................................9 
+ 
+                                                       (191) 
+   
+  Q191.What do you think is the single most important problem facing 
+       New Zealand today? 
+   
+    [IF RESPONDENT BEGINS TO TALK AT LENGTH SAY: 
+       I'm sorry, I only have a small space to write down what you say - how 
+       would you sum up in a few words?] 
+   
+       *** TYPE IN VERBATIM *** 
+ 
+        Type in......................................1 
+        Refused......................................8 -Skip-(193) 
+        Don't know...................................9 -Skip-(193) 
+ 
+                                                       (192) 
+
+
+
+Project:Election Survey   Job:SNAP072                              Page 11  
+ 
+   
+  Q192.Which political party do you feel could best solve that problem? 
+ 
+        ACT.........................................01 
+        Alliance....................................02 
+        Christian Heritage..........................03 
+        Green.......................................04 
+        Jim Anderton's Progressive Coalition........05 
+        Labour......................................06 
+        National....................................07 
+        New Zealand First...........................08 
+        United Future...............................09 
+        Other Party (Type In).......................37 
+        None........................................97 
+        Refused.....................................98 
+        Don't know..................................99 
+ 
+                                                       (193) 
+   
+  Q193.What is the single most important issue to you personally in this 
+       election? 
+   
+    [IF RESPONDENT BEGINS TO TALK AT LENGTH SAY: 
+       I'm sorry, I only have a small space to write down what you say - how 
+       would you sum up in a few words?] 
+   
+       *** TYPE IN VERBATIM *** 
+ 
+        Type In......................................1 
+        Refused......................................8 -Skip-(195) 
+        Don't know...................................9 -Skip-(195) 
+ 
+                                                       (194) 
+
+
+
+Project:Election Survey   Job:SNAP072                              Page 12  
+ 
+   
+  Q194.And which political party do you feel is closest to you on that issue? 
+ 
+        ACT.........................................01 
+        Alliance....................................02 
+        Christian Heritage..........................03 
+        Green.......................................04 
+        Jim Anderton's Progressive Coalition........05 
+        Labour......................................06 
+        National....................................07 
+        New Zealand First...........................08 
+        United Future...............................09 
+        Other Party (Type In).......................37 
+        None........................................97 
+        Refused.....................................98 
+        Don't know..................................99 
+ 
+  ~IF (202)(0) 
+  Q202. 
+      Over the last month, have you done any of the following things? 
+   
+      Have you... 
+       (201)? 
+   
+      IF YES: Is that often or occasionally? 
+  ~ELSE  
+  Q202. 
+   
+      And have you... 
+      (201)? 
+   
+      IF YES: Is that often or occasionally? 
+  ~END  
+   
+                               
+                                          (202) Q202             
+                               ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ 
+                               Often Occasi   No   Refuse  Don't  
+                                     -onall          -d    know   
+                                       -y    
+                               
+ (201) Q201 Behavioural       
+      Discussed Politics with 
+                    others #1......1......2......3......8......9 
+   Talked to any people about 
+      how they should vote #2......1......2......3......8......9 
+        Gone to any political 
+       meetings or rallies #3......1......2......3......8......9 
+Done any work for a political 
+        party or candidate #4......1......2......3......8......9 
+ 
+                                                       (203) 
+
+
+
+Project:Election Survey   Job:SNAP072                              Page 13  
+ 
+   
+  Q203.Of all the politicians in New Zealand, who would you most like to be 
+       Prime Minister? 
+   
+       *** DO NOT READ OUT *** DO NOT PROMPT *** 
+ 
+        Bill English................................01 
+        Helen Clark.................................02 
+        Winston Peters..............................03 
+        Jim Anderton................................04 
+        Richard Prebble.............................05 
+        Phil Goff...................................06 
+        Michael Cullen..............................07 
+        Rod Donald..................................08 
+        Jeannete Fitzsimmons........................09 
+        Laila Harre.................................10 
+        Other (Type In).............................37 
+        None........................................97 
+        Refused.....................................98 
+        Don't know..................................99 
+ 
+  ~IF (205)(0) 
+  Q205.Now we would like to know what you think about the following party 
+       leaders. Please rate each leader that I read out on a scale from 0 to 
+       10, where 0 means you strongly dislike that leader and 10 means that 
+       you strongly like them, and you may choose any numbers in between . 
+   
+       So firstly, how do you feel about (204)? 
+  ~ELSE  
+   
+  Q205.And how do you feel about (204)? 
+  ~END  
+   
+                               
+                                (204) Q204  
+                                  Party     
+                                 Leaders    
+                               ÍÍÍÍÍÍÍÍÍÍÍÍ 
+                               Bill   Helen  
+                              Englis  Clark  
+                                -h    - 2    
+                               - 1    
+                               
+ (205) Q205 Leader Rating     
+         0 - Strongly Dislike.....00.....00 
+                            1.....01.....01 
+                            2.....02.....02 
+                            3.....03.....03 
+                            4.....04.....04 
+                  5 - Neutral.....05.....05 
+                            6.....06.....06 
+                            7.....07.....07 
+                            8.....08.....08 
+                            9.....09.....09 
+           10 - Strongly Like.....10.....10 
+                      Refused.....38.....38 
+                   Don't know.....39.....39 
+ 
+
+
+
+Project:Election Survey   Job:SNAP072                              Page 14  
+ 
+  ~IF (211)(0) 
+  Q211.Now we would like to know what you think about each of the following 
+       political parties. Please rate each party that I read out on a scale 
+       from 0 to 10, where 0 means you strongly dislike that party and 10 
+       means that you strongly like them, and numbers in between mean varying 
+       degrees of disliking or liking. 
+   
+       So firstly, how do you feel about (210)? 
+  ~ELSE  
+   
+  Q211.And how do you feel about (210)? 
+  ~END  
+   
+                          
+                                        (210) Q210 Parties                
+                          ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ 
+                         Nation Labour Allian  New    ACT    The    Jim    
+                          -al    - 2    -ce   Zealan  - 5    Green Andert  
+                          - 1           - 3     -d           Party  -on's  
+                                               First         - 6   Progre  
+                                               - 4                 -ssive  
+                                                                   Coalit  
+                                                                    -ion   
+                                                                    - 7    
+                          
+ (211) Q211 Party Rating 
+    0 - Strongly Dislike.....00.....00.....00.....00.....00.....00.....00 
+                       1.....01.....01.....01.....01.....01.....01.....01 
+                       2.....02.....02.....02.....02.....02.....02.....02 
+                       3.....03.....03.....03.....03.....03.....03.....03 
+                       4.....04.....04.....04.....04.....04.....04.....04 
+             5 - Neutral.....05.....05.....05.....05.....05.....05.....05 
+                       6.....06.....06.....06.....06.....06.....06.....06 
+                       7.....07.....07.....07.....07.....07.....07.....07 
+                       8.....08.....08.....08.....08.....08.....08.....08 
+                       9.....09.....09.....09.....09.....09.....09.....09 
+      10 - Strongly Like.....10.....10.....10.....10.....10.....10.....10 
+                 Refused.....38.....38.....38.....38.....38.....38.....38 
+              Don't know.....39.....39.....39.....39.....39.....39.....39 
+ 
+                                                       (213) 
+
+
+
+Project:Election Survey   Job:SNAP072                              Page 15  
+ 
+  Q213.Some people vote in elections while others choose not to. Using a scale 
+       from 0 to 10, where 10 means very likely and 0 means very unlikely, 
+       and numbers in between mean varying degrees of likelihood. 
+       If an election were held today, how likely is it that you would vote? 
+ 
+        0 - Very Unlikely...........................00 
+        1...........................................01 
+        2...........................................02 
+        3...........................................03 
+        4...........................................04 
+        5 - Neutral.................................05 
+        6...........................................06 
+        7...........................................07 
+        8...........................................08 
+        9...........................................09 
+        10 - Very likely............................10 
+        Refused.....................................38 
+        Don't know..................................39 
+ 
+                                                       (214) 
+
+
+
+Project:Election Survey   Job:SNAP072                              Page 16  
+ 
+   
+  Q214.Generally speaking, do you usually think of yourself as Labour, 
+       National, NZ First, Green, ACT or some other party, or don't you think 
+       of yourself in this way? 
+ 
+        ACT.........................................01 
+        Alliance....................................02 
+        Christian Heritage..........................03 
+        Green.......................................04 
+        Jim Anderton's Progressive Coalition........05 
+        Labour......................................06 
+        National....................................07 
+        New Zealand First...........................08 
+        United Future...............................09 
+        Other Party (Type In).......................37 
+        Dont think of myself in this way............97 
+        Refused.....................................98 
+        Don't know..................................99 
+ 
+                                                       (221) 
+   
+  Q221.At the coming election you have two votes, one for a party, and one for 
+       a candidate in your electorate. 
+       Which vote do you think will be the most important in deciding which 
+       party gets the largest number of seats in parliament: the party vote, 
+       the electorate vote or would you say they are equally important? 
+ 
+        Party vote most important....................1 
+        Electorate vote most important...............2 
+        Equally important............................3 
+        Refused......................................8 
+        Don't know...................................9 
+ 
+                                                       (222) 
+
+
+
+Project:Election Survey   Job:SNAP072                              Page 17  
+ 
+   
+  Q222.Taking the party vote first, if an election were held today, which 
+       party would you vote for? 
+ 
+        ACT.........................................01 -Skip-(224) 
+        Alliance....................................02 -Skip-(224) 
+        Christian Heritage..........................03 -Skip-(224) 
+        Green.......................................04 -Skip-(224) 
+        Jim Anderton's Progressive Coalition........05 -Skip-(224) 
+        Labour......................................06 -Skip-(224) 
+        National....................................07 -Skip-(224) 
+        New Zealand First...........................08 -Skip-(224) 
+        United Future...............................09 -Skip-(224) 
+        Other Party (Type In).......................37 -Skip-(224) 
+        Would not vote..............................97 -Skip-(224) 
+        Refused.....................................98 
+        Don't know/Don't care.......................99 
+ 
+                                                       (223) 
+
+
+
+Project:Election Survey   Job:SNAP072                              Page 18  
+ 
+   
+  Q223.Which party do you think you would be most likely to vote for? 
+ 
+        ACT.........................................01 
+        Alliance....................................02 
+        Christian Heritage..........................03 
+        Green.......................................04 
+        Jim Anderton's Progressive Coalition........05 
+        Labour......................................06 
+        National....................................07 
+        New Zealand First...........................08 
+        United Future...............................09 
+        Other Party (Type In).......................37 
+        Would not vote..............................97 
+        Refused.....................................98 
+        Don't know/Don't care.......................99 
+ 
+                                                       (224) 
+
+
+
+Project:Election Survey   Job:SNAP072                              Page 19  
+ 
+   
+  Q224.Now turning to your electorate vote, if an election were held today, 
+       which party's candidate would get your electorate vote? 
+   
+    IF MENTIONS NAME BUT NO PARTY: Which party is that person standing for? 
+ 
+        ACT.........................................01 -Skip-(226) 
+        Alliance....................................02 -Skip-(226) 
+        Christian Heritage..........................03 -Skip-(226) 
+        Green.......................................04 -Skip-(226) 
+        Jim Anderton's Progressive Coalition........05 -Skip-(226) 
+        Labour......................................06 -Skip-(226) 
+        National....................................07 -Skip-(226) 
+        New Zealand First...........................08 -Skip-(226) 
+        United Future...............................09 -Skip-(226) 
+        Other Party or candidate with no party  
+        information (Type In).......................37 -Skip-(226) 
+        Would not vote..............................97 -Skip-(226) 
+        Refused.....................................98 
+        Don't know/Don't care.......................99 
+ 
+                                                       (225) 
+
+
+
+Project:Election Survey   Job:SNAP072                              Page 20  
+ 
+  Q225.Which party's candidate do you think you would be most likely to vote 
+       for? 
+   
+   IF MENTIONS NAME BUT NO PARTY: Which party is that person standing for? 
+ 
+        ACT.........................................01 
+        Alliance....................................02 
+        Christian Heritage..........................03 
+        Green.......................................04 
+        Jim Anderton's Progressive Coalition........05 
+        Labour......................................06 
+        National....................................07 
+        New Zealand First...........................08 
+        United Future...............................09 
+        Other Party or candidate with no party  
+        information (Type In).......................37 
+        Would not vote..............................97 -Skip-(228) 
+        Refused.....................................98 -Skip-(228) 
+        Don't know/Don't care.......................99 -Skip-(228) 
+ 
+                                                       (226) 
+   
+   
+  Q226.Is this party's candidate the one you like the most for your 
+       electorate? 
+ 
+        Yes..........................................1 -Skip-(228) 
+        No...........................................2 
+        Refused......................................8 -Skip-(228) 
+        Don't know...................................9 -Skip-(228) 
+ 
+                                                       (227) 
+
+
+
+Project:Election Survey   Job:SNAP072                              Page 21  
+ 
+   
+  Q227.Which candidate do you like the most? 
+   
+   IF NAME ONLY GIVEN: Which party is that candidate standing for? 
+ 
+        ACT.........................................01 
+        Alliance....................................02 
+        Christian Heritage..........................03 
+        Green.......................................04 
+        Jim Anderton's Progressive Coalition........05 
+        Labour......................................06 
+        National....................................07 
+        New Zealand First...........................08 
+        United Future...............................09 
+        Other Party or candidate with no party  
+        information (Type In).......................37 
+        Refused.....................................98 
+        Don't know/Don't care.......................99 
+ 
+                                                       (228) 
+
+
+
+Project:Election Survey   Job:SNAP072                              Page 22  
+ 
+   
+  Q228.If you could make a second choice for your electorate vote, which 
+       party's candidate would you choose? 
+ 
+        ACT.........................................01 
+        Alliance....................................02 
+        Christian Heritage..........................03 
+        Green.......................................04 
+        Jim Anderton's Progressive Coalition........05 
+        Labour......................................06 
+        National....................................07 
+        New Zealand First...........................08 
+        United Future...............................09 
+        Other Party or candidate with no party  
+        information (Type In).......................37 
+        Refused.....................................98 
+        Don't know/Don't care.......................99 
+ 
+                                                       (251) 
+   
+  Q251.Were you eligible to vote in the 1999 election? 
+ 
+        Yes..........................................1 
+        No...........................................2 -Skip-(254) 
+        Refused......................................8 -Skip-(254) 
+        Don't know...................................9 -Skip-(254) 
+ 
+                                                       (252) 
+   
+  Q252.And did you vote at the 1999 election? 
+ 
+        Yes..........................................1 
+        No...........................................2 -Skip-(254) 
+        Refused......................................8 -Skip-(254) 
+        Don't know...................................9 -Skip-(254) 
+ 
+                                                       (253) 
+
+
+
+Project:Election Survey   Job:SNAP072                              Page 23  
+ 
+   
+  Q253.What party did you give your party vote to in 1999? 
+ 
+        ACT.........................................01 
+        Alliance....................................02 
+        Christian Heritage..........................03 
+        Green.......................................04 
+        Jim Anderton's Progressive Coalition........05 
+        Labour......................................06 
+        National....................................07 
+        New Zealand First...........................08 
+        United Future...............................09 
+        Other (Type In).............................37 
+        Refused.....................................98 
+        Don't know/Don't Remember...................99 
+ 
+                                                       (254) 
+   
+   
+  Q254.After the coming election, what sort of government would you 
+       prefer - a government made up of a single party or a coalition 
+       government made up of more than one party? 
+ 
+        Single party.................................1 
+        Coalition/more than one......................2 
+        Refused......................................8 
+        Don't know...................................9 
+ 
+                                                       (261) 
+   
+   
+  Q261.Only some parties in Parliament form the government. The government is 
+       made up of a Prime Minister and Cabinet Ministers. Do you happen to 
+       recall which parties have been part of the Government since the 1999 
+       election? 
+ 
+        Yes..........................................1 
+        No...........................................2 -Skip-(264) 
+ 
+                                                       (262) 
+
+
+
+Project:Election Survey   Job:SNAP072                              Page 24  
+ 
+   
+  Q262.Which ones? 
+   
+      IF RESPONDENT APPEARS TO BE LISTING ALL PARTIES IN PARLIAMENT, PROMPT: 
+      By 'government' we mean the parties with Ministers in Cabinet, not all 
+      that have seats in Parliament. 
+ 
+        ACT........................................01, 
+        Alliance...................................02, 
+        Christian Heritage.........................03, 
+        Green......................................04, 
+        Jim Anderton's Progressive Coalition.......05, 
+        Labour.....................................06, 
+        National...................................07, 
+        New Zealand First..........................08, 
+        United Future..............................09, 
+        Other (Type In)............................37, 
+        Refused....................................98, 
+        Don't know/Don't Remember..................99, 
+ 
+                                                       (264) 
+   
+  Q264.Can you tell me whether or not the current government has more than 
+       half or less than half of the seats in parliament? 
+   
+       *** DO NOT PROMPT OR GIVE ANSWER *** 
+ 
+        More than half...............................1 
+        Less than half...............................2 
+        Exactly half (eg 50/50)......................3 
+        Refused......................................8 
+        Don't know/Can't remember....................9 
+ 
+                                                       (271) 
+
+
+
+Project:Election Survey   Job:SNAP072                              Page 25  
+ 
+  Q271.The next few questions ask what party or parties you prefer to be in 
+       government. Regardless of how many seats you expect the various parties 
+       to win, which party would you most like to be in Government? 
+   
+       IF RESPONDENT SAYS THEY DON'T WANT A ONE PARTY GOVERNMENT, ASK: 
+       If there were a coalition which is the first party you would choose? 
+ 
+        ACT.........................................01 
+        Alliance....................................02 
+        Christian Heritage..........................03 
+        Green.......................................04 
+        Jim Anderton's Progressive Coalition........05 
+        Labour......................................06 
+        National....................................07 
+        New Zealand First...........................08 
+        United Future...............................09 
+        Other Party (Type In).......................37 
+        None........................................97 
+        Refused.....................................98 
+        Don't know/Don't care.......................99 
+ 
+                                                       (272) 
+
+
+
+Project:Election Survey   Job:SNAP072                              Page 26  
+ 
+  Q272.If your first choice party was unable to form a government on its own, 
+       which other party would you prefer to be its partner? 
+ 
+        ACT.........................................01 
+        Alliance....................................02 
+        Christian Heritage..........................03 
+        Green.......................................04 
+        Jim Anderton's Progressive Coalition........05 
+        Labour......................................06 
+        National....................................07 
+        New Zealand First...........................08 
+        United Future...............................09 
+        Other Party (Type In).......................37 
+        None........................................97 
+        Refused.....................................98 
+        Don't know/Don't care.......................99 
+ 
+                                                       (273) 
+
+
+
+Project:Election Survey   Job:SNAP072                              Page 27  
+ 
+  Q273.If a third party is needed to form a government, which other party 
+       would you prefer? 
+   
+       *** CODE ALL MENTIONS ***  
+ 
+        ACT.........................................01 -Skip-(281) 
+        Alliance....................................02 -Skip-(281) 
+        Christian Heritage..........................03 -Skip-(281) 
+        Green.......................................04 -Skip-(281) 
+        Jim Anderton's Progressive Coalition........05 -Skip-(281) 
+        Labour......................................06 -Skip-(281) 
+        National....................................07 -Skip-(281) 
+        New Zealand First...........................08 -Skip-(281) 
+        United Future...............................09 -Skip-(281) 
+        Other Party (Type In).......................37 -Skip-(281) 
+        None........................................97 -Skip-(281) 
+        Refused.....................................98 -Skip-(281) 
+        Don't know/Don't care.......................99 -Skip-(281) 
+ 
+ 
+ 
+ <<IF:(271)( *NOT* 6 *AND*  *NOT* 7) *AND* (272)( *NOT* 6 *AND*  *NOT* 7) *AND* 
+(273)( *NOT* 6 *AND*  *NOT* 7)>> 
+ <<CONTINUE else<<SKIP to:(281)>> 
+ 
+                                                       (274) 
+   
+  Q274.Which of EITHER the National or Labour parties would you most prefer to 
+       be in the government? 
+ 
+        National.....................................1 
+        Labour.......................................2 
+        Both.........................................3 
+        Neither......................................4 
+        Refused......................................8 
+        Don't know...................................9 
+ 
+                                                       (281) 
+
+
+
+Project:Election Survey   Job:SNAP072                              Page 28  
+ 
+  Q281.Now I'd like to ask you more about what you EXPECT to happen at the 
+       coming election. 
+       Which parties do you expect to get seats in parliament in the coming 
+       election? 
+   
+       *** READ OUT *** CODE ALL MENTIONED *** 
+ 
+        ACT........................................01, 
+        Alliance...................................02, 
+        Christian Heritage.........................03, 
+        Green......................................04, 
+        Jim Anderton's Progressive Coalition.......05, 
+        Labour.....................................06, 
+        National...................................07, 
+        New Zealand First..........................08, 
+        United Future..............................09, 
+        Other Party (Type In)......................37, 
+        Refused....................................98, 
+        Don't know/Don't care......................99, 
+ 
+ 
+ 
+ <<IF:(281)[No. of answers](1)>> 
+ <<SKIP to:(301)>> 
+ 
+                                each 
+                               party 
+                                to   
+                                get  
+                               ÍÍÍÍÍ 
+                               
+ (282) Q-282                  
+                       ACT #1_______ 
+                  Alliance #2_______ 
+        Christian Heritage #3_______ 
+                     Green #4_______ 
+   Jim Anderton's Progressive 
+                 Coalition #5_______ 
+                    Labour #6_______ 
+                  National #7_______ 
+         New Zealand First #8_______ 
+             United Future #9_______ 
+                ^281(C37) #37_______ 
+ 
+  Q284.There will probably be 120 members and seats in the new parliament, which 
+   means that to become a government on its own, a party has to get over 60 
+   seats. How many seats out of the 120 do you expect each of the following 
+   parties to get? 
+   
+       Party:                             Number of Seats 
+       (282)M282(1/37)=""(5,30)     ^EDIT(283)""(40,6) 
+   
+       Total number of seats            {@1+2+3+4+5+6+7+8+9+37;     } 
+   
+        
+ 
+                                                       (284) 
+ 
+        PRESS ENTER WHEN COMPLETE....................1 
+
+
+
+ 
+ 
+ 
+ <<IF:(283)(999)>> 
+ <<SKIP to:(290)>> 
+ 
+
+
+
+Project:Election Survey   Job:SNAP072                              Page 29  
+ 
+                               
+                                (291) Seats 
+                               ÍÍÍÍÍÍÍÍÍÍÍÍ 
+                               
+ (290) Parties                
+                       ACT #1______________ 
+                  Alliance #2______________ 
+        Christian Heritage #3______________ 
+                     Green #4______________ 
+   Jim Anderton's Progressive 
+                 Coalition #5______________ 
+                    Labour #6______________ 
+                  National #7______________ 
+         New Zealand First #8______________ 
+             United Future #9______________ 
+ 
+                                                       (301) 
+   
+  Q301.Now we want to ask how likely you think it is that the various parties 
+       will be in the government after the election. 
+       Do you think the chances of National being in government are... 
+   
+       *** READ OUT ***  
+ 
+        Very good....................................1 
+        Fairly good..................................2 
+        Fairly poor..................................3 
+        Very poor....................................4 
+        Almost Nil...................................5 
+        TOTAL GOOD...................................6 
+        TOTAL POOR...................................7 
+        *** DO NOT READ *** Refused..................8 
+        *** DO NOT READ ***Don't know................9 
+ 
+                                                       (302) 
+   
+  Q302.And do you think the chances of Labour being in government are... 
+   
+       *** READ OUT ***  
+ 
+        Very good....................................1 -Skip-(304) 
+        Fairly good..................................2 -Skip-(304) 
+        Fairly poor..................................3 -Skip-(304) 
+        Very poor....................................4 -Skip-(304) 
+        Almost Nil...................................5 -Skip-(304) 
+        TOTAL GOOD...................................6 -Skip-(304) 
+        TOTAL POOR...................................7 -Skip-(304) 
+        *** DO NOT READ *** Refused..................8 -Skip-(304) 
+        *** DO NOT READ ***Don't know................9 -Skip-(304) 
+ 
+ 
+ 
+ <<IF:(301)(1) *AND* (302)(1) *OR* (301)(2) *AND* (302)(2)>> 
+ <<CONTINUE else<<SKIP to:(304)>> 
+ 
+                                                       (303) 
+   
+   
+  Q303.Between National and Labour, which do you think is the party most 
+
+
+
+       likely to form the government after the election? 
+ 
+        National.....................................1 
+        Labour.......................................2 
+        Neither......................................3 
+        Both.........................................4 
+        Refused......................................8 
+        Don't know...................................9 
+ 
+
+
+
+Project:Election Survey   Job:SNAP072                              Page 30  
+ 
+  Q305.Do you think the chances of (304) being in 
+       government are... 
+   
+       *** READ OUT IF NECESSARY ***  
+            
+                  (305) Q305 Chances of other parties - USE 1/5,8/9       
+            ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ 
+            Very  Fairly Fairly  Very  Almost  TOTAL  TOTAL *** DO *** DO  
+            good   good   poor   poor   Nil    GOOD   POOR   NOT    NOT    
+                                                             READ   READ   
+                                                             ***   ***Don  
+                                                            Refuse  -'t    
+                                                              -d    know   
+            
+ (304)     
+ Q304      
+ Other     
+ parties   
+    ACT #1......1......2......3......4......5......6......7......8......9 
+  Alliance 
+        #2......1......2......3......4......5......6......7......8......9 
+ Christian 
+  Heritage 
+        #3......1......2......3......4......5......6......7......8......9 
+  Green #4......1......2......3......4......5......6......7......8......9 
+       Jim 
+Anderton's 
+Progressiv 
+        -e 
+ Coalition 
+        #5......1......2......3......4......5......6......7......8......9 
+       New 
+   Zealand 
+  First #8......1......2......3......4......5......6......7......8......9 
+    United 
+ Future #9......1......2......3......4......5......6......7......8......9 
+ ^281(C37) 
+       #37......1......2......3......4......5......6......7......8......9 
+ 
+                                                       (321) 
+
+
+
+Project:Election Survey   Job:SNAP072                              Page 31  
+ 
+   
+  Q321.Now let's talk about the chances the various party candidates have of 
+       winning in the electorate that you are voting in. 
+       Which party's candidate, do you think, has the best chance of winning 
+       your electorate? 
+   
+       IF NAME ONLY MENTIONED, ASK FOR PARTY. 
+ 
+        ACT.........................................01 
+        Alliance....................................02 
+        Christian Heritage..........................03 
+        Green.......................................04 
+        Jim Anderton's Progressive Coalition........05 
+        Labour......................................06 
+        National....................................07 
+        New Zealand First...........................08 
+        United Future...............................09 
+        Other Party (Type In).......................37 
+        Refused.....................................98 -Skip-(331) 
+        Don't know/Don't care.......................99 -Skip-(331) 
+ 
+                                                       (322) 
+  Q322.Using a scale which runs from 0 to 10, where 0 represents no chance 
+       for the party, and 5 represents an even chance, and 10 means certain 
+       victory, (and the numbers in between represent varying degrees of 
+       chance). What do you think (321)'s chances are of winning your 
+       electorate seat? 
+   
+       *** IF REALLY DON'T KNOW TYPE IN 99 *** 
+ 
+        0 - No chance...............................00 
+        1...........................................01 
+        2...........................................02 
+        3...........................................03 
+        4...........................................04 
+        5 - Even....................................05 
+        6...........................................06 
+        7...........................................07 
+        8...........................................08 
+        9...........................................09 
+        10 - Certain victory........................10 
+        Refused.....................................38 
+        Don't know..................................39 
+ 
+                                                       (323) 
+
+
+
+Project:Election Survey   Job:SNAP072                              Page 32  
+ 
+  Q323.And which party's candidate is the one next most likely to win after 
+       (321)? 
+ 
+        ACT.........................................01 
+        Alliance....................................02 
+        Christian Heritage..........................03 
+        Green.......................................04 
+        Jim Anderton's Progressive Coalition........05 
+        Labour......................................06 
+        National....................................07 
+        New Zealand First...........................08 
+        United Future...............................09 
+        Other Party (Type In).......................37 
+        Refused.....................................98 -Skip-(331) 
+        Don't know/Don't care.......................99 -Skip-(331) 
+ 
+                                                       (324) 
+  Q324.Using the same scale which runs from 0 to 10, where 0 represents 
+       no chance for the party, and 5 represents an even chance, and 10 
+       means certain victory, (and the numbers in between represent varying 
+       degrees of chance). What do you think (323)'s chances are of winning 
+       your electorate seat? 
+   
+       *** IF REALLY DON'T KNOW TYPE IN 999 *** 
+ 
+        0 - No chance...............................00 
+        1...........................................01 
+        2...........................................02 
+        3...........................................03 
+        4...........................................04 
+        5 - Even....................................05 
+        6...........................................06 
+        7...........................................07 
+        8...........................................08 
+        9...........................................09 
+        10 - Certain victory........................10 
+        Refused.....................................38 
+        Don't know..................................39 
+ 
+                                                       (325) 
+
+
+
+Project:Election Survey   Job:SNAP072                              Page 33  
+ 
+   
+  Q325.Do you think any other party's candidate has a chance of winning? 
+ 
+        ACT.........................................01 
+        Alliance....................................02 
+        Christian Heritage..........................03 
+        Green.......................................04 
+        Jim Anderton's Progressive Coalition........05 
+        Labour......................................06 
+        National....................................07 
+        New Zealand First...........................08 
+        United Future...............................09 
+        Other Party (Type In).......................37 
+        No other candidate/None.....................97 -Skip-(331) 
+        Refused.....................................98 -Skip-(331) 
+        Don't know/Don't care.......................99 -Skip-(331) 
+ 
+                                                       (326) 
+  Q326.Again, using the same scale which runs from 0 to 10, where 0 
+       represents no chance for the party, and 5 represents an even chance, 
+       and 10 means certain victory, (and the numbers in between represent 
+       varying degrees of chance). What do you think (325)'s 
+       chances are of winning your electorate seat? 
+   
+       *** IF REALLY DON'T KNOW TYPE IN 999 *** 
+ 
+        0 - No chance...............................00 
+        1...........................................01 
+        2...........................................02 
+        3...........................................03 
+        4...........................................04 
+        5 - Even....................................05 
+        6...........................................06 
+        7...........................................07 
+        8...........................................08 
+        9...........................................09 
+        10 - Certain victory........................10 
+        Refused.....................................38 
+        Don't know..................................39 
+ 
+                                                       (351) 
+
+
+
+Project:Election Survey   Job:SNAP072                              Page 34  
+ 
+  Q351.I am now going to ask you about organisations and people you trust and 
+       have confidence in. 
+   
+       Thinking of a scale where 8 means full trust and confidence, 0 means no 
+       trust and confidence at all, 4 means you have trust and confidence 
+       about half the time, and numbers in between represent varying degrees 
+       of trust and confidence. 
+       How much trust and confidence would you say you have in parliament. 
+   
+       IF NECESSARY REPEAT SCALE 
+ 
+        0 - No trust and confidence.................00 
+        1...........................................01 
+        2...........................................02 
+        3...........................................03 
+        4 - Halfway trust and confidence............04 
+        5...........................................05 
+        6...........................................06 
+        7...........................................07 
+        8 - Full trust and confidence...............08 
+        Refused.....................................98 
+        Don't know..................................99 
+ 
+                                                       (352) 
+
+
+
+Project:Election Survey   Job:SNAP072                              Page 35  
+ 
+  Q352.And how much trust and confidence would you say you have in 
+       public servants? 
+   
+       IF NECESSARY: 8 means full trust and confidence, 0 means no trust and 
+       confidence at all, and 4 means you have trust and confidence about half 
+       the time (and any number in between). 
+ 
+        0 - No trust and confidence.................00 
+        1...........................................01 
+        2...........................................02 
+        3...........................................03 
+        4 - Halfway trust and confidence............04 
+        5...........................................05 
+        6...........................................06 
+        7...........................................07 
+        8 - Full trust and confidence...............08 
+        Refused.....................................98 
+        Don't know..................................99 
+ 
+                                                       (353) 
+  Q353.There has been talk lately about the way democracy works in New 
+       Zealand. On the whole how satisfied are you with the way democracy 
+       works in New Zealand. 
+   
+       Are you..       *** READ OUT ***  
+ 
+        Very satisfied...............................1 
+        Fairly satisfied.............................2 
+        Not very satisfied...........................3 
+        Not at all satisfied.........................4 
+        TOTAL SATISFIED..............................5 
+        TOTAL DISATISFIED............................6 
+        *** DO NOT READ *** Refused..................8 
+        *** DO NOT READ *** Don't know...............9 
+ 
+                                                       (354) 
+   
+  Q354.What do you think of the state of the economy these days in New 
+       Zealand? Would you say it is.... 
+   
+       *** READ OUT *** 
+ 
+        Very good....................................1 
+        Good.........................................2 
+        Bad..........................................3 
+        Very bad.....................................4 
+        Neither good nor bad.........................5 
+        TOTAL GOOD...................................6 
+        TOTAL BAD....................................7 
+        *** DO NOT READ *** Refused..................8 
+        *** DO NOT READ *** Don't know...............9 
+ 
+                                                       (355) 
+  Q355.I'm now going to read you some statements about elections and MPs. 
+       Could you tell me how much you agree or disagree with each statement. 
+   
+       Firstly, It's a citizens duty to vote? Do you... 
+   
+       *** READ OUT ***  
+
+
+
+   
+       PROBE: Is that slightly or strongly agree/disagree? 
+ 
+        Strongly agree...............................1 
+        Agree........................................2 
+        Neither agree nor disagree...................3 
+        Disagree.....................................4 
+        Strongly Disagree............................5 
+        TOTAL AGREE..................................6 
+        TOTAL DISAGREE...............................7 
+        *** DO NOT READ *** Refused..................8 
+        *** DO NOT READ *** Don't know...............9 
+ 
+
+
+
+Project:Election Survey   Job:SNAP072                              Page 36  
+ 
+   
+  Q356.And how much do you agree or disagree with the statement... 
+       (356)? 
+   
+       Do you..           *** READ OUT IF NECESSARY *** 
+                               
+                                   (357) Q357 Agreement with     
+                                          statements             
+                               ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ 
+                               Agree Neithe Disagr *** DO *** DO  
+                                       -r    -ee    NOT    NOT    
+                                      agree         READ   READ   
+                                      nor           ***    ***    
+                                     disagr        Refuse  Don't  
+                                      -ee            -d    know   
+                               
+ (356) Q356 Statements        
+   Most members of Parliament 
+    are out of touch with the 
+      rest of the country' #1......1......2......3......8......9 
+I don't think politicians and 
+    public servants care much 
+    about what people like me 
+                     think #2......1......2......3......8......9 
+ 
+                                                       (401) 
+   
+  Q401.   Finally a few questions about you to ensure we interview a 
+          cross-section of the public. 
+   
+          These details are grouped with those of other respondents 
+          and you will not be individually identified. 
+   
+   
+          *** INTERVIEWER PLEASE CODE *** 
+ 
+        Male.........................................1 
+        Female.......................................2 
+ 
+   
+  Q402.In what year were you born? 
+   
+   
+   
+       *** CODE 8888 FOR REFUSED AND 9999 FOR DON'T KNOW *** 
+   
+   
+   
+       RECORD YEAR:  
+ 
+                                                       (402) 
+                                                  ____ 
+ 
+                                                       (403) 
+
+
+
+Project:Election Survey   Job:SNAP072                              Page 37  
+ 
+   
+  Q403.Including yourself, how many people in your household are 
+       aged 18 years or over? 
+   
+      *** NOTE: "NONE" IS NOT A LEGITIMATE RESPONSE *** 
+ 
+        One.........................................01 
+        Two.........................................02 
+        Three.......................................03 
+        Four........................................04 
+        Five........................................05 
+        Six.........................................06 
+        Seven.......................................07 
+        Eight.......................................08 
+        Nine........................................09 
+        Ten.........................................10 
+        Refused.....................................99 
+ 
+   
+  Q404.And finally, may I have your name and check your phone number so that 
+       if you win the draw for $300 we know who to ask for. 
+   
+   
+   
+    Type in Name:  
+ 
+                                                       (404) 
+                        ______________________________ 
+ 
+   
+    CHECK PHONE NUMBER IS CORRECT: (5) 
+   
+    IF PHONE NUMBER IS INCORRECT TYPE IN CORRECT NUMBER:  
+ 
+                                                       (405) 
+                                          ____________ 
+ 
+                                                       (406) 
+   
+  Q406.Researchers at the University of Auckland are conducting a followup 
+       survey by post after the election. We would like to send you a copy to 
+       fill out when convenient to you. It can be sent back post free and 
+       would give you a chance to go into another draw for a $300 voucher. 
+   
+       If you are willing to participate, we will need your full name and 
+       address. 
+ 
+        Willing - Go to name address details.........1 -Skip-(408) 
+        Hesitant.....................................2 
+ 
+                                                       (407) 
+   
+  Q407.Of course all this information remains completely confidential. Your 
+       name and address will only be used for administrative purposes and will 
+       not be included in the study in anyway way that can identify you or 
+       your responses. 
+   
+ 
+        Willing - Go to name address details.........1 
+
+
+
+        Do not want to be involved in follow-up......2 -Skip-(412) 
+ 
+   
+  Q408.Can I have your full name and address so we can address the 
+       questionnaire properly. 
+   
+
+
+
+Project:Election Survey   Job:SNAP072                              Page 38  
+ 
+   
+                 Name:  
+ 
+                                                       (408) 
+                        ______________________________ 
+ 
+   
+      Street Address :  
+ 
+                                                       (409) 
+     _________________________________________________ 
+ 
+   
+              Suburb :  
+ 
+                                                       (410) 
+                        ______________________________ 
+ 
+   
+           City/Town :  
+ 
+                                                       (411) 
+              ________________________________________ 
+ 
+   
+   
+      Make sure names and addresses are transcribed accurately. If you have 
+      doubts about spelling - ASK. 
+   
+      < PRESS ENTER TO CONTINUE > 
+                                                       (412) 
+   
+  Q412.   Should you have any queries about this survey, my name 
+          is (3) from ACNielsen in Auckland. 
+   
+          Thank you for your time. 
+   
+          [ Give ACNielsen's telephone number if requested - 09 488 3188 ] 
+   
+   
+          ( THE TELEPHONE NUMBER IS :  (5) ) 
+   
+          ( THE IDENT NUMBER IS (7) ) 
+   
+           
+ 
+        TO END INTERVIEW.............................1 
+ 
+ Q-413                                                 (413) 
+                                        ______________ 
+ 
+ Q-414                                                 (414) 
+                                        ______________ 
+ 
+
+
+
+Project:Election Survey   Job:SNAP072                              Page 39  
+ 
+ 
+ 
+ <<SKIP to:END>> 
+ 
+ 
+
+
+
+ 
+
+
+
+

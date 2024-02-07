@@ -1,0 +1,119 @@
+
+Self Report Measures for Love and Compassion Research: Loneliness and Interpersonal Problems  
+ 
+
+UCLA LONELINESS SCALE 
+ 
+Reference:  
+ 
+Russell, D , Peplau, L. A.. & Ferguson, M. L. (1978). Developing a measure of loneliness. 
+
+Journal  of Personality Assessment, 42, 290-294. 
+ 
+Description of Measure:  
+ 
+ A 20-item scale designed to measure one’s subjective feelings of loneliness as well as 
+feelings of social isolation.  Participants rate each item as either O (“I often feel this way”), 
+S (“I sometimes feel this way”), R (“I rarely feel this way”), N (“I never feel this way”).   
+ The measure has been revised two times since its first publication; once to create 
+reverse scored items, and once to simplify the wording.  (See other UCLA Loneliness Scale 
+pages on the site). 
+ 
+Abstracts of Selected Related Articles: 
+ 
+Russell, D , Peplau, L. A.., & Cutrona, C. E. (1980). The Revised UCLA Loneliness Scale: 
+
+Concurrent and discriminate validity evidence. Journal of Personality and Social 
+Psychology, 39, 472-480. 
+
+ 
+The development of an adequate assessment instrument is a necessary prerequisite for 
+social psychological research on loneliness. Two studies provide methodological 
+refinement in the measurement of loneliness. Study 1 presents a revised version of the 
+self-report UCLA (University of California, Los Angeles) Loneliness Scale, designed to 
+counter the possible effects of response bias in the original scale, and reports concurrent 
+validity evidence for the revised measure. Study 2 demonstrates that although 
+loneliness is correlated with measures of negative affect, social risk taking, and 
+affiliative tendencies, it is nonetheless a distinct psychological experience.  
+
+ 
+Russell, D. (1996). UCLA Loneliness Scale (Version 3): Reliability, validity, and factor 
+
+structure. Journal of Personality Assessment, 66, 20-40. 
+ 
+
+In this article I evaluated the psychometric properties of the UCLA Loneliness Scale 
+(Version 3). Using data from prior studies of college students: nurses, teachers, and the 
+elderly, analyses of the reliability, validity, and factor structure of this new version of 
+the UCLA Loneliness Scale were conducted. Results indicated that the measure was 
+highly reliable, both in terms of internal consistency (coefficient a ranging from .89 to 
+.94) and test-retest reliability over a 1-year period (r = .73). Convergent validity for the 
+scale was indicated by significant correlations with other measures of loneliness. 
+Construct validity was supported by significant relations with measures of the adequacy 
+of the individual's interpersonal relationships, and by correlations between loneliness 
+and measures of health and well-being. Confirmatory factor analyses indicated that a 
+model incorporating a global bipolar loneliness factor along with two method factors 
+reflecting direction of item wording provided a very good fit to the data across samples. 
+Implications of these results for future measurement research on loneliness are 
+discussed.  
+
+
+
+Self Report Measures for Love and Compassion Research: Loneliness and Interpersonal Problems  
+ 
+
+ 
+Weeks, D. G., Michela, J. L., Peplau, L. A., & Bragg, M. E. (1980). Relation between 
+
+loneliness and depression: A structural equation analysis. Journal of Personality and 
+Social Psychology, 39,1238-1244 
+Research on loneliness has been hampered by its strong association with depression. 
+The 2 states frequently co-occur, and measures of the 2 states are substantially 
+correlated. Inability to manipulate experimentally loneliness or depression makes it 
+difficult to untangle the causal influence of one on the other. The combination of 
+longitudinal design and structural equation methodology is proposed as a solution to 
+this general problem. Measures of loneliness and depression (e.g., the Beck Depression 
+Inventory and Profile of Mood States) were administered to undergraduates at 2 points 
+5 wks apart. Data from 333 Ss were correlated and analyzed under a succession of 
+structural equation models. Results indicate that loneliness and depression were 
+correlated but clearly different constructs; neither was a direct cause of the other, 
+although both probably share some common origins; both were highly stable over the 5-
+wk period. 
+
+ 
+Scale: 
+INSTRUCTIONS: Indicate how often each of the statements below is descriptive of you.  
+ 
+ C indicates “I often feel this way” 
+ S indicates “I sometimes feel this way”  
+ R indicates “I rarely feel this way” 
+ N indicates “I never feel this way” 
+ 
+
+1. I am unhappy doing so many things alone    O  S  R  N 
+2. I have nobody to talk to       O  S  R  N 
+3. I cannot tolerate being so alone      O  S  R  N 
+4. I lack companionship       O  S  R  N 
+5. I feel as if nobody really understands me     O  S  R  N 
+6. I find myself waiting for people to call or write   O  S  R  N 
+7. There is no one I can turn to      O  S  R  N 
+8. I am no longer close to anyone     O  S  R  N 
+9. My interests and ideas are not shared by those around me  O  S  R  N 
+10. I feel left out        O  S  R  N 
+11. I feel completely alone      O  S  R  N 
+12. I am unable to reach out and communicate with those around me O  S  R  N 
+13. My social relationships are superficial    O  S  R  N 
+14. I feel starved for company      O  S  R  N 
+15. No one really knows me well     O  S  R  N 
+16. I feel isolated from others      O  S  R  N 
+17. I am unhappy being so withdrawn     O  S  R  N 
+18. It is difficult for me to make friends    O  S  R  N 
+19. I feel shut out and excluded by others    O  S  R  N 
+20. People are around me but not with me    O  S  R  N 
+
+ 
+Scoring: 
+ 
+Make all O’s =3, all S’s =2, all R’s =1, and all N’s =0.  Keep scoring continuous. 
+
+

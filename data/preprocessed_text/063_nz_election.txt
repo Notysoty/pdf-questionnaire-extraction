@@ -1,0 +1,1352 @@
+
+1 
+
+ OFFICE USE ONLY 
+ YEARS     MONTHS  - if given 
+
+ 
+
+ 
+1 GREAT DEAL 4 NONE AT ALL 
+
+2 QUITE A LOT 8 DK 
+
+3 SOME  9NA 
+
+ 
+
+1 YES  8 DK 
+
+2 NO  9 NA 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 BLEACH 6 RODGER 
+
+2 PARTLY CORRECT 
+
+4 OTHER:  8 ‘NO’ AND DK 
+
+5 ‘YES’ BUT NO 9 NA 
+
+NAME GIVEN 0 WOODS 
+
+ 
+
+1 NATIONAL 6 ‘YES’ BUT NO 
+
+2 LABOUR PARTY GIVEN 
+
+3 SOCIAL CREDIT 
+
+4 VALUES 
+
+5 OTHER:  9 NA 
+
+ 
+
+1 3 years (1 term)  4 About 9 (or 10) 
+
+2 “short time” years, 3 terms 
+
+3 6 years, “two 5 over 10 years 
+
+terms”, “about 6 over 20 years 
+
+5 years”  7 “long time” 
+
+  9 NA 
+
+VOTING SURVEY, 1981:  DUNEDIN NORTH ELECTORATE 
+
+ 
+Good morning: My name is    . We have been commissioned to conduct a 
+
+study for the Political Studies Department of the University of Otago. I would be most grateful 
+
+if you would help me by answering some questions. I can assure you that all your answers 
+
+and views will be treated as fully confidential. Thank you very much.  
+
+Would you tell me how many men/women there are in this household who are registered 
+
+electors in the DUNEDIN NORTH ELECTORATE? 
+
+1 Interview 2 or more List     (Interview person whose birthday falls next 
+
+after date of interview.)   NOT COMPLETED  
+
+ 
+
+3:01 Well, first of all I would like to ask roughly how long you 
+
+have been living in the Dunedin North Electorate? 
+
+3:02 How much interest do you generally have in what goes on 
+
+in politics – a great deal, quite a lot, some or none at all? 
+
+ 
+
+3:03 In the past month, has anyone from any of the political 
+
+parties visited you? 
+
+ 
+
+ 
+
+3:03b IF YES: Could you give me details? 
+
+      
+
+      
+
+      
+
+3:04 Do you happen to know your M.P.’s name? What is that? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3:05 (Well), do you happen to remember which party your M.P. 
+
+belongs to? Which party is that? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3:06 And do you, by any chance know how long your M.P.’s 
+
+been in Parliament? 
+
+3:06b IF YES: How long?      
+
+(IF NECESSARY WRITE IN ANSWER) 
+
+
+
+2 
+
+1 BLEACH 8 ‘NO’ AND DK 
+
+2 RODGER 9 NA 
+
+4 OTHER NAME:  0 WOODS 
+
+   
+
+ 
+
+1 BLEACH 8 ‘NO’ AND DK 
+
+2 RODGER 9 NA 
+
+4 OTHER NAME:  0 WOODS 
+
+   
+
+ 
+
+1 BLEACH 8 ‘NO’ AND DK 
+
+2 RODGER 9 NA 
+
+4 OTHER NAME:  0 WOODS 
+
+1 YES – HEARD  5 NO 
+
+2 YES – SPOKEN 6 DK 
+
+3 YES – BOTH  9 NA 
+
+1 YES – HEARD  5 NO 
+
+2 YES – SPOKEN 6 DK 
+
+3 YES – BOTH  9 NA 
+
+1 YES – HEARD  5 NO 
+
+2 YES – SPOKEN 6 DK 
+
+3 YES – BOTH  9 NA 
+
+1 BLEACH 6 ALL VERY SIMILAR
+
+2 RODGER 7 OTHER: 
+
+3 WOODS    
+
+5 BOTH BLEACH  8 DK 
+
+AND RODGER 9 NA 
+
+EQUALLY 
+
+The political parties have now announced their candidates for the forthcoming election, for the 
+
+Dunedin North Electorate.  
+
+3:07 Can you tell me the name of the Labour Party candidate? 
+
+ 
+
+ 
+
+ 
+
+3:08 And do you know the name of the National Party 
+
+candidate? 
+
+ 
+
+ 
+
+ 
+
+3:09 And what about Social Credit: do you know the name of 
+
+the Social Credit candidate? Who is that? 
+
+ 
+
+3:09b And the Wizard Party? Can you tell me the name of the 
+
+Wizard Party candidate? (Write in Answer):  NA  
+
+AT THIS STAGE, CORRECT THE RESPONDENT IF NECESSARY: 
+
+Of course, names aren’t important, but the Labour Party candidate and current M.P. is Mr. 
+
+Stan Rodger, the National Party candidate is Mr. Des Bleach, and the Social Credit candidate 
+
+is Mr. Hamish Woods, and the Wizard Party candidate is Mr. Wayne Everson.  
+
+3:10 Have you ever spoken to or heard Mr. Rodger? 
+
+3:10b If YES: When was that ?     
+
+         
+
+ 
+
+3:11 Have you ever spoken to or heard Mr. Bleach? 
+
+3:11b If YES:  When was that?     
+
+         
+
+ 
+
+3:12 Have you ever spoken to or heard Mr. Woods? 
+
+3:12b If YES:  When was that?     
+
+         
+
+ 
+
+ 
+
+3:13 Now, looking at all the candidates for this coming election 
+
+in the Dunedin North electorate, regardless of party, who do you 
+
+think would make the best M.P.? 
+
+
+
+3 
+
+ 
+
+1 BLEACH 6 ALL VERY SIMILAR
+
+2 RODGER 7 OTHER:  
+
+3 WOODS 8 DK 
+
+5 BOTH BLEACH 9 NA 
+
+AND RODGER 
+
+EQUALLY 
+
+ 
+
+ 
+
+1 YES  2 NO 
+
+8 DK  9 NA 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 YES  2 NO 
+
+8 DK  9 NA 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 YES  2 NO 
+
+8 DK  9 NA 
+
+ 
+
+ 
+
+ 
+
+1 YES  2 NO 
+
+8 DK  9 NA 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 YES  2 NO 
+
+8 DK  9 NA 
+
+3:14 And, regardless of party, which appeals to you most? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3:15 Is there anything in particular that you like about Mr. 
+
+Rodger? What is that?       
+
+       
+
+Anything else?       
+
+    
+
+3:16 Is there anything in particular that you don’t like about Mr. 
+
+Rodger? What is that?       
+
+       
+
+Anything else?        
+
+    
+
+3:17 What about Mr. Bleach. Is there anything in particular that 
+
+you like about him? What is that?     
+
+        
+
+Anything else?       
+
+    
+
+3:18 And is there anything in particular that you don’t like about 
+
+Mr. Bleach? What is that?     
+
+       
+
+Anything else?       
+
+    
+
+3:19 And Mr. Woods: Is there anything in particular that you like 
+
+about him? What is that?      
+
+       
+
+Anything else?        
+
+    
+
+
+
+4 
+
+1 YES  2 NO 
+
+8 DK  9 NA 
+
+ 
+
+ 
+
+ 
+
+1 GOOD job 8 DK 
+
+2 FAIR  job 9 NA 
+
+3 POOR job  
+
+1 YES  2 NO 
+
+8 DK  9 NA 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 YES  2 NO 
+
+8 DK  9 NA 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 YES  2 NO 
+
+8 DK  9 NA 
+
+ 
+
+ 
+
+ 
+
+1 YES  2 NO 
+
+8 DK  9 NA 
+
+3:20 And is there anything in particular that you don’t like about 
+
+Mr. Woods? What is that?     
+
+       
+
+Anything else?       
+
+    
+
+3:21 In general do you think the current M.P., Mr. Rodger has 
+
+done a good job, a fair job, or a poor job? 
+
+ 
+
+ 
+
+Now, I would like to ask you how you feel about the political 
+
+parties.  
+
+3:22 Is there anything in particular that you like about the 
+
+National Party? What is that?      
+
+       
+
+Anything else?        
+
+    
+
+3:23 Is there anything in particular that you don’t like about the 
+
+National Party? What is that?      
+
+       
+
+Anything else?        
+
+    
+
+3:33 Is there anything in particular you like about the Labour 
+
+Party? What is that?       
+
+       
+
+Anything else?       
+
+    
+
+3:34  Is there anything in particular you don’t like about the 
+
+Labour Party? What is that?      
+
+        
+
+Anything else?        
+
+    
+
+ 
+
+
+
+5 
+
+1 YES  2 NO 
+
+8 DK  9 NA 
+
+ 
+
+ 
+
+ 
+
+1 GOOD DEAL 8 DK 
+
+2 SOME  9 NA 
+
+3 NOT MUCH  
+
+1 YES  2 NO 
+
+8 DK  9 NA 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 YES  2 NO 
+
+8 DK  9 NA 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 YES  2 NO 
+
+8 DK  9 NA 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 YES  2 NO 
+
+8 DK  9 NA 
+
+3:35 Is there anything in particular you like about Social Credit? 
+
+What is that?        
+
+       
+
+Anything else?       
+
+    
+
+3:36 In general, would you say there is a good deal of 
+
+difference between the parties, some difference, or not much 
+
+difference? 
+
+ 
+
+Now, let’s talk about the leading politicians for a moment.  
+
+3:37 Is there anything in particular that you like about Mr. 
+
+Rowling? What is that?       
+
+       
+
+Anything else?        
+
+    
+
+ 
+
+3:38 Is there anything in particular that you don’t like about Mr. 
+
+Rowling? What is that?       
+
+      
+
+Anything else?       
+
+    
+
+ 
+
+3:39 Is there anything in particular that you like about Mr. 
+
+Muldoon? What is that?      
+
+        
+
+Anything else?        
+
+    
+
+ 
+
+3:40 Is there anything in particular that you don’t like about Mr. 
+
+Muldoon? What is that?       
+
+      
+
+Anything else?        
+
+   
+
+
+
+6 
+
+1 YES  2 NO 
+
+8 DK  9 NA 
+
+ 
+
+ 
+
+ 
+
+1 YES  2 NO 
+
+8 DK  9 NA 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 ROWLING 6 NONE OF THEM 
+
+2 MULDOON 8 DK 
+
+3 BEETHAM 9 NA 
+
+5 OTHER:    
+
+ 
+
+1 ROWLING 4 NO DIFFERENCE 
+
+2 MULDOON (Equally bad) 
+
+3 NO DIFFERENCE 8 DK 
+
+(Equally good) 
+
+ 
+
+1 NATIONAL 5 ‘INDEPENDENT’ 
+
+2 LABOUR 6 OTHER:  
+
+3 SOCIAL CREDIT 8 DK 
+
+4 VALUES 9 NA 
+
+ 
+
+1 VERY  8 DK 
+
+2 FAIRLY 9 NA 
+
+3 NOT VERY 
+
+ 
+
+1 YES  8 DK 
+
+5 NO  9 NA 
+
+ 
+
+1 NATIONAL 5 OTHER:  
+
+2 LABOUR 8 DK 
+
+3 SOCIAL CREDIT  
+
+4 VALUES 9 NA 
+
+ 
+
+1 LOCAL BRANCH 8 DK 
+
+2 TU   9NA 
+
+3 OTHER: 
+
+3:41 Is there anything in particular you like about Mr. Beetham? 
+
+What is that?        
+
+       
+
+Anything else?        
+
+    
+
+3:42 Is there anything in particular you don’t like about Mr. 
+
+Beetham? What is that?      
+
+        
+
+Anything else?        
+
+    
+
+3:43 Of all the politicians in New Zealand that you know of, 
+
+which one would you personally prefer to be our Prime Minister 
+
+after the forthcoming election? 
+
+ 
+
+ 
+
+3:44 Out of Muldoon and Rowling, which do you think would be 
+
+the better Prime Minister for New Zealand? 
+
+ 
+
+ 
+
+3:45 Generally speaking, do you usually think of yourself as 
+
+National, Labour, Social Credit, or what?  
+
+(If “DK” MOVE TO QUESTION 3:46 next page. CODE “NA” FOR 
+
+3:45b, c, d, e, f) 
+
+ 
+
+3:34b IF PARTY IDENTIFICATION GIVEN: Well, how strongly 
+
+…….(chosen party) do you feel – very strongly, fairly strongly or 
+
+not very strongly? 
+
+ 
+
+3:45c Are you a member of a political party?  
+
+(IF “NO” MOVE TO QUESTION 3:46 next page. CODE “NA” for 
+
+3:45 d, e, f) 
+
+3:45d If YES: Which party is that? 
+
+ 
+
+ 
+
+ 
+
+3:45e  If LABOUR: Is that a member of a local branch or through 
+
+a trade union? 
+
+ 
+
+3:45f If YES to Q.3:45c (i.e. IF A PARTY MEMBER): How long 
+
+have you been a party member? (RECORD ANSWER HERE:     )
+
+
+
+7 
+
+1 YES  8 DK 
+
+5 NO – DID NOT VOTE 
+
+6 INELIGIBLE 9 NA 
+
+ 
+
+1 NATIONAL  7 OTHER 
+
+3 LABOUR    
+
+5 SOCIAL CREDIT  8 DK 
+
+6 VALUES  9 NA 
+
+ 
+
+ 
+
+1 YES  5 NO 
+
+6 INELIGIBLE 8 DK 
+
+9 NA 
+
+ 
+
+1 NATIONAL  5 OTHER: 
+
+2 LABOUR    
+
+3 SOCIAL CREDIT  8 DK 
+
+4 VALUES  9 NA 
+
+ 
+
+1 NATIONAL  5 OTHER: 
+
+2 LABOUR    
+
+3 SOCIAL CREDIT  8 DK 
+
+4 VALUES  9 NA 
+
+ 
+
+ 
+
+1 CARE A GOOD DEAL 
+
+2 DON’T CARE VERY MUCH 
+
+3   : WRITE IN 
+
+8 DK 
+
+9 NA 
+
+ 
+
+1 NATIONAL 5 SOCIAL CREDIT 
+
+2 BLEACH 6 WOODS 
+
+3 LABOUR 9 NA and DK 
+
+ 
+
+ 
+
+3:46 Did you vote at the last general election? 
+
+ 
+
+ 
+
+3:46b If YES: Would you mind telling me how you voted? (IF 
+
+NECESSARY, REASSURE RESPONDENT 
+
+RECONFIDENTIALITY, AND PROBE POLITELY) 
+
+ IF NOT “YES”: CODE AS “NA” 
+
+ 
+
+ 
+
+3:47 OF THOSE WHO GAVE A VOTE ANSWER IN Q.3:46b 
+
+ASK: Have you always voted for the same party? 
+
+OF THOSE WHO SAID ‘NO’ to Q.3:46, ASK: In general elections 
+
+since you have been old enough to vote, have you always voted 
+
+for the same party? 
+
+(OTHERWISE: CODE AS APPROPRIATE) 
+
+ 
+
+3:47b If ‘NO’ TO Q.3:47: Which (other) parties have you voted for? When? 
+
+            
+
+ 
+
+3:48 And turning to this election: Which party would you like to 
+
+win the general election throughout the country as a whole? 
+
+ 
+
+ 
+
+ 
+
+3:49 Regardless of your own preference, which party do you 
+
+think will win the election throughout the country as a whole? 
+
+ 
+
+ 
+
+ 
+
+3:50 Would you say that you care a good deal about which 
+
+party will win the general election throughout the country as a 
+
+whole, or that you don’t care very much which party wins? 
+
+ 
+
+ 
+
+3:51  Who would you like to win the Dunedin North Electorate? 
+
+
+
+8 
+
+1 NATIONAL  6 WOODS 
+
+2 BLEACH   
+
+3 LABOUR   9 NA AND DK
+
+4 RODGER  0 OTHER: 
+
+5 SOCIAL CREDIT   
+
+ 
+
+ 
+
+1 YES  5 NO 
+
+8 DK  9 NA  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 YES  5 NO 
+
+8 DK  9 NA 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 YES  5 NO 
+
+8 DK  9 NA 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 GOOD JOB 
+
+2 FAIR JOB 
+
+3 POOR JOB 
+
+8 DK 
+
+9 NA 
+
+ 
+
+ 
+
+1 YES  5 NO 
+
+8 DK  9 NA 
+
+3:52 And, regardless of your own preference, who do you think 
+
+will win in Dunedin North? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3:53 Let’s look now at some of the issues in this election. Is 
+
+there anything that the Government has done here in this region 
+
+that particularly pleases you? 
+
+3:53b If YES: Like what?      
+
+    
+
+ 
+
+3:54 And is there anything in particular that the Government 
+
+has done here in this region that particularly displeases you? 
+
+3:54b If YES: Like what?      
+
+    
+
+ 
+
+3:55 Is there anything in particular that you feel that the 
+
+Government should be doing here in this area? 
+
+3:55b If YES: Such as?      
+
+        
+
+       
+
+ 
+
+3:56 In the country as a while during the last three years, do 
+
+you think that the Government has done a good job, a fair job, or a 
+
+poor job? 
+
+3:56b Why?        
+
+    
+
+ 
+
+3:57 In this election, are there party policies or election issues 
+
+which are particularly important to you? 
+
+ 
+
+ 
+
+3:57b If YES: Such as?         
+
+             
+
+IF NECESSARY, PROBE FOR DETAILS        
+
+3:57c AGAIN, IF YES TO Q.3:57: Anything else of particular importance to you? 
+
+            
+
+ 
+
+ 
+
+
+
+9 
+
+ 
+
+1 MALE 
+
+2 FEMALE 
+
+8 DK 
+
+ 
+
+1 YES   5 NO 
+
+8 DK   9 NA 
+
+ 
+
+1 FULL-TIME  8 DK 
+
+2 PART-TIME  9 NA
+
+ 
+
+ 
+
+ 
+ 
+
+1 YES   8 DK 
+
+5 NO   9 NA 
+
+3:58 Finally, a few questions for statistical purposes.  
+
+SEX – BY OBSERVATION 
+
+ 
+
+ 
+
+3:59 Did you have any full-time or part-time education after 
+
+leaving school? 
+
+ 
+
+3:59b  If YES: Full-time or part-time? 
+
+ 
+
+ 
+
+3:59c AGAIN, IF YES: What further education was that?       
+
+IF NECESSARY, PROBE FOR SPECIFICS:      
+
+            
+
+ 
+
+3:60 Would you mind telling me what your occupation is?      
+
+IF NECESSARY, PROBE FOR SPECIFICS:       
+
+ 
+
+3:61 And your husband’s/wife’s occupation?        
+
+IF NECESSARY, PROBE FOR SPECIFICS:        
+
+ 
+
+3:62 Would you mind telling me how old you are? 
+
+ 
+
+ 
+
+3:63 And were you born in New Zealand? 
+
+ 
+
+ 
+
+ 
+
+3:63b If NO: Well, what country were you born in?       
+
+ 
+
+3:64 How long have you been in New Zealand?       
+
+ 
+
+3:65 What is your religion?          
+
+(NOTE: IF NECESSARY, PROBE FOR SPECIFICS) 
+
+
+
+10 
+
+1 WORKING CLASS 
+
+3 MIDDLE 
+
+8 DK 
+
+9 NA 
+
+ 
+
+ 
+
+1 NATIONAL 6 WOODS 
+
+2 BLEACH 
+
+3 LABOUR 9 NA AND DK 
+
+4 RODGER 0 OTHER: 
+
+5 SOCIAL CREDIT    
+
+1 NATIONAL 5 SOCIAL CREDIT 
+
+2 BLEACH 6 WOODS 
+
+3 LABOUR 9 NA AND DK 
+
+4 RODGER 0 OTHER: 
+
+     
+
+3:66 There’s quite a bit of talk these days about different social 
+
+classes. If you had to make a choice, would you describe yourself 
+
+as working-class or middle-class? 
+
+ 
+
+ 
+
+3:67 And finally, in the general election ( on Saturday 28th 
+
+November ), who do you think you’ll vote for? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3:68 Could you tell me why?          
+
+ 
+
+3:69 And if you could make a second choice, what would that 
+
+be? 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3:70 And is there anything else you’d like to tell me? 
+
+            
+
+            
+
+            
+
+            
+
+ 
+
+END INTERVIEW HERE WITH THANKS. 
+
+ 
+
+INTERVIEWER:  GIVE HERE ANY COMMENTS WHICH YOU FEEL COULD 
+
+    HELP WITH THE INTERPRETATION OF THE INTERVIEW 
+
+    - FOR EXAMPLE, A BRIEF PERSONAL DESCRIPTION OF 
+
+    THE RESPONDENT, THE TYPE OF HOUSE, CONSUMER 
+
+    DURABLES, ETC. 
+
+            
+
+            
+
+            
+
+ 
+
+ADDRESS:           
+
+            
+
+ 
+
+INTERVIEWER:       DATE:    
+
+

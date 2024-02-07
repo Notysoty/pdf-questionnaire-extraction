@@ -1,0 +1,96 @@
+
+Pensando nos últimos seis meses, você: 
+
+ Nunca Uma 
+vez 
+
+Duas 
+vezes 
+
+Três 
+vezes 
+
+Quatro 
+vezes 
+
+Cinco 
+vezes 
+
+Mais 
+de 
+
+cinco 
+vezes 
+
+NÃO SABE 
+
+DSHI1. Cortou os pulsos, braços ou 
+outras partes do corpo 
+
+0 1 2 3 4 5 6 99 
+
+DSHI2. Queimou-se com cigarros, 
+isqueiros ou fósforos 
+
+0 1 2 3 4 5 6 99 
+
+DSHI3. Fez palavras, ou desenhos na 
+pele através de cortes 
+
+0 1 2 3 4 5 6 99 
+
+DSHI4. Arranhou-se gravemente a 
+ponto de sangrar 
+
+0 1 2 3 4 5 6 99 
+
+DSHI5. Mordeu-se a ponto de abrir a 
+pele 
+
+0 1 2 3 4 5 6 99 
+
+DSHI6. Cravou objetos pontudos na 
+pele 
+
+0 1 2 3 4 5 6 99 
+
+DSHI7. Bateu a cabeça a ponto de 
+provocar um machucado 
+
+0 1 2 3 4 5 6 99 
+
+DSHI8. Se deu socos a ponto de 
+provocar um machucado 
+
+0 1 2 3 4 5 6 99 
+
+DSHI9. Não deixou feridas cicatrizarem 0 1 2 3 4 5 6 99 
+
+DSHI10a. Outro comportamento auto 
+lesivo: 
+
+0 
+àDSHI11 
+
+Descreva: 
+↓ DSHI10b 
+
+99 
+àDSHI11 
+
+DSHI10b. Quantas vezes realizou o 
+comportamento mencionado 
+anteriormente: 
+
+0 1 2 3 4 5 6 99 
+
+DSHI11. Qualquer comportamento auto 
+lesivo suficientemente grave para 
+precisar de hospitalização ou de 
+tratamento médico 
+
+0 1 2 3 4 5 6 99 
+
+ 
+
+

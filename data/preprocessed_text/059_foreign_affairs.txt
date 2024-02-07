@@ -1,0 +1,1366 @@
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ ANU Poll 16 (Foreign Affairs) 
+
+JUNE 2014 
+
+ 
+ 
+ 
+
+ 
+
+TECHNICAL REPORT 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PREPARED FOR 
+AUSTRALIAN NATIONAL UNIVERSITY 
+RESEARCH SCHOOL OF SOCIAL SCIENCES 
+AUSTRALIAN NATIONAL UNIVERSITY 
+CANBERRA ACT 0200 
+
+ 
+CONTACT: IAN MCALLISTER 
+PHONE: (02) 6125 5553 
+EMAIL: IAN.MCALLISTER@ANU.EDU.AU 
+
+ 
+
+AUTHOR 
+CONTACT: PAUL MYERS AND NATASHA VICKERS 
+PHONE (03) 9236 8500 
+EMAIL:  PAUL.MYERS@SRCENTRE.COM.AU 
+
+NATASHA.VICKERS@SRCENTRE.COM.AU
+
+mailto:ian.mcallister@anu.edu.au
+
+
+Australian National University Page: 16 
+ANU Poll No 16 (Foreign Affairs) 
+
+The Social Research Centre 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Appendix 1 - Final Questionnaire 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+
+
+Australian National University Page: 17 
+ANU Poll No 16 (Foreign Affairs) 
+
+The Social Research Centre 
+
+ANU Poll (May 2014) – Foreign Affairs 
+Questionnaire – Pilot 
+
+(8 May 2014) 
+
+ 
+Call outcome codes (SMS screen) 
+
+ 
+Proceed with interview 
+No answer 
+Answering machine 
+Fax machine / modem 
+Engaged  
+Appointment  
+Stopped interview 
+LOTE – No follow up 
+Named person not known (only applies if calling back to keep an appointment and phone   answerer 
+denies knowledge of named person)  
+Telstra message / Disconnected 
+Not a residential number 
+Too old / deaf / disabled/health/family reasons 
+Claims to have done survey 
+Away for duration 
+Other out of scope (SUPRESS) 
+Terminated during screening / midway (HIDDEN CODE) 
+
+ 
+*INTRODUCTION 
+ 
+*(TIMESTAMP1) 
+ 
+
+*(ALL) 
+SAMTYP  
+
+1.  Landline 
+2.  Mobile  
+
+ 
+*(ALL) 
+Intro1 Good afternoon/evening my name is <SAY NAME> and I’m calling on behalf of the Australian 
+
+National University from the Social Research Centre. The University is doing a short survey of 
+community attitudes towards a number of issues. Your telephone number has been chosen at 
+random from all possible telephone numbers in Australia. 
+
+ 
+IF NECESSARY: It’s about your opinion on a range of issues – there are no right or wrong answers 
+- but is mainly about peoples’ attitudes towards foreign affairs and foreign policy 
+
+ 
+PRES1 IF SAMTYP=1 (LANDLINE SAMPLE) CONTINUE, ELSE GO TO PRES5 
+ 
+*(SAMTYP=1, LANDLINE) 
+S1 To help with this important study we’d like to arrange a short interview with the person aged 18 or 
+
+over in your household who is going to have the next birthday. 
+ 
+
+May I speak to that person please? 
+ 
+
+1. Selected respondent (GO TO S3) 
+2. Change respondents (GO TO S2) 
+3. Stop interview, make appointment (RECORD NAME AND GENDER AND ARRANGE CALL 
+
+BACK) 
+4. Household refusal (ATTEMPT CONVERSION / RECORD REASON) (GO TO RR1) 
+5. Queried about how telephone number was obtained (GO TO ATELQ) 
+6. Wants further information about survey (GO TO AINFO) 
+7. No one in household over 18 (GO TO TERM1) 
+
+ 
+ 
+ 
+ 
+  
+
+
+
+Australian National University Page: 18 
+ANU Poll No 16 (Foreign Affairs) 
+
+The Social Research Centre 
+
+*(SELECTED RESPONDENT) 
+S2 REINTRODUCE IF NECESSARY:  Good afternoon/evening my name is <SAY NAME>.  I’m calling 
+
+on behalf of the Australian National University from the Social Research Centre.  The University is 
+doing a short survey of community attitudes towards a number of issues. 
+ 
+IF NECESSARY: It’s about a range of issues but is mainly about peoples’ attitudes towards foreign 
+affairs and foreign policy 
+ 
+1. Continue 
+2. Refusal (GO TO RR1) 
+
+ 
+PRES5 IF SAMTYP=2 (MOBILE SAMPLE) CONTINUE, ELSE GO TO S3 
+ 
+*(SAMTYP=2, MOBILE) 
+S5 For this survey, we are interested in talking to people aged 18 or over. Can I check, are you aged 
+
+18 years or over? 
+ 
+ 1. Yes  
+ 2. No (GO TO TERM1) 
+ 3. Refused (GO TO RR1) 
+ 
+*(SAMTYP=2 AND S5=1, MOBILE SAMPLE AGED 18 OR OVER) 
+S7 Could I also just check whether it is safe for you to take this call at the moment? If not, we’d be 
+
+happy to call back when it is more convenient for you. 
+ 
+ 1. Safe to take call 
+ 2. Not safe to take call 
+ 3. Refusal (GO TO RR1) 
+ 
+PRES8 IF SAMTYP=2 AND S7=2 (NOT SAFE TO TAKE CALL) CONTINUE, ELSE GO TO S6 
+ 
+*(MOBILE AND NOT SAFE TO TAKE CALL) 
+S8 Do you want me to call you back on this number or would you prefer I call back on your home 
+
+phone? 
+ 
+ 1. This number (TYPE STOP, MAKE APPOINTMENT) 
+ 2. Home phone (TYPE STOP, MAKE APPOINTMENT, RECORD HOME PHONE NUMBER) 
+ 3. Respondent refusal (GO TO RR1) 
+ 
+*(SAMTYP=2, MOBILE) 
+S6 Just so I know your time zone, can you please tell me which state or territory you’re in? 
+ 
+ 1. NSW 
+ 2. VIC 
+ 3. QLD 
+ 4. SA 
+ 5. WA 
+ 6. TAS 
+ 7. NT 
+ 8. ACT 
+ 9. (Refused) (GO TO TERM2) 
+ 
+*PROGRAMMER NOTE: WRITE STATE / TERRITORY TO SAMPLE RECORD 
+ 
+ 
+*(ALL) 
+S3 This interview should take around 10-12 minutes depending on your answers.  I’ll try and make it 
+
+as quick as I can.   
+ 
+
+This survey is mainly about your opinions.  There are no right or wrong answers.  If I come to any 
+question you prefer not to answer, just let me know and I'll skip over it.  All interviews are voluntary 
+and you can withdraw from the study at any point and all information collection will not be retained. 
+You may complete the rest of the interview at another time and we will treat all information you give 
+in strict confidence.   
+
+ 
+
+
+
+Australian National University Page: 19 
+ANU Poll No 16 (Foreign Affairs) 
+
+The Social Research Centre 
+
+Are you happy to continue? 
+ 
+
+1. Continue (GO TO S4) 
+2. Stop interview, make appointment (RECORD NAME AND GENDER AND ARRANGE CALL 
+
+BACK) 
+3. Respondent refusal (ATTEMPT CONVERSION / RECORD REASON) (GO TO RR1) 
+4. Wants further information about survey (GO TO AINFO) 
+5. Queried about how telephone number was obtained (GO TO ATELQ) 
+ 
+
+*(QUERIED HOW TELEPHONE NUMBER WAS OBTAINED) 
+ATELQ Your telephone number has been chosen at random from all possible telephone numbers in 
+
+Australia. We find that this is the best way to obtain a representative sample and to make sure we 
+get opinions from a wide range of people. 
+
+ 
+1. Snap back to S1 / S3 
+
+ 
+*(WANTS ADDITIONAL INFORMATION) 
+AINFO Further information can also be found on our website www.srcentre.com.au or the ANU website at 
+
+http://www.anu.edu.au 
+ 
+
+I can also give you a telephone number so that you can talk with the researchers:  
+(02) 6125 5553 (Ian McAllister) 
+
+ 
+1. Snap back to S1 / S3 
+
+ 
+*(ALL) 
+S4 This call may be monitored for training and quality purposes. Is that OK? 
+ 
+
+1. Monitor 
+2. Do not monitor 
+
+ 
+*(TIMESTAMP2) 
+
+ 
+*A  MOST IMPORTANT PROBLEMS 
+ 
+*(ALL) 
+A1 I’d like to start with a general question about your views on life in Australia.  All things considered, 
+ are you satisfied or dissatisfied with the way the country is heading? 
+ 
+ (PROBE FOR VERY OR JUST) 
+ 
+
+1. Very satisfied 
+2. Satisfied 
+3. Neither satisfied nor dissatisfied 
+4. Dissatisfied 
+5. Very dissatisfied 
+6. (Don’t know / Not sure) 
+7. (Refused) 
+
+ 
+*(ALL) 
+A2a What do you think is the most important problem facing Australia today?  
+ 
+ (SINGLE RESPONSE)  
+ 
+
+1. Economy/jobs 
+2. Industrial relations 
+3. Interest rates 
+4. Housing affordability 
+5. Health care 
+6. Education 
+7. Defence/national security 
+8. Terrorism  
+9. Iraq war 
+10. Afghan war 
+11. Environment/global warming 
+
+http://www.srcentre.com.au/
+
+
+Australian National University Page: 20 
+ANU Poll No 16 (Foreign Affairs) 
+
+The Social Research Centre 
+
+12. Water management 
+13. Immigration 
+14. Indigenous affairs 
+15. Taxation 
+16. Better government 
+17. Law and order/ crime/ justice system 
+18. Ageing population 
+19. Values/ morals/ respect for others 
+20. Poverty/ Social exclusion/ inequality 
+33. Carbon Tax 
+34. The budget 
+21. Other (Specify  ___________ ) 
+22. (Don’t Know / Can’t Say)  (GO TO B1) 
+23. (None/ no other) (GO TO B1) 
+24. (Refused) (GO TO B1) 
+ 
+
+PREA2b IF A2a<22 OR A2a = 33 OR A2a=34 (ANSWERED A2a) CONTINUE, OTHERWISE GO TO B1 
+*(ANSWERED A2A, A2a=1-21 OR 33 OR 34)  
+
+A2b And what do you think is the second most important problem facing Australia today?  
+ 
+ (SINGLE RESPONSE) 
+
+(SUPRESS OPTION 1-20, AND 33 IF SELECTED AT A2a) 
+ 
+
+1. Economy / jobs 
+2. Industrial relations 
+3. Interest rates 
+4. Housing affordability 
+5. Health care 
+6. Education 
+7. Defence / national security 
+8. Terrorism  
+9. Iraq war 
+10. Afghan war 
+11. Environment / global warming 
+12. Water management 
+13. Immigration 
+14. Indigenous affairs 
+15. Taxation 
+16. Better government 
+17. Law and order / crime / justice system 
+18. Ageing population 
+19. Values / morals / respect for others 
+20. Poverty / Social exclusion / inequality 
+33. Carbon Tax 
+34. The budget 
+21. Other (Specify___________) 
+22. (Don’t Know / Can’t Say)  
+23. (None/ no other)   
+24. (Refused) 
+
+  
+*(TIMESTAMP3) 
+ 
+  
+
+
+
+Australian National University Page: 21 
+ANU Poll No 16 (Foreign Affairs) 
+
+The Social Research Centre 
+
+*B  INTERNATIONAL RELATIONS 
+ 
+*(ALL) 
+B1  Thinking now about the issue of foreign aid, do you generally approve or disapprove of the 
+
+Australian government providing aid to poorer countries around the world? 
+ 
+ (SINGLE RESPONSE) 
+
+INTERVIEWER NOTE: PROBE FOR STRONGLY APPROVE/APPROVE, STRONGLY 
+DISAPPROVE/DISAPPROVE 
+
+ 
+ 1. Strongly approve 
+ 2. Approve 
+ 3. Disapprove 
+ 4. Strongly disapprove 
+ 5. (Don’t know) 
+ 6. (Refused) 
+ 
+*(ALL) 
+B1a Do you think Australian government aid should be given primarily on humanitarian grounds, 
+
+or do you think Australia’s commercial and political interests should play a significant part? 
+  
+ INTERVIEWER NOTE: PROBE FOR STRONGLY FAVOUR / FAVOUR 
+ 
+ 1. Strongly favour humanitarian grounds 
+ 2. Favour humanitarian grounds 
+ 3. Favour commercial and political interests 
+ 4. Strongly favour commercial and political interests 
+ 5. (Don’t know) 
+ 6. (Refused) 
+ 
+*(ALL) 
+PREB2 Now some questions about globalisation, which is the process of increasing connections of our 
+economy with other countries around the world. 
+ 
+*(ALL) 
+B2 Do you believe that globalization is mostly good or mostly bad for Australia’s economy? 
+  
+
+(SINGLE RESPONSE) 
+ 
+ 1. Mostly good 
+ 2. Mostly bad 
+ 3. (Don’t know) 
+ 4. (Refused) 
+ 
+*(ALL) 
+B3 Do you believe that globalisation has a mostly good or mostly bad effect on your own standard of 
+
+living? 
+ 
+
+(SINGLE RESPONSE) 
+ 
+
+1. Mostly good 
+ 2. Mostly bad 
+ 3. (Don’t know) 
+ 4. (Refused) 
+ 
+ 
+*(ALL) 
+PREB4 The next set of questions is about your opinion of different international institutions. 
+ 
+*(ALL) 
+B4 What is your opinion of the United Nations? Would you say… 
+  
+
+(SINGLE RESPONSE) 
+
+
+
+Australian National University Page: 22 
+ANU Poll No 16 (Foreign Affairs) 
+
+The Social Research Centre 
+
+(READ OUT) 
+ 
+ 1. Very favourable 
+
+2. Somewhat favourable 
+3. Somewhat unfavourable 
+4. Very unfavourable 
+5. (Don’t know) 
+6. (Refused) 
+
+ 
+*(ALL) 
+B5 I’m going to list some other international institutions. For each one, please say if you have a great 
+
+deal of confidence in them, quite a lot of confidence, not very much confidence, or none at all? 
+ 
+ (STATEMENTS) (ROTATE) 
+ 
+ a. The United Nations Development Program 
+ b. The World Health Organisation 
+ c. The World Bank 
+ d. The World Trade Organisation 
+ 
+ (RESPONSE FRAME) 
+ 
+ INTERVIEWER NOTE: READ RESPONSE FRAME AS NECESSARY 
+ 
+ 1. A great deal 
+ 2. Quite a lot 
+ 3. Not very much 
+ 4. None at all 
+ 5. (Don’t know) 
+ 6. (Refused) 
+
+ 
+*(TIMESTAMP4) 
+ 
+*C  RELATIONS WITH THE US AND CHINA 
+ 
+*(ALL) 
+C1  How important do you think the Australian alliance is with the United States under the ANZUS treaty 
+
+for protecting Australia’s security? 
+  
+
+(SINGLE RESPONSE) 
+ (READ OUT) 
+ 
+ 1. Very important 
+ 2. Fairly important 
+ 3. Not very important 
+ 4. Not at all important 
+ 5. (Don’t know) 
+ 6. (Refused) 
+ 
+*(ALL) 
+C2 Now, turning to China: Do you think the growth of China as a major economy is a positive or a 
+
+negative development for Australia? 
+ 
+ (SINGLE RESPONSE) 
+ 
+ 1. Positive development 
+ 2. Negative development 
+ 3. (Don’t know) 
+ 4. (Refused) 
+ 
+*(ALL) 
+C3 Do you consider China to be a military threat to Australia, or not? 
+ 
+ (SINGLE RESPONSE) 
+ 
+
+
+
+Australian National University Page: 23 
+ANU Poll No 16 (Foreign Affairs) 
+
+The Social Research Centre 
+
+ 1. Yes, consider a threat 
+ 2. No, do not consider a threat 
+ 3. (Don’t know) 
+ 4. (Refused) 
+ 
+*(ALL) 
+C4 Do you consider China to be an economic threat to Australia, or not? 
+ 
+ (SINGLE RESPONSE) 
+ 
+
+1. Yes, consider a threat 
+ 2. No, do not consider a threat 
+ 3. (Don’t know) 
+ 4. (Refused) 
+ 
+ 
+*(ALL) 
+C5 Which relationship do you think is more important to Australia? Australia’s relationship with the 
+
+United States or Australia’s relationship with China? Would you say… 
+ 
+ (READ OUT) 
+ 
+
+1. Australia’s relationship with US much more important 
+2. Australia’s relationship with US more important 
+3. Both equally 
+4. Australia’s relationship with China more important 
+5. Australia’s relationship with China much more important 
+6. (Don’t know) 
+7. (Refused) 
+
+ 
+ 
+*(TIMESTAMP5) 
+ 
+ 
+*D  RELATIONS WITH INDONESIA 
+ 
+*(ALL) 
+INTROD1 Now some questions about Australia’s relationship with Indonesia. 
+ 
+ 1. Continue 
+ 
+ 
+*(ALL) 
+D1 Do you consider Indonesia an ally of Australia? Would you say they are an… 
+ 
+ (SINGLE RESPONSE) (READ OUT) 
+ 
+
+1. Ally 
+2. Friendly but not an ally 
+3. Unfriendly 
+4. An enemy of Australia 
+5. (Don’t know) 
+6. (Refused) 
+
+ 
+ 
+ 
+*(ALL) 
+D2 Do you think that Indonesia has assisted or not assisted Australia in combating people smuggling? 
+ 
+ (SINGLE RESPONSE) 
+ 
+ 1. Assisted 
+ 2. Not assisted 
+ 3. (Don’t know) 
+ 4. (Refused) 
+
+
+
+Australian National University Page: 24 
+ANU Poll No 16 (Foreign Affairs) 
+
+The Social Research Centre 
+
+ 
+*(ALL) 
+D3 And do you think that Indonesia has assisted or not assisted Australia in reducing the threat of 
+
+terrorism? 
+ 
+ (SINGLE RESPONSE) 
+ 
+ 1. Assisted 
+ 2. Not assisted 
+ 3. (Don’t know) 
+ 4. (Refused) 
+ 
+*(TIMESTAMP6) 
+ 
+ 
+*DEM  DEMOGRAPHICS 
+ 
+*(ALL) 
+POL1 If a federal election for the House of Representatives was held today, which one of the following 
+
+parties would you vote for?  
+ 
+
+INTERVIEWER NOTE: IF ‘UNCOMMITTED’, SAY: ‘TO WHICH ONE OF THESE DO YOU HAVE A 
+LEANING?’ 
+ 
+(READ OUT) 
+
+1. Liberal 
+2. Nationals 
+3. Labor 
+4. Greens, or 
+5. Some other party 
+8. Liberal National Party (LNP) (PROGRAMMER NOTE: ONLY DISPLAY FOR QLD – FROM 
+
+SAMPLE FOR LL AND S6=3 FOR MOBILE) 
+6. (Don’t know / Not sure) 
+7. (Refused) 
+
+ 
+*(ALL) 
+POL4 Over the last three years, about how many times have you travelled overseas?  
+ 
+ (SINGLE RESPONSE) 
+ 
+ 1. RECORD NUMBER (0-500)**PROGRAMMER NOTE: DISPLAY UNLIKELY RESPONSE IF 
+
+>100 
+ 2. (Don’t know) 
+ 3. (Refused) 
+ 
+*(ALL) 
+POL5 The next question is about where you get your own information about international news.  
+ 
+ For each of the following please tell me if you use this source often, sometimes, rarely or never get 
+
+international news. 
+ 
+ (STATEMENTS) 
+ 
+ a. Free to air TV 
+ b. Radio 
+ c. Printed newspapers 
+ d. Online newspapers 
+ e. Social media 
+ f. Other online sources, including blogs 
+ g. Pay TV 
+ 
+ (RESPONSE FRAME) 
+ 
+ 1. Often 
+ 2. Sometimes 
+
+
+
+Australian National University Page: 25 
+ANU Poll No 16 (Foreign Affairs) 
+
+The Social Research Centre 
+
+ 3. Rarely 
+ 4. Never 
+ 5. (Don’t know) 
+ 6. (Refused) 
+ 
+ 
+*(TIMESTAMP7) 
+
+ 
+ 
+*(ALL) 
+DEM1 Record gender  
+ 
+
+1. Male 
+2. Female 
+
+ 
+*(ALL) 
+DEM14 And finally, just a few questions to make sure we’ve spoken to a good range of people.  
+ 
+
+Including yourself, how many people aged 18 years and over live in your household? 
+ 
+
+1.  Number given (Specify________) (Range 1 to 20) *(DISPLAY “UNLIKELY   
+  RESPONSE” IF > 10) 
+
+2.  (Don’t know) 
+3.  (Refused) 
+
+ 
+*(ALL) 
+DEM2 How would you describe this household?  For example, a couple, a couple with children, a single 
+
+person household or something else?   
+ 
+(PROBE TO CLARIFY) 
+
+ 
+1. Couple without children 
+2. Couple with children (INCLUDES CHILDREN AGED 18 YEARS AND OLDER) 
+3. One parent family (INCLUDES CHILDREN AGED 18 YEARS AND OLDER) 
+4. Group household (all people in household are non-related) 
+5. One person household, or 
+6. Something else (SPECIFY) (e.g. siblings living together and multigenerational families)  
+7. (Don’t know) 
+8. (Refused) 
+
+ 
+PREDEM2A IF DEM2 = 2 OR 3 CONTINUE, OTHERWISE GO TO DEM3 
+ 
+*(DEM2=2 OR 3) (CHILDREN IN HOUSEHOLD) 
+DEM2a What are the ages of the children in this household?   
+ 
+
+(ACCEPT MULTIPLES) 
+ 
+
+1. 0-5 years 
+2. 6-12 years 
+3. 13 - 17 years 
+4. 18 years and over 
+5. (Don’t know) 
+6. (Refused) 
+
+ 
+PREDEM2B IF DEM2a=1, 2 OR 3 (ANY CHILD UNDER 18 IN HOUSEHOLD) CONTINUE, OTHERWISE 
+GO TO DEM2c 
+ 
+*(CHILDREN UNDER 18 IN HOUSEHOLD (DEM2A=1, 2 OR 3)) 
+DEM2b Are you a parent of any of the children under the age of 18 in this household? 
+ 
+ (SINGLE RESPONSE) 
+
+ 
+1. Yes  
+2. No  
+3. (Don’t Know)  
+
+
+
+Australian National University Page: 26 
+ANU Poll No 16 (Foreign Affairs) 
+
+The Social Research Centre 
+
+4. (Refused)  
+ 
+ 
+*(ALL) 
+DEM3 Were both of your parents born in Australia?  
+ 
+
+(PROBE TO CODEFRAME) 
+(SINGLE RESPONSE) 
+
+ 
+1. Both parents born in Australia 
+2. One parent born in Australia  
+3. Neither parent born in Australia 
+4. (Don’t know) 
+5. (Refused) 
+
+ 
+*(ALL) 
+DEM4 In which country were you born?  
+ 
+ (SINGLE RESPONSE) 
+
+ 
+1. Australia 
+2. Canada 
+3. China (excluding Taiwan) 
+4. Croatia 
+5. Egypt 
+6. Fiji 
+7. Germany 
+8. Greece 
+9. Hong Kong 
+10. Hungary 
+11. India 
+12. Indonesia 
+13. Ireland 
+14. Italy 
+15. Lebanon 
+16. Macedonia 
+17. Malaysia 
+18. Malta 
+19. Netherlands (Holland) 
+20. New Zealand 
+21. Philippines 
+22. Poland 
+23. Serbia / Montenegro 
+24. Singapore 
+25. South Africa 
+26. Sri Lanka 
+27. Sudan 
+28. United Kingdom (England, Scotland, Wales, Nth Ireland) 
+29. USA 
+30. Vietnam 
+31. Other (please specify) 
+32.  (Don’t know) 
+33. (Refused) 
+
+ 
+*(ALL) 
+DEM5 Would you mind telling me how old you are? 
+ 
+ (SINGLE RESPONSE) 
+ 
+
+1. Age given (RECORD AGE IN YEARS (RANGE 18 TO 99) (GO TO DEM7) 
+2. (Refused) 
+
+ 
+*(DEM5=2) (REFUSED AGE) 
+DEM6 Would you mind telling me which of the following age groups you are in?  
+ 
+
+
+
+Australian National University Page: 27 
+ANU Poll No 16 (Foreign Affairs) 
+
+The Social Research Centre 
+
+ (READ OUT) 
+ (SINGLE RESPONSE) 
+ 
+
+1. 18 - 24 years 
+2. 25 - 34 years 
+3. 35 - 44 years 
+4. 45 – 54 years 
+5. 55 – 64 years 
+6. 65 – 74 years, or 
+7. 75 + years 
+8. (Refused) 
+
+ 
+*(ALL) 
+DEM7 What is your religion or faith?  
+ 
+
+INTERVIEW NOTE: If Christian, PROBE: What denomination?   
+ 
+(DO NOT READ OUT) 
+(SINGLE RESPONSE) 
+
+ 
+1. Roman Catholic 
+2. Anglican/Church of England 
+3. Uniting Church/Methodist 
+4. Orthodox Church 
+5. Presbyterian 
+6. Other 
+7. No Religion (includes Atheist and Agnostic) 
+8. (Don’t know) 
+9. (Refused) 
+
+ 
+*(ALL) 
+DEM8 Apart from weddings, funerals and baptisms, about how often do you attend religious services?  
+ 
+
+(PROBE TO CODEFRAME) 
+(SINGLE RESPONSE) 
+ 
+1. At least once a week 
+2. At least once a month 
+3. Several times a year 
+4. At least once a year 
+5. Less than once a year 
+6. Never 
+7. (Don’t know) 
+8. (Refused) 
+
+ 
+ 
+ 
+*(ALL) 
+DEM9 What is the highest level of education you have completed? 
+ 
+ (PROBE TO CODEFRAME) 
+ (SINGLE RESPONSE) 
+ 
+
+1. Never attended school 
+2. Primary school 
+3. Year 7 to Year 9 
+4. Year 10  
+5. Year 11  
+6. Year 12  
+7. Trade/apprenticeship 
+8. Other TAFE/Technical Certificate 
+9. Diploma 
+10. Bachelor Degree 
+11. Post-Graduate Degree  
+12. Other (please specify) 
+
+
+
+Australian National University Page: 28 
+ANU Poll No 16 (Foreign Affairs) 
+
+The Social Research Centre 
+
+13. (Refused) 
+ 
+*(ALL) 
+DEM10  Which of these best describes your current employment situation?  Are you…  
+ 
+
+(READ OUT) 
+ 
+1. Working full-time for pay 
+2. Working part-time for pay 
+3. Unemployed and looking for work 
+4. Retired on pension 
+5. Self-funded retiree 
+6. Combination of pension and self-funded 
+7. A full-time school or university student 
+8. Keeping house, or 
+9. Something else (Specify) 
+10. (Don’t know) 
+11. (Refused) 
+
+ 
+PREQDEM11 IF DEM10=CODES 1 OR 2 CONTINUE, OTHERWISE GO TO DEM11a 
+ 
+*(DEM10=1,2) (WORKING) 
+DEM11 What’s your (main) occupation?  
+ 
+ (SINGLE RESPONSE) 
+
+ 
+(PROBE IF REQUIRED; JOB TITLE AND MAIN DUTIES) 
+ 
+1. Managers (Chief Executives, General Managers, Specialist Managers, Farmers and Farm 
+
+Managers and Hospitality, Retail and Service Managers) 
+2. Professionals (Arts and Media professionals, Business, HR and marketing professionals, 
+
+Design, education, ICT, legal, social and welfare professionals) 
+3. Technicians and trade workers (Engineers, ICT and science technicians, automotive, 
+
+engineering and construction trade workers, electro-technology and telecommunications 
+trades workers, food trades, skilled animal and horticultural workers and other trade and 
+technical workers)  
+
+4. Community and personal service workers (Health and welfare support workers, carers and 
+aides, hospitality workers, protective service workers and sports and service workers) 
+
+5. Clerical and administrative workers (Office managers and program administrators, personal 
+assistants and secretaries, general clerical workers, Inquiry clerks and receptionists, 
+numerical clerks, clerical office and support workers and other clerical and administrative 
+workers) 
+
+6. Sales workers (sales reps and agents, sales assistants and sales persons and sales support 
+persons) 
+
+7. Machine operators and drivers (machine and plant operators, road and rail drivers and store 
+persons) 
+
+8. Labourers (Cleaners and laundry workers, construction and mining labourers, factory 
+process workers, factory, forestry and garden workers, food preparation assistants and other 
+labourers 
+
+9. Other(Specify) 
+10. (Don’t know/ not sure) 
+11. (Refused) 
+
+ 
+*(ALL) 
+DEM11a. What is your total annual household income before tax or anything else is taken out? Would it be… 
+ 
+
+(READ OUT) 
+(SINGLE RESPONSE) 
+ 
+1. Less than $20,000 
+2. $20,000 to less than $40,000 
+3. $40,000 to less than $60,000 
+4. $60,000 to less than $80,000 
+5. $80,000 to less than $100,000 
+6. $100, 000 to less than $150,000, or 
+
+
+
+Australian National University Page: 29 
+ANU Poll No 16 (Foreign Affairs) 
+
+The Social Research Centre 
+
+7. $150,000 or more 
+8. (Don’t know / can’t say) 
+9. (Refused) 
+
+ 
+*(TIMESTAMP8) 
+ 
+*(ALL) 
+W1 Now just a question or two about your use of telephone services.  
+ 
+
+1. Continue 
+ 
+*(MOBILE SAMPLE) (SAMTYP=2) 
+W2 Is there at least one working fixed line telephone inside your home that is used for making and 
+
+receiving calls? 
+ 
+ (SINGLE RESPONSE) 
+ 
+
+1. Yes 
+2. No  
+3. (Don’t know) 
+4. (Refused)  
+
+ 
+*(LANDLINE SAMPLE, MOBILE SAMPLE WITH LANDLINE) (SAMTYP=1 OR ((SAMTYP=2 AND W2 = 1)) 
+W3  How many residential phone numbers do you have in your household not including lines dedicated 
+
+to faxes, modems or business phone numbers?  Do not include mobile phones.  
+ 
+
+INTERVIEWER NOTE: If needed explain as how many individual landline numbers are there at your 
+house that you can use to make and receive calls? 
+ 
+ (SINGLE RESPONSE) 
+
+ 
+1. Number of lines given (Specify________) RECORD WHOLE NUMBER (ALLOWABLE 
+
+RANGE 1 TO 15) *(DISPLAY “UNLIKELY RESPONSE” IF >3) 
+2. (Refused)   
+3. (Don’t know/ Not stated)  
+
+ 
+*(LANDLINE SAMPLE) (SAMTYP=1) 
+W4        Do you also have a working mobile phone? 
+ 
+ (SINGLE RESPONSE) 
+ 
+
+1. Yes 
+2. No 
+3. (Don’t know) 
+4. (Refused) 
+
+ 
+*(ALL) 
+DEM12  (IF LANDLINE, SAMTYP = 1) Can the internet be accessed at this dwelling? 
+ (IF MOBILE, SAMTYP = 2) Can the internet be accessed at your home?  
+ 
+
+(READ OUT) 
+(SINGLE RESPONSE) 
+ 
+1. No internet connection 
+2. Yes broadband (incl. ADSL, Cable, Wireless and Satellite connections) 
+3. Yes, dial up (incl. analogue modem and ISDN connections) 
+4. Yes, but not sure how connected 
+5. Other (internet access through mobile phones, etc) 
+6. (Don’t know/ not sure) 
+7. (Refused) 
+
+ 
+*(ALL) 
+DEM13 And, can I please have your postcode? 
+
+ 
+
+
+
+Australian National University Page: 30 
+ANU Poll No 16 (Foreign Affairs) 
+
+The Social Research Centre 
+
+(EXPLAIN IF NECESSARY:  It is important that we collect this information so we can analyse the 
+results at a local level) 
+ 
+ (SINGLE RESPONSE) 
+
+ 
+1. Record postcode 
+2. (Don’t know) 
+3. (Refused) 
+
+ 
+*(TIMESTAMP 9) 
+ 
+ 
+ 
+*END  End of Survey, Ethics and Thank you 
+ 
+*(ALL) 
+END1 Thank you for taking the time to complete this interview.  Just in case you missed it, my name is (…) 
+
+and this survey was conducted by the Social Research Centre on behalf of the Australian National 
+University.   
+
+ 
+ This research is carried out in compliance with the Privacy Act and the Australian Privacy Principles, 
+
+and the information you have provided will only be used for research purposes. Our Privacy Policy is 
+available via our website, www.srcentre.com.au, if you require further information please click on the 
+Privacy Policy in the right hand menu. 
+
+ 
+ If you have any queries or concerns about the survey I can give you some contact details. 
+ 
+
+Ethics Manager, Research Office, The Australian National University, Canberra ACT 0200, 
+human.ethics.officer@anu.edu.au, (02) 6125 3427  
+ 
+If you would like to talk to a researcher, the number is (02) 6125 5553 (Ian McAllister). 
+ 
+
+1. Yes – GIVE DETAILS AND CONTINUE 
+2. No - CONTINUE 
+
+ 
+  
+CLOSE SUITABLY 
+ 
+*(TIMESTAMP10) 
+ 
+ 
+  
+
+http://www.srcentre.com.au/
+
+
+Australian National University Page: 31 
+ANU Poll No 16 (Foreign Affairs) 
+
+The Social Research Centre 
+
+*TERMINATION SCRIPT 
+ 
+TERM1 Thanks anyway, but for this survey we need to speak to people aged 18 or more.  Thanks for being 
+
+prepared to help. 
+ 
+TERM2 Thanks anyway, but to participate in this study I need to confirm which state / territory you are in 
+ 
+ 
+*(ALLTERM) 
+ 
+
+ Detailed outcome Summary outcome 
+
+S1=4 Household refusal Refusal 
+
+S1=7 No one aged 18 over in household Out of scope 
+
+S2=2 Respondent refusal Refusal 
+
+S5=2 Aged under 18  Out of scope 
+
+S5=3 Refused age Refusal 
+
+S6=9 Mobile sample refused state Refusal 
+
+S7=3 Respondent refusal Refusal 
+
+S8=3 Mobile sample refused alternative number Refusal 
+
+S3=3 Respondent refusal Refusal 
+
+ 
+*(REFUSED) 
+RR1 OK, that’s fine, no problem, but could you just tell me the main reason you do not want to participate, 
+
+because that’s important information for us? 
+ 
+
+1. No comment / just hung up 
+2. Too busy 
+3. Not interested 
+4. Too personal / intrusive 
+5. Don’t like subject matter 
+6. Don’t believe surveys are confidential / privacy concerns 
+7. Silent number 
+8. Don’t trust surveys / government 
+9. Never do surveys 
+10. 12 minutes is too long 
+11. Get too many calls for surveys / telemarketing 
+12. Too old / frail / deaf / unable to do survey (CODE AS TOO OLD / FRAIL / DEAF) 
+13. Not a residential number (business, etc)  (CODE AS NOT A RESIDENTIAL NUMBER) 
+14. Language difficulty (CODE AS LANGUAGE DIFFICULTY NO FOLLOW UP) 
+15. Going away / moving house (CODE AS AWAY DURATION) 
+16. Asked to be taken off list (add to do not call register) 
+17. Other (Specify) 
+18.  Objected to being called on mobile phone 
+
+ 
+*(REFUSED) 
+RR2 RECORD RE-CONTACT TYPE 
+ 
+
+1. Definitely don’t call back 
+2. Possible conversion 
+
+ 
+ 
+
+ 
+
+ 
+
+
+
+

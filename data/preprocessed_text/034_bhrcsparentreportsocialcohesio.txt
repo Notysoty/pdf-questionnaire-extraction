@@ -1,0 +1,134 @@
+
+Seus vizinhos tomariam alguma 
+atitude se... 
+
+Muito 
+provável  
+
+Provável  Nem provável 
+nem 
+
+improvável 
+
+Improvável  Muito 
+improvável  
+
+Não 
+sabe  
+
+CS1.  As crianças faltarem na  
+escola e ficarem brincando na rua? 
+
+ 
+(   ) 1 
+
+ 
+(   ) 2 
+
+ 
+(   ) 3 
+
+ 
+(   ) 4 
+
+ 
+(   ) 5 
+
+ 
+(   ) 
+99 
+
+CS2.  Se as crianças estiverem  
+pichando um muro do bairro? 
+
+ 
+(   ) 1 
+
+ 
+(   ) 2 
+
+ 
+(   ) 3 
+
+ 
+(   ) 4 
+
+ 
+(   ) 5 
+
+ 
+(   ) 
+99 
+
+CS3.  Se as crianças estiverem  
+sendo mal educadas com um 
+adulto? 
+
+ 
+(   ) 1 
+
+ 
+(   ) 2 
+
+ 
+(   ) 3 
+
+ 
+(   ) 4 
+
+ 
+(   ) 5 
+
+ 
+(   ) 
+99 
+
+CS4.  Se acontecer uma briga em  
+frente a sua casa? 
+
+ 
+(   ) 1 
+
+ 
+(   ) 2 
+
+ 
+(   ) 3 
+
+ 
+(   ) 4 
+
+ 
+(   ) 5 
+
+ 
+(   ) 
+99 
+
+CS5.  Se houver diminuição do 
+ número de postos de saúde ou  
+outros serviços essenciais no 
+bairro? 
+
+ 
+(   ) 1 
+
+ 
+(   ) 2 
+
+ 
+(   ) 3 
+
+ 
+(   ) 4 
+
+ 
+(   ) 5 
+
+ 
+(   ) 
+99 
+
+ 
+
+

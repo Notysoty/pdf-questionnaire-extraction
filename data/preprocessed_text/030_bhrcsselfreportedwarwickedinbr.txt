@@ -1,0 +1,34 @@
+
+Seção BEM - Escala de bem-estar mental Warwick-Edinbrugh 
+
+ 
+
+Abaixo se encontram algumas afirmações sobre sentimentos e pensamentos.   
+
+Marque com um (X), por favor, cada uma das afirmações, a que se aproxima mais do modo como 
+você tem se sentido nas últimas duas semanas. 
+
+ 
+
+  Nunca Raramente Algumas 
+vezes Frequentemente Sempre 
+
+BEM1 Tenho me sentido otimista com relação ao 
+futuro (  ) 1  (  ) 2 (  ) 3 (  ) 4 (  ) 5 
+
+BEM2 Tenho me sentido útil (  ) 1  (  ) 2 (  ) 3 (  ) 4 (  ) 5 
+
+BEM3 Tenho me sentido tranquilo(a) (  ) 1  (  ) 2 (  ) 3 (  ) 4 (  ) 5 
+
+BEM4 Tenho lidado bem com os problemas (  ) 1  (  ) 2 (  ) 3 (  ) 4 (  ) 5 
+BEM5 Tenho pensado com clareza (  ) 1  (  ) 2 (  ) 3 (  ) 4 (  ) 5 
+
+BEM6 Tenho me sentido próximo(a) às outras 
+pessoas (  ) 1  (  ) 2 (  ) 3 (  ) 4 (  ) 5 
+
+BEM7 Tenho sido capaz de tomar minhas próprias 
+decisões (  ) 1  (  ) 2 (  ) 3 (  ) 4 (  ) 5 
+
+ 
+
+

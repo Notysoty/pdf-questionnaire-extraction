@@ -1,0 +1,383 @@
+P_REG1a.	ANOTE A DATA DA ENTREVISTA:____/____/_____
+P_REG1b.	ANOTE O DIA DA SEMANA E O TURNO DA AVALIAÇÃO
+MANHÃ	()1 SEGUNDA-FEIRA/()2 TERÇA-FEIRA/()3 QUARTA-FEIRA/()4 QUINTA-FEIRA/()5 SEXTA-FEIRA
+TARDE	()6 SEGUNDA-FEIRA/()7 TERÇA-FEIRA/()8 QUARTA-FEIRA/()9 QUINTA-FEIRA/()10 SEXTA-FEIRA
+P_REG1c.	ANOTE A HORA EXATA DE INICIO:___:___
+PSICO1_1.	Vocé está com sono agora?	() 0 Não;/() 1 Sim, um puoco;/() 2 Sim, muito
+PSICO1_2.	[Mesmo que vocé não esteja com sono], vocé está se sentindo cansado, como se não tivesse dormido o bastate?	() 0 Não;/() 1 Sim, um 			puoco;/() 		2 Sim, muito
+PSICO1_3.	Quantas horas vocé dormiu de ontem para hoje aproximadamente?____ horas;	()99 NÃO SABE
+PSICO1_4.	Pesando nos últimos 7 dias, vocé dormiu bem?	() 0 Não;/() 1 Mais ou menos;/() 2 Sim, muito bem
+PSICO1_5.	Vocé está com fome agora?	() 0 Não;/()1 Sim, um puoco;/() 2 Sim, muito
+PSICO1_6.	E, o contrário, vocé estáse sentido mal por que comeu demais?	() 0 Não;/()1 Sim, um puoco;/() 2 Sim, muito
+PSICO1_7.	Faz quanto tempo que vocé comeu pela última vez?____ minutos;	()99 NÃO SABE
+PSICO1_8.	Qual o seu nivel de estresse nesse momento? Eu quero dizer, o quanto vocé anda preocupado com tarefas (como trabalhos ou provas) ou problemas na escola 			ou ainda o quanto vocé anda preocupado com problemas que estejam acontecendo em casa ou com os amigos?										Nenhum/Minimo/Leve/Moderado/Intenso/Muito Intenso/Máximo
+PSICO1_9.	[PSICO] ANOTE SUA PERCEPÇÃO SUBJETIVA DA ANSIEDADE DA CRIANÇA?	Nenhum/Minimo/Leve/Moderado/Intenso/Muito Intenso/Máximo
+PSICO1_1_10a	se sentido trêmulo?	() 0 Não/() 1 Um pouco/() 2 Muito
+PSICO1_1_10b	sentido seu coração bater forte ou rápido demais?	() 0 Não/() 1 Um pouco/() 2 Muito
+PSICO1_1_10c	sentido dificuldade de respirar, com se estivesse sufocado?	() 0 Não/() 1 Um pouco/() 2 Muito
+PSICO1_1_10d	se sentido tonto?	() 0 Não/() 1 Um pouco/() 2 Muito
+PSICO1_1_10e	sentido vontade	de vomitar ou como se fosse vomitar?	() 0 Não/() 1 Um pouco/() 2 Muito
+PSICO1_1_10f	suando muito de nervoso?	() 0 Não/() 1 Um pouco/() 2 Muito
+PSICO1_1_10g	com dor de barriga?	() 0 Não/() 1 Um pouco/() 2 Muito
+PSICO1_1_10h	com dor de cabeça?	() 0 Não/() 1 Um pouco/() 2 Muito
+PSICO1_1_10i	muito preocupado?	() 0 Não/() 1 Um pouco/() 2 Muito
+PSICO1_1_10j	com muito medo?	() 0 Não/() 1 Um pouco/() 2 Muito
+PSICO1_11.	Vocé fez alguma atividade fisica hoje? Como jogar futebol, jogar vôlei, uma longa caminhada ou uma corrida ou outra brincadeira que vocé ficou cansado?				() 0 Não;/() 1 Sim, um pouco;/() 2 Sim, muito;/() 3 Sim, mais que muito
+PSICO1_1a.	Se SIM, Faz quanto tempo que vocé fez esse exercicio pela última vez?____minutos;	() 88 NÃO SE APLICA (NÃO FEZ ATIVIDADE FISICA);/() NÃO SABE
+PSICO1_12.	[PSICO] A CRIANÇA ESTÁ CLARAMENTE COM ALGUMA DOENÇA CLINICA AGUDA, COMO UMA INFECÇAO RESPIRATÓRIA (RESFRIADO, GRIPE, ETC.) OU DO TRATO GASTRO-INTESTINAL 			(DIARRÉIA, ETC.)	() 0 Não/() 1 Sim, sem comprometimento no estado geral (é possivel que influencie a testagem)/() 2 Sim, com  algum 					comprometimento 	importante no estado geral (é provável que influenciará a testagem)/() 3 Sim, com comprometimento importante no estado 					geral (é provável que influenciará a testagem)
+PSICO1_13.	Vocé toma alguma medicação todos os dias ou quase todos os dias para problemas de comportamento (como aggrssividade), falta de atenção ou 					emocionais (como tristeza, preocupações, timidez)?	() 0 Não;/ () 1 Sim, apenas uma;/() 2 Sim, mais de uma
+PSICO1_13a.	SE SIM, vocé tomou ela (ou alguma delas) hoje?	() 0 Não;/() 1 Sim/() 88 NÃO SE APLICA (Não toma medicação)
+PSICO1_13b.	SE SIM, vocé tomou ela (ou alguma delas) na última semana?	() 0 Não;/() 1 Sim/() 88 NÃO SE APLICA (Não toma medicação)
+PSICO1_13c.	SE SIM, vocé tomou ela (ou alguma delas) no último mês de todos os dias ou quase todos os dias?	() 0 Não;/() 1 Sim/() 88 NÃO SE APLICA (Não toma medicação)
+PSICO1_14.	com Raiva	Nem um pouco/Um pouco/Moderamente/Bastante/Extremamente
+PSICO1_15.	Deprimido	Nem um pouco/Um pouco/Moderamente/Bastante/Extremamente
+PSICO1_16.	Irritado/Incomodado	Nem um pouco/Um pouco/Moderamente/Bastante/Extremamente
+PSICO1_17.	Infeliz	Nem um pouco/Um pouco/Moderamente/Bastante/Extremamente
+PSICO1_18.	Nervoso	Nem um pouco/Um pouco/Moderamente/Bastante/Extremamente
+PSICO1_19.	Apavorado	Nem um pouco/Um pouco/Moderamente/Bastante/Extremamente	
+PSICO1_20.	Triste	Nem um pouco/Um pouco/Moderamente/Bastante/Extremamente	
+PSICO1_21.	Mal humorado	Nem um pouco/Um pouco/Moderamente/Bastante/Extremamente	
+PSICO1_22.	Preocupado	Nem um pouco/Um pouco/Moderamente/Bastante/Extremamente
+CAPE1.	Vocé acredita em bruxaria, macumba ou coisas sobrenaturais?	() 0 Não PRÓXIMA QUESTÃO/ () 1 Sim EXPLORE O SINTOMA
+CAPE1a.	FREQUENCIA: É Só ás vezes, frequentemente ou quase sempre?	() 0 Nunca PRÓXIMA QUESTÃO/ () 1 Ás vezes/ () 2 Frequentemente/ () 3 Quase sempre
+CAPE1b.	INCÔMODO: O quanto vocé se incomoda com esse sintoma?	() 0 Não me incomodo/() 1 Me incomodo um pouco/() 2 Me incomodo bastante/() 3 Me incomodo muito
+CAPE1c.	SINTOMA REAL: [PSICO] QUAL A PROBABILIDADE DA EXPERIÉNCIA RELATADA SER VERDADEIRAMENTE UM SINTOMA, ISTO É, FUGIR DA NORMALIDADE?	() 0 	Improvável/() Pouco 	provável/() 2 Muito provável/() 3 Certamente
+CAPE1d.	DÚVIDA: [PSICO] CASO TENHA DÚVIDA SOBRE A POSSIBILIDADE DA EXPERIÊNCIA RELATADA SER UM SINTOMA PSICÓTICO, DESCREVA AO LADO A EXPERIÊNCIA RELATADA SER 	UM SINTOMA 	PSICÓTICO, DESCREVA AO LADO A EXPERIÊNCIA
+CAPE2.	Ás vezes você sente existem algumas coisas nas revistas, jornais, filmes ou na TV foram feitas especialmente para você ou que falam sobre você?	() 0 	Não PRÓXIMA 	QUESTÃO/ () 1 Sim EXPLORE O SINTOMA
+CAPE3a.	FREQUENCIA: É só ás vezes, frequentemente ou quase sempre?	() 0 Nunca PRÓXIMA QUESTÃO/ () 1 Ás vezes/ () 2 Frequentemente/ () 3 Quase sempre
+CAPE3b.	INCÔMODO: O quanto você se incomoda com esse sintoma?	() 0 Não me incomodo/() 1 Me incomodo um pouco/() 2 Me incomodo bastante/() 3 Me incomodo muito
+CAPE3c.	SINTOMA REAL: [PSICO] QUAL A PROBABILIDADE DA EXPERIȆNCIA RELATADA SER VERDADEIRAMENTE UM SINTOMA, ISTO É, FUGIR DA NORMALIDADE?	() 0 	Improvável/() Pouco 	provável/() 2 Muito provável/() 3 Certamente
+CAPE3d.	DÚVIDA: [PSICO] CASO TENHA DÚVIDA SOBRE A POSSIBILIDADE DA EXPERIÊNCIA RELATADA SER UM SINTOMA PSICÓTICO, DESCREVA AO LADO A EXPERIÊNCIA
+CAPE4.	Ás vezes você tem a sensação de que está sendo perseguido?	() 0 Não PRÓXIMA QUESTÃO/() 1 Sim EXPLORE O SINTOMA
+CAPE4a.	FREQUENCIA: É só ás vezes, frequentemente ou quase sempre?	() 0 Nunca PRÓXIMA QUESTÃO/ () 1 Ás vezes/ () 2 Frequentemente/ () 3 Quase sempre
+CAPE4b.	INCÔMODO: O quanto você se incomoda com esse sintoma?	() 0 Não me incomodo/() 1 Me incomodo um pouco/() 2 Me incomodo bastante/() 3 Me incomodo muito
+CAPE4c.	SINTOMA REAL: [PSICO] QUAL A PROBABILIDADE DA EXPERIȆNCIA RELATADA SER VERDADEIRAMENTE UM SINTOMA, ISTO É, FUGIR DA NORMALIDADE?	() 0 	Improvável/() Pouco 	provável/() 2 Muito provável/() 3 Certamente
+CAPE4d.	DÚVIDA: [PSICO] CASO TENHA DÚVIDA SOBRE A POSSIBILIDADE DA EXPERIÊNCIA RELATADA SER UM SINTOMA PSICÓTICO, DESCREVA AO LADO A EXPERIÊNCIA
+CAPE5.	Ás vezes você tem a sensação de que as pessoas mandam mensangens para você através de pequenas coisas como a forma de olhar ou mesmo sem fazer nada? 	Acontece de as 	pessoas dizerem coisas para você que tem mais de um significado?	() 0 Não PRÓXIMA QUESTÃO/() 1 Sim EXPLORE O SINTOMA
+CAPE5a.	FREQUENCIA: É só ás vezes, frequentemente ou quase sempre?	() 0 Nunca PRÓXIMA QUESTÃO/ () 1 Ás vezes/ () 2 Frequentemente/ () 3 Quase sempre
+CAPE5b.	INCÔMODO: O quanto você se incomoda com esse sintoma?	() 0 Não me incomodo/() 1 Me incomodo um pouco/() 2 Me incomodo bastante/() 3 Me incomodo muito
+CAPE5c.	SINTOMA REAL: [PSICO] QUAL A PROBABILIDADE DA EXPERIȆNCIA RELATADA SER VERDADEIRAMENTE UM SINTOMA, ISTO É, FUGIR DA NORMALIDADE?	() 0 	Improvável/() Pouco 	provável/() 2 Muito provável/() 3 Certamente
+CAPE5d.	DÚVIDA: [PSICO] CASO TENHA DÚVIDA SOBRE A POSSIBILIDADE DA EXPERIÊNCIA RELATADA SER UM SINTOMA PSICÓTICO, DESCREVA AO LADO A EXPERIÊNCIA
+CAPE6.	Ás vezes você tem a sensação de que as pessoas estão se organizando e fazendo planos contra você?	() 0 Não PRÓXIMA QUESTÃO/() 1 Sim EXPLORE O SINTOMA
+CAPE6a.	FREQUENCIA: É só ás vezes, frequentemente ou quase sempre?	() 0 Nunca PRÓXIMA QUESTÃO/ () 1 Ás vezes/ () 2 Frequentemente/ () 3 Quase sempre
+CAPE6b.	INCÔMODO: O quanto você se incomoda com esse sintoma?	() 0 Não me incomodo/() 1 Me incomodo um pouco/() 2 Me incomodo bastante/() 3 Me incomodo muito
+CAPE6c.	SINTOMA REAL: [PSICO] QUAL A PROBABILIDADE DA EXPERIȆNCIA RELATADA SER VERDADEIRAMENTE UM SINTOMA, ISTO É, FUGIR DA NORMALIDADE?	() 0 	Improvável/() Pouco 	provável/() 2 Muito provável/() 3 Certamente
+CAPE6d.	DÚVIDA: [PSICO] CASO TENHA DÚVIDA SOBRE A POSSIBILIDADE DA EXPERIÊNCIA RELATADA SER UM SINTOMA PSICÓTICO, DESCREVA AO LADO A EXPERIÊNCIA
+CAPE7.	Ás vezes você tem a sensação de que você nasceu com o destino marcado para ser alguém muito importante?	() 0 Não PRÓXIMA QUESTÃO/() 1 Sim EXPLORE O SINTOMA
+CAPE7a	FREQUENCIA: É só ás vezes, frequentemente ou quase sempre?	() 0 Nunca PRÓXIMA QUESTÃO/ () 1 Ás vezes/ () 2 Frequentemente/ () 3 Quase sempre
+CAPE7b.	INCÔMODO: O quanto você se incomoda com esse sintoma?	() 0 Não me incomodo/() 1 Me incomodo um pouco/() 2 Me incomodo bastante/() 3 Me incomodo muito
+CAPE7c.	SINTOMA REAL: [PSICO] QUAL A PROBABILIDADE DA EXPERIȆNCIA RELATADA SER VERDADEIRAMENTE UM SINTOMA, ISTO É, FUGIR DA NORMALIDADE?	() 0 	Improvável/() Pouco 	provável/() 2 Muito provável/() 3 Certamente
+CAPE7d.	DÚVIDA: [PSICO] CASO TENHA DÚVIDA SOBRE A POSSIBILIDADE DA EXPERIÊNCIA RELATADA SER UM SINTOMA PSICÓTICO, DESCREVA AO LADO A EXPERIÊNCIA
+CAPE8.	Ás vezes você tem a sensação de que você é uma pessoa muito especial ou diferente das outras?	() 0 Não PRÓXIMA QUESTÃO/() 1 Sim EXPLORE O SINTOMA
+CAPE8a.	FREQUENCIA: É só ás vezes, frequentemente ou quase sempre?	() 0 Nunca PRÓXIMA QUESTÃO/ () 1 Ás vezes/ () 2 Frequentemente/ () 3 Quase sempre
+CAPE8b.	INCÔMODO: O quanto você se incomoda com esse sintoma?	() 0 Não me incomodo/() 1 Me incomodo um pouco/() 2 Me incomodo bastante/() 3 Me incomodo muito
+CAPE8c.	SINTOMA REAL: [PSICO] QUAL A PROBABILIDADE DA EXPERIȆNCIA RELATADA SER VERDADEIRAMENTE UM SINTOMA, ISTO É, FUGIR DA NORMALIDADE?	() 0 	Improvável/() Pouco 	provável/() 2 Muito provável/() 3 Certamente
+CAPE8d.	DÚVIDA: [PSICO] CASO TENHA DÚVIDA SOBRE A POSSIBILIDADE DA EXPERIÊNCIA RELATADA SER UM SINTOMA PSICÓTICO, DESCREVA AO LADO A EXPERIÊNCIA
+CAPE9.	Você as vezes acha que as pessoas se cominicam através do pensamento?	() 0 Não PRÓXIMA QUESTÃO/() 1 Sim EXPLORE O SINTOMA
+CAPE9a.	FREQUENCIA: É só ás vezes, frequentemente ou quase sempre?	() 0 Nunca PRÓXIMA QUESTÃO/ () 1 Ás vezes/ () 2 Frequentemente/ () 3 Quase sempre
+CAPE9b.	INCÔMODO: O quanto você se incomoda com esse sintoma?	() 0 Não me incomodo/() 1 Me incomodo um pouco/() 2 Me incomodo bastante/() 3 Me incomodo muito
+CAPE9c.	SINTOMA REAL: [PSICO] QUAL A PROBABILIDADE DA EXPERIȆNCIA RELATADA SER VERDADEIRAMENTE UM SINTOMA, ISTO É, FUGIR DA NORMALIDADE?	() 0 	Improvável/() Pouco 	provável/() 2 Muito provável/() 3 Certamente
+CAPE9d.	DÚVIDA: [PSICO] CASO TENHA DÚVIDA SOBRE A POSSIBILIDADE DA EXPERIÊNCIA RELATADA SER UM SINTOMA PSICÓTICO, DESCREVA AO LADO A EXPERIÊNCIA
+CAPE10.	Ás vezes você tem a sensação de que os aparelhos electrônicos como computadores e celulares podem influenciar o seu pensamento?	() 0 Não PRÓXIMA QUESTÃO/() 1 Sim EXPLORE 	O SINTOMA
+CAPE10a.	FREQUENCIA: É só ás vezes, frequentemente ou quase sempre?	() 0 Nunca PRÓXIMA QUESTÃO/ () 1 Ás vezes/ () 2 Frequentemente/ () 3 Quase sempre
+CAPE10b.	INCÔMODO: O quanto você se incomoda com esse sintoma?	() 0 Não me incomodo/() 1 Me incomodo um pouco/() 2 Me incomodo bastante/() 3 Me incomodo muito
+CAPE10c.	SINTOMA REAL: [PSICO] QUAL A PROBABILIDADE DA EXPERIȆNCIA RELATADA SER VERDADEIRAMENTE UM SINTOMA, ISTO É, FUGIR DA NORMALIDADE?	() 0 	Improvável/() 			Pouco provável/() 2 Muito provável/() 3 Certamente
+CAPE10d.	DÚVIDA: [PSICO] CASO TENHA DÚVIDA SOBRE A POSSIBILIDADE DA EXPERIÊNCIA RELATADA SER UM SINTOMA PSICÓTICO, DESCREVA AO LADO A EXPERIÊNCIA
+CAPE11.	Ás vezes você tem a sensação de que as pessoas olham para você de um jeito estranho por cauasa da sua aparêcia?	() 0 Não PRÓXIMA QUESTÃO/() 1 Sim EXPLORE O SINTOMA
+CAPE11a.	FREQUENCIA: É só ás vezes, frequentemente ou quase sempre?	() 0 Nunca PRÓXIMA QUESTÃO/ () 1 Ás vezes/ () 2 Frequentemente/ () 3 Quase sempre
+CAPE11b.	INCÔMODO: O quanto você se incomoda com esse sintoma?	() 0 Não me incomodo/() 1 Me incomodo um pouco/() 2 Me incomodo bastante/() 3 Me incomodo muito
+CAPE11c.	SINTOMA REAL: [PSICO] QUAL A PROBABILIDADE DA EXPERIȆNCIA RELATADA SER VERDADEIRAMENTE UM SINTOMA, ISTO É, FUGIR DA NORMALIDADE?	() 0 	Improvável/() 			Pouco provável/() 2 Muito provável/() 3 Certamente 
+CAPE11d.	DÚVIDA: [PSICO] CASO TENHA DÚVIDA SOBRE A POSSIBILIDADE DA EXPERIÊNCIA RELATADA SER UM SINTOMA PSICÓTICO, DESCREVA AO LADO A EXPERIÊNCIA
+CAPE12.	Ás vezes você sente que sua mente está vazia?	() 0 Não PRÓXIMA QUESTÃO/() 1 Sim EXPLORE O SINTOMA
+CAPE12a.	FREQUENCIA: É só ás vezes, frequentemente ou quase sempre?	() 0 Nunca PRÓXIMA QUESTÃO/ () 1 Ás vezes/ () 2 Frequentemente/ () 3 Quase sempre
+CAPE12b.	INCÔMODO: O quanto você se incomoda com esse sintoma?	() 0 Não me incomodo/() 1 Me incomodo um pouco/() 2 Me incomodo bastante/() 3 Me incomodo muito
+CAPE12c.	SINTOMA REAL: [PSICO] QUAL A PROBABILIDADE DA EXPERIȆNCIA RELATADA SER VERDADEIRAMENTE UM SINTOMA, ISTO É, FUGIR DA NORMALIDADE?	() 0 	Improvável/() 			Pouco provável/() 2 Muito provável/() 3 Certamente 
+CAPE12d.	DÚVIDA: [PSICO] CASO TENHA DÚVIDA SOBRE A POSSIBILIDADE DA EXPERIÊNCIA RELATADA SER UM SINTOMA PSICÓTICO, DESCREVA AO LADO A EXPERIÊNCIA
+CAPE13.	Ás vezes você tem a sensação de que os pensamentos da sua cabeça estão sendo roubados de você?	() 0 Não PRÓXIMA QUESTÃO/() 1 Sim EXPLORE O SINTOMA
+CAPE13a.	FREQUENCIA: É só ás vezes, frequentemente ou quase sempre?	() 0 Nunca PRÓXIMA QUESTÃO/ () 1 Ás vezes/ () 2 Frequentemente/ () 3 Quase sempre
+CAPE13b.	INCÔMODO: O quanto você se incomoda com esse sintoma?	() 0 Não me incomodo/() 1 Me incomodo um pouco/() 2 Me incomodo bastante/() 3 Me incomodo muito
+CAPE13c.	SINTOMA REAL: [PSICO] QUAL A PROBABILIDADE DA EXPERIȆNCIA RELATADA SER VERDADEIRAMENTE UM SINTOMA, ISTO É, FUGIR DA NORMALIDADE?	() 0 	Improvável/() 			Pouco provável/() 2 Muito provável/() 3 Certamente
+CAPE13d.	DÚVIDA: [PSICO] CASO TENHA DÚVIDA SOBRE A POSSIBILIDADE DA EXPERIÊNCIA RELATADA SER UM SINTOMA PSICÓTICO, DESCREVA AO LADO A EXPERIÊNCIA
+CAPE14.	Ás vezes você tem a sensação de que os pensamentos da sua cabeça não são seus? Como sabe que não são seus? De onde eles vêm?	() 0 Não PRÓXIMA QUESTÃO/() 1 Sim EXPLORE 	O SINTOMA
+CAPE14a.	FREQUENCIA: É só ás vezes, frequentemente ou quase sempre?	() 0 Nunca PRÓXIMA QUESTÃO/ () 1 Ás vezes/ () 2 Frequentemente/ () 3 Quase sempre
+CAPE14b.	INCÔMODO: O quanto você se incomoda com esse sintoma?	() 0 Não me incomodo/() 1 Me incomodo um pouco/() 2 Me incomodo bastante/() 3 Me incomodo muito
+CAPE14c.	SINTOMA REAL: [PSICO] QUAL A PROBABILIDADE DA EXPERIȆNCIA RELATADA SER VERDADEIRAMENTE UM SINTOMA, ISTO É, FUGIR DA NORMALIDADE?	() 0 	Improvável/() 			Pouco provável/() 2 Muito provável/() 3 Certamente
+CAPE14d.	DÚVIDA: [PSICO] CASO TENHA DÚVIDA SOBRE A POSSIBILIDADE DA EXPERIÊNCIA RELATADA SER UM SINTOMA PSICÓTICO, DESCREVA AO LADO A EXPERIÊNCIA
+CAPE15.	Ás vezes você tem a sensação de que os pensamentos são tão vivos, tão fortes que você fica preocupado que outras pessoas possam ouvi-los?	() 0 Não PRÓXIMA 	QUESTÃO/() 1 Sim EXPLORE O SINTOMA
+CAPE15a.	FREQUENCIA: É só ás vezes, frequentemente ou quase sempre?	() 0 Nunca PRÓXIMA QUESTÃO/ () 1 Ás vezes/ () 2 Frequentemente/ () 3 Quase sempre
+CAPE15b.	INCÔMODO: O quanto você se incomoda com esse sintoma?	() 0 Não me incomodo/() 1 Me incomodo um pouco/() 2 Me incomodo bastante/() 3 Me incomodo muito
+CAPE15c.	SINTOMA REAL: [PSICO] QUAL A PROBABILIDADE DA EXPERIȆNCIA RELATADA SER VERDADEIRAMENTE UM SINTOMA, ISTO É, FUGIR DA NORMALIDADE?	() 0 	Improvável/() 			Pouco provável/() 2 Muito provável/() 3 Certamente
+CAPE15d.	DÚVIDA: [PSICO] CASO TENHA DÚVIDA SOBRE A POSSIBILIDADE DA EXPERIÊNCIA RELATADA SER UM SINTOMA PSICÓTICO, DESCREVA AO LADO A EXPERIÊNCIA
+CAPE16.	Ás vezes você tem a sensação de que você ê capaz de ouvir os seus próprios pensamentos?	() 0 Não PRÓXIMA QUESTÃO/() 1 Sim EXPLORE O SINTOMA
+CAPE16a.	FREQUENCIA: É só ás vezes, frequentemente ou quase sempre?	() 0 Nunca PRÓXIMA QUESTÃO/ () 1 Ás vezes/ () 2 Frequentemente/ () 3 Quase sempre
+CAPE16b.	INCÔMODO: O quanto você se incomoda com esse sintoma?	() 0 Não me incomodo/() 1 Me incomodo um pouco/() 2 Me incomodo bastante/() 3 Me incomodo muito
+CAPE16c.	SINTOMA REAL: [PSICO] QUAL A PROBABILIDADE DA EXPERIȆNCIA RELATADA SER VERDADEIRAMENTE UM SINTOMA, ISTO É, FUGIR DA NORMALIDADE?	() 0 	Improvável/() 			Pouco provável/() 2 Muito provável/() 3 Certamente
+CAPE16d.	DÚVIDA: [PSICO] CASO TENHA DÚVIDA SOBRE A POSSIBILIDADE DA EXPERIÊNCIA RELATADA SER UM SINTOMA PSICÓTICO, DESCREVA AO LADO A EXPERIÊNCIA
+CAPE17.	Ás vezes você tem a sensação de que você está sob o controle de uma força ou poder fora de você?	() 0 Não PRÓXIMA QUESTÃO/() 1 Sim EXPLORE O SINTOMA
+CAPE17a.	FREQUENCIA: É só ás vezes, frequentemente ou quase sempre?	() 0 Nunca PRÓXIMA QUESTÃO/ () 1 Ás vezes/ () 2 Frequentemente/ () 3 Quase sempre
+CAPE17b.	INCÔMODO: O quanto você se incomoda com esse sintoma?	() 0 Não me incomodo/() 1 Me incomodo um pouco/() 2 Me incomodo bastante/() 3 Me incomodo muito
+CAPE17c.	SINTOMA REAL: [PSICO] QUAL A PROBABILIDADE DA EXPERIȆNCIA RELATADA SER VERDADEIRAMENTE UM SINTOMA, ISTO É, FUGIR DA NORMALIDADE?	() 0 	Improvável/() 			Pouco provável/() 2 Muito provável/() 3 Certamente
+CAPE17d.	DÚVIDA: [PSICO] CASO TENHA DÚVIDA SOBRE A POSSIBILIDADE DA EXPERIÊNCIA RELATADA SER UM SINTOMA PSICÓTICO, DESCREVA AO LADO A EXPERIÊNCIA
+CAPE19.	Ás vezes acontece de você ouvir vozes conversando umas com as outras enquanto está sozinho?	() 0 Não PRÓXIMA QUESTÃO/() 1 Sim EXPLORE O SINTOMA
+CAPE19a.	FREQUENCIA: É só ás vezes, frequentemente ou quase sempre?	() 0 Nunca PRÓXIMA QUESTÃO/ () 1 Ás vezes/ () 2 Frequentemente/ () 3 Quase sempre
+CAPE19b.	INCÔMODO: O quanto você se incomoda com esse sintoma?	() 0 Não me incomodo/() 1 Me incomodo um pouco/() 2 Me incomodo bastante/() 3 Me incomodo muito
+CAPE19c.	SINTOMA REAL: [PSICO] QUAL A PROBABILIDADE DA EXPERIȆNCIA RELATADA SER VERDADEIRAMENTE UM SINTOMA, ISTO É, FUGIR DA NORMALIDADE?	() 0 	Improvável/() 			Pouco provável/() 2 Muito provável/() 3 Certamente
+CAPE19d.	DÚVIDA: [PSICO] CASO TENHA DÚVIDA SOBRE A POSSIBILIDADE DA EXPERIÊNCIA RELATADA SER UM SINTOMA PSICÓTICO, DESCREVA AO LADO A EXPERIÊNCIA
+CAPE20.	Ás vezes você tem a impressão de quem um membro da sua família ou que algum amigo ou conhecido foi substituido por um impostor?	() 0 Não PRÓXIMA QUESTÃO/() 1 Sim EXPLORE 	O SINTOMA
+CAPE20a.	FREQUENCIA: É só ás vezes, frequentemente ou quase sempre?	() 0 Nunca PRÓXIMA QUESTÃO/ () 1 Ás vezes/ () 2 Frequentemente/ () 3 Quase sempre
+CAPE20b.	INCÔMODO: O quanto você se incomoda com esse sintoma?	() 0 Não me incomodo/() 1 Me incomodo um pouco/() 2 Me incomodo bastante/() 3 Me incomodo muito
+CAPE20c.	SINTOMA REAL: [PSICO] QUAL A PROBABILIDADE DA EXPERIȆNCIA RELATADA SER VERDADEIRAMENTE UM SINTOMA, ISTO É, FUGIR DA NORMALIDADE?	() 0 	Improvável/() 			Pouco provável/() 2 Muito provável/() 3 Certamente
+CAPE20d.	DÚVIDA: [PSICO] CASO TENHA DÚVIDA SOBRE A POSSIBILIDADE DA EXPERIÊNCIA RELATADA SER UM SINTOMA PSICÓTICO, DESCREVA AO LADO A EXPERIÊNCIA
+CAPE21.	Ás vezes você vê coisas, pessoas ou animais que outras pessoas não conseguem ver?	() 0 Não PRÓXIMA QUESTÃO/() 1 Sim EXPLORE O SINTOMA
+CAPE21a.	FREQUENCIA: É só ás vezes, frequentemente ou quase sempre?	() 0 Nunca PRÓXIMA QUESTÃO/ () 1 Ás vezes/ () 2 Frequentemente/ () 3 Quase sempre
+CAPE21b.	INCÔMODO: O quanto você se incomoda com esse sintoma?	() 0 Não me incomodo/() 1 Me incomodo um pouco/() 2 Me incomodo bastante/() 3 Me incomodo muito
+CAPE21c.	SINTOMA REAL: [PSICO] QUAL A PROBABILIDADE DA EXPERIȆNCIA RELATADA SER VERDADEIRAMENTE UM SINTOMA, ISTO É, FUGIR DA NORMALIDADE?	() 0 	Improvável/() 			Pouco provável/() 2 Muito provável/() 3 Certamente
+CAPE21d.	DÚVIDA: [PSICO] CASO TENHA DÚVIDA SOBRE A POSSIBILIDADE DA EXPERIÊNCIA RELATADA SER UM SINTOMA PSICÓTICO, DESCREVA AO LADO A EXPERIÊNCIA
+CAPE22.	Ás vezes você tem a sensação de que personagens de desenhos animados, jogos de video game, computador ou histórias entraram na sua vida?	() 0 Não PRÓXIMA 	QUESTÃO/() 1 Sim EXPLORE O SINTOMA
+CAPE22a.	FREQUENCIA: É só ás vezes, frequentemente ou quase sempre?	() 0 Nunca PRÓXIMA QUESTÃO/ () 1 Ás vezes/ () 2 Frequentemente/ () 3 Quase sempre
+CAPE22b.	INCÔMODO: O quanto você se incomoda com esse sintoma?	() 0 Não me incomodo/() 1 Me incomodo um pouco/() 2 Me incomodo bastante/() 3 Me incomodo muito
+CAPE22c.	SINTOMA REAL: [PSICO] QUAL A PROBABILIDADE DA EXPERIȆNCIA RELATADA SER VERDADEIRAMENTE UM SINTOMA, ISTO É, FUGIR DA NORMALIDADE?	() 0 	Improvável/() 			Pouco provável/() 2 Muito provável/() 3 Certamente
+CAPE22d.	DÚVIDA: [PSICO] CASO TENHA DÚVIDA SOBRE A POSSIBILIDADE DA EXPERIÊNCIA RELATADA SER UM SINTOMA PSICÓTICO, DESCREVA AO LADO A EXPERIÊNCIA
+CAPE23.	Ás vezes você fica na dúvida se certas coisas são 'de verdade' ou 'de mentira'?	() 0 Não PRÓXIMA QUESTÃO/() 1 Sim EXPLORE O SINTOMA
+CAPE23a.	FREQUENCIA: É só ás vezes, frequentemente ou quase sempre?	() 0 Nunca PRÓXIMA QUESTÃO/ () 1 Ás vezes/ () 2 Frequentemente/ () 3 Quase sempre
+CAPE23b.	INCÔMODO: O quanto você se incomoda com esse sintoma?	() 0 Não me incomodo/() 1 Me incomodo um pouco/() 2 Me incomodo bastante/() 3 Me incomodo muito
+CAPE23c.	SINTOMA REAL: [PSICO] QUAL A PROBABILIDADE DA EXPERIȆNCIA RELATADA SER VERDADEIRAMENTE UM SINTOMA, ISTO É, FUGIR DA NORMALIDADE?	() 0 	Improvável/() 			Pouco provável/() 2 Muito provável/() 3 Certamente
+CAPE23d.	DÚVIDA: [PSICO] CASO TENHA DÚVIDA SOBRE A POSSIBILIDADE DA EXPERIÊNCIA RELATADA SER UM SINTOMA PSICÓTICO, DESCREVA AO LADO A EXPERIÊNCIA
+CAPE24.	[PSICO] PRESENÇA DE CONTEÚDO MENTAL INCOMUM
+() 0 	Nunca/ausência	Nenhum conteúdo mental incomum
+() 1 	Questionável	Leve elaboração das crenças convencionais (entendidas da forma como a maior parte da população as entende)
+() 2	Leve	Vaga impressão de que algo está diferente ou de que há algo de errado com o mundo, uma impressáo de que as coisas mudaram, mas o entrevistado não consegue 			definir, de formal clara e articulada, o que foi que mudou. Esta experiência não é fonte de preocupação para o entrevistado
+() 3	Moderado	Sentimento de perplexidade. Uma maior sensação de incerteza em relação aos pensamentos do que na coluna 2
+() 4	Moderadamente Grave	Idéias referenciais de que certos eventos, objetos ou pessoas têm um significado particular ou incomum. Sentimento de que a experiência possa 					estar vindo de fora de si mesmo.  Não resulta em alteração comportamental
+() 5	Grave	Pensamentos incomuns contendo material absolutamente excêntrico e altamente improvável. Entrevistado consegue duvidar (pensamento não se mantém porque não existe 		uma convicção que beire o delírio ou o entrevistado não acredita nestes pensamentos o tempo todo). Pode resultar em alteração comportamental embora esta seja 			pequena.
+() 6	Psicótico e grave	Grave	Pensamentos incomuns contendo material absolutamente excêntrico e altamente improvável mantidos com uma convicção que beire o delírio 					(nenhuma dúvida). Pode influenciar o comportamento de forma marcante
+CAPE25.	[PSICO] PRESENÇA DE EXPERIÊCIAS SENSORIAIS INCOMUNS
+() 0 	Nunca/ausência	Nenhum experiência  perceptiva.
+() 1 	Questionável
+() 2	Leve	Percepções exacerbadas ou entorpecidas, ilusões (ex. luzes/sombrs).
+		Não é particularmente angustiante.
+		Experiências hipnagôgicas/ hipnopômpicas
+() 3	Moderado	Experiências mais intrigantes: distorções/ilusões mais intensas/vividas murmúrios indiferenciados, etc..
+			Entrevistado não tem certeza acerca da natureza das experiências.
+			Consegue descartá-las.
+			Não causa sofrimento.
+			Desrealização.
+			Despersonalização
+() 4	Moderadamente Grave	Experiências mais vividas do que na classicação 3 como, por exemplo, ter o seu nome chamado, ouvir o telefone tocar, etc. mas podem ser fugazes, 				transitórias.
+				É capaz capaz de dar uma explicação plausível para a experiência.
+				Pode estar associado com um leve sofrimento 
+() 5	Grave	Verdadeiras alucinações (ex. ouvir vozes ou conversas, sentir alguém tocando o corpo.
+		Ao esforçar-se, o entrevistado é capaz de duvidar da experiência.
+		Pode ser assustador ou estar associado a certo grau de sofrimento
+() 6	Psicótico e grave	Verdadeiras alucinações as quais o entrevistado acredita serem reais no momento em que ele/ela as vivencia, assim como depois de tê-las 					vivenciado.	
+				Pode causar muito sofrimento
+CAPE26.	[PSICO] DISCURSO DO ENTREVISTADO
+() 0 	Nunca/ausência	Discurso normal e lógico, sem desorganização, nenhuma dificuldade para se comunicar ou se fazer entender
+() 1 	Questionável
+() 2	Leve	Dificuldades subjetivas leves (ex. dificuldade de transmitir a mensagem).
+		Imperceptivel para as outras pessoas.
+() 3	Moderado	Meio vago; certa evidência de circunstacialidade ou irrelevãcia em seu discurso.
+			Sentimento de não ser entendido.
+() 4	Moderadamente Grave	Evidência clara de discurso e de padrões de raciocínio levemente desconexos 
+				Os elos entre as idéias saõ mais tangenciais.
+				Sentimento crescente de frustração durante uma conversa.
+() 5	Grave	Circunstancialidade ou tangencialidade acentuadas durante o discurso, mas responde á reestruturação durante a entrevista. 
+() 6	Psicótico e grave	Falta de coerência, discurso ininteligível, dificuldade significativa de seguir uma linha de raciocínio. 
+				A fala apresenta associações "frouxas" 
+CAPE27.	[PSICO] EMBOTAMENTO AFETIVO 
+() 0 	Nunca/ausência	Não foram observadas anormalidades 
+() 1 	Questionável
+() 2	Leve	Pode ser observado urn leve grau de constricção emocional
+() 3	Moderado	Constrição do campo emocional observável. 
+			Evita ou não consegue demonstrar sentimentos. Expressividade emocional reduzida. 
+			O entrevistador sente um "distanciamento" ou uma capacidade reduzida de estabelecer contato
+() 5	Grave	Evidência Evidencia de emotividade	
+() 6	Psicótico e grave	Embotamento total da emotividade.
+				Não é observada nenhuma expressão emocional espontânea durante a entrevista.
+KALU1. Tem crianças que quando estão sozinhas acham que escutam vozes, ou véem coisas ou sentem cheiros que elas não sabem, realmente, de onde eles vém. Alguma vez isso 	aconteceu com você? Como foi isso?	() 0 Não/ () 1 Sim
+KALU2.	Já aconteceu você pensar que ouviu vozes quando  você estava sozinho? O que você ouviu?	() 0 Não/ () 1 Sim
+KALU3.	Você alguma vez ouviu alguém chamar seu nome  mesmo quando não havia ninguêm por perto? Que tipo de coisas você ouviu?	() 0 Não/ () 1 Sim
+KALU4.	Alguma vez você já ouviu música que outras pessoas não ouviram?	() 0 Não/ () 1 Sim
+KALU5.	Já aconteceu você ver coisas que, de verdade, não estavam ali? Poderiam ser sombras ou outros objetos se movendo?	() 0 Não/ () 1 Sim
+KALU6.	É você já pemsou que viu fantasma? Quando? Isto acontece só á noite? É quando você está tentando dormir ou acontece de dia também? O que você viu?	() 0 Não/ () 1 	Sim
+KDEL1.	Você sabe o que é imaginar coisas? O que é? Alguma vez a sua imaginação já lhe pregou um susto? Que tipo de susto? Fale mais sobre isso?	() 0 Não/ () 1 Sim
+KDEL2.	Você tem idéias ou pensamentos sobre certas coisas que 	você nunca disse a ninguém com medo deles não te entenderem? Que idéias?	() 0 Não/ () 1 Sim
+KDEL3.	Você acredita em coisas que outras pessoas não acreditam? Em quê, por exemplo?	() 0 Não/ () 1 Sim
+KDEL4.	Teve alguma vez que você achou que alguém queria machucá-lo? Quem? Pȏr que?	() 0 Não/ () 1 Sim
+KDEL5.	Você achou que você é um pessoa importante ou famosa?	() 0 Não/ () 1 Sim
+KDEL6.	Quando você está com pessoas que você não conhece você pensa que eles estão falando sobre você?	() 0 Não/ () 1 Sim
+KDEL7.	Alguma vez você sentiu que estava acontecendo alguma coisa diferente ou estranha com o seu corpo? Como se houvesse alguma coisa muito errada com ele ou que ele estivesse 	se estragando por dentro?	() 0 Não/ () 1 Sim
+KDEL8.	Você já se sentiu com a certeza de que o mundo estava acabando? Com que frequência você pensava nisso?	() 0 Não/ () 1 Sim
+P_REG1d.	ANOTE A HORA EXATA DE TÉRMINO DA APLICAÇÃO 1:___:___
+P_REG2a.	ANOTE A DATA DA ENTREVISTA:____/____/______
+P_REG2b.	ANOTE O DIA DA SEMANA E O TURNO DA AVALIAÇÃO
+	MANHÃ	()1 SEGUNDA-FEIRA/()2 TERÇA-FEIRA/()3 QUARTA-FEIRA/()4 QUINTA-FEIRA/()5 SEXTA-FEIRA
+	TARDE	()6 SEGUNDA-FEIRA/()7 TERÇA-FEIRA/()8 QUARTA-FEIRA/()9 QUINTA-FEIRA/()10 SEXTA-FEIRA
+P_REG2C.	ANOTE A HORA EXATA DE INÍCIO:___:___
+PSICO2_1.	Você está com sono agora?	() 0 Não/ () 1 Sim, um pouco;/ () 2 Sim, muito
+PSICO2_2.	[Mesmo que você não esteja com sono], você está se sentido cansado, como se não tivesse dormido o bastante?	() 0 Não/ () 1 Sim, um pouco;/ () 2 Sim, muito
+PSICO2_3.	Quantas horas você dormiu de ontem para hoje aproximadamente?____horas;	() 99 NÃO SABE
+PSICO2_4.	Pensado nos últimos 7 dias, você dormiu bem?	() 0 Não/ () 1 Mais ou menos;/ () 2 Sim, muito bem
+PSICO2_5.	Você está com fome agora?	() 0 Não/ () 1 Sim, um pouco;/ () 2 Sim, muito
+PSICO2_6.	E, o contrário, você está se sentindo ma; por que comeu demais?	() 0 Não/ () 1 Sim, um pouco;/ () 2 Sim, muito
+PSICO2_7.	Faz quanto tempo que você comeu pela última vez?____ minutos;	() 99 NÃO SABE
+PSICO2_8.	Qual o seu nível de estresse nesse momento? Eu quero dizer, o quanto você anda preocupado com tarefas (como trabalhos ou provas) ou problemas na escola ou ainda 		o quanto você anda preocupado com problemas que estejam acontecendo em casa ou com os  amigos?	Nenhum ()0 / Mínimo ()1 /Leve ()2 ()3/Moderado ()4 ()5 				()6/Intenso ()7 ()8/ Muito Intenso ()9/Máximo ()10
+PSICO2_9.	[PSICO] ANOTE SUA PERCEPÇÃO SUBJETIVA DA ANSIEDADE DA CRIANÇA?	()0 / Mínimo ()1 /Leve ()2 ()3/Moderado ()4 ()5 				()6/Intenso ()7 		()8/ Muito Intenso ()9/Máximo ()10
+PSICO2_10a	se sentido trémulo?	() 0 Não/ () 1 Um pouco/ () 2 Muito
+PSICO2_10b	sentido seu coração bater forte ou rápido demais?	() 0 Não/ () 1 Um pouco/ () 2 Muito
+PSICO2_10c	sentido dificuldade de respirar, com se estivesse sufocado?	() 0 Não/ () 1 Um pouco/ () 2 Muito
+PSICO2_10d	se sentido tonto?	() 0 Não/ () 1 Um pouco/ () 2 Muito
+PSICO2_10e	sentido vontade de vomitar ou como se fosse vomitar?	() 0 Não/ () 1 Um pouco/ () 2 Muito
+PSICO2_10f	suando muito de nervoso?	() 0 Não/ () 1 Um pouco/ () 2 Muito
+PSICO2_10g	com dor de cabeça?	() 0 Não/ () 1 Um pouco/ () 2 Muito
+PSICO2_10i	muito preocupado?	() 0 Não/ () 1 Um pouco/ () 2 Muito
+PSICO2_10j	com muito medo?	() 0 Não/ () 1 Um pouco/ () 2 Muito
+PSICO2_11.	Você fez alguma atividade fisica hoje? Como jogar futebol, jogar vôlei, uma longa caminhada ou uma corrida  ou outra brincadeira que você ficou cansado?			()Não/ ()1 Sim, umpouco;/ ()2 Sim, muito;/ ()3 Sim, mais que muito
+PSICO2_11a. 	Se SIM, Faz quanto tempo que você fez esse exercício pela última vez?_____minutos;	()88 NÃO SE APLICA (NÃO FEZ ATIVIDADE FÍSICA:;/ ()99 NÃO SABE
+PSICO2_12	[PSICO] A CRIANÇA ESTÁ CLARAMENTE COM ALGUMA DOENÇA CLÍNICA AGUDA, COMO UMA INFECÇÃO RESPIRATÓRIA (RESFRIADO, gRIPE, ETC.) OU DO TRATO GASTRO-INTESTINAL 			(DIARRÉIA, ETC.)	()0 Não/ ()1 Sim, sem comprometimento  no estado geral (é provável que influenciará a testagem)/ () 2 Sim, com algum comprometimento no 		estado geral (certamente influenciará e testagem)
+PSICO2_13.	Você toma alguma medicação todos os dias ou quase todos os dias para problemas de comportamento (como agressividade), falta de atenção ou emocionais (como 			tristeza, preocupações, timidez)?	()0 Não;/ ()1 Sim, apenas uma;/ ()2 Sim, mais de uma
+PSICO2_13a.	SE SIM, você tomou ela (ou alguma delas) hoje?	()0 Não;/ ()1 Sim
+PSICO2_13b.	SE SIM, você tomou ela (ou alguma delas) na última semana?	()0 Não;/ ()1 Sim
+PSICO2_13c.	SE SIM, você tomou ela (ou alguma delas) no último més de todos or dias ou quase todos os dias?	()0 Não;/ ()1 Sim
+PSICO2_14.	com Raiva	Nem um pouco/Um pouco/Moderadamente/Bastante/Extremamente
+PSICO2_15.	Deprimido	Nem um pouco/Um pouco/Moderadamente/Bastante/Extremamente
+PSICO2_16.	Irritado/Incomodado	Nem um pouco/Um pouco/Moderadamente/Bastante/Extremamente
+PSICO2_17.	Infeliz	Nem um pouco/Um pouco/Moderadamente/Bastante/Extremamente
+PSICO2_18.	Nervoso	Nem um pouco/Um pouco/Moderadamente/Bastante/Extremamente
+PSICO2_19.	Apavorado	Nem um pouco/Um pouco/Moderadamente/Bastante/Extremamente
+PSICO2_20.	Triste	Nem um pouco/Um pouco/Moderadamente/Bastante/Extremamente
+PSICO2_21.	Mal humorado	Nem um pouco/Um pouco/Moderadamente/Bastante/Extremamente
+PSICO2_22.	Preocupado	Nem um pouco/Um pouco/Moderadamente/Bastante/Extremamente
+LAT1.	escrever uma carta	Sempre a mão E/Em geral a mão E/Sem preferência/Em geral a mão D/Sempre a mão D
+LAT2.	arremessar uma bola	Sempre a mão E/Em geral a mão E/Sem preferência/Em geral a mão D/Sempre a mão D
+LAT3.	segurar a raquete de tênis	Sempre a mão E/Em geral a mão E/Sem preferência/Em geral a mão D/Sempre a mão D
+LAT4.	risca o fósforo	Sempre a mão E/Em geral a mão E/Sem preferência/Em geral a mão D/Sempre a mão D
+LAT5. 	segura a tesoura para cortar	Sempre a mão E/Em geral a mão E/Sem preferência/Em geral a mão D/Sempre a mão D
+LAT6.	enfia a linha na agulha	Sempre a mão E/Em geral a mão E/Sem preferência/Em geral a mão D/Sempre a mão D
+LAT7.	distribui cartas de jogo	Sempre a mão E/Em geral a mão E/Sem preferência/Em geral a mão D/Sempre a mão D
+LAT8.	martela um prego	Sempre a mão E/Em geral a mão E/Sem preferência/Em geral a mão D/Sempre a mão D
+LAT9.	escova os dentes	Sempre a mão E/Em geral a mão E/Sem preferência/Em geral a mão D/Sempre a mão D
+LAT10.	desatarraxar uma tampa	Sempre a mão E/Em geral a mão E/Sem preferência/Em geral a mão D/Sempre a mão D
+LAT11. 	Olhar no buraco da fechadura	Sempre o olho E/Em geral o olho E/Sem preferência/Em geral o olho D/Sempre o olho D
+LAT12.	Sua mãe é canhota?	( ) 1 Sim; /( ) 0 Não; /( ) 99 NÃO SABE
+LAT13. 	Seu pai é canhoto?	( ) 1 Sim; /( ) 0 Não; /( ) 99 NÃO SABE
+LAT14. 	Algum irmão seu (filho do mesmo pai e da mesma mãe) é canhoto?	( ) 1 Sim; /( ) 0 Não; /( ) 99 NÃO SABE/NÃO SE APLICA
+SDQ_c3	Muitas vezes tenho dor de cabeça, dor de barriga ou enjôo	FALSO/MAIS OU MENOS VERDADEIRO/VERDADEIRO
+SQQ_c6	Eu estou quase sempre sozinho. Eu geralmente jogo sozinho ou fico na minha	FALSO/MAIS OU MENOS VERDADEIRO/VERDADEIRO
+SDQ_c8 	Tenho muitas preocupações, muitas vezes pareço preocupado com tudo	FALSO/MAIS OU MENOS VERDADEIRO/VERDADEIRO
+SDQ_c11 Eu tenho pelo menos um bom amigo ou amiga	FALSO/MAIS OU MENOS VERDADEIRO/VERDADEIRO
+SDQ_c13 Frequentemente estou chateado, desanimado ou choroso	FALSO/MAIS OU MENOS VERDADEIRO/VERDADEIRO
+SDQ_c14 Em geral, as outras crianças gostam de mim	FALSO/MAIS OU MENOS VERDADEIRO/VERDADEIRO
+SDQ16 	Fico nervoso quando tenho que fazer alguma coisa diferente, facilmente perco a confiança em mim mesmo	FALSO/MAIS OU MENOS VERDADEIRO/VERDADEIRO
+SDQ_c19 As outras crianças me pertubam, 'pegam no pé'	FALSO/MAIS OU MENOS VERDADEIRO/VERDADEIRO
+SDQ_c23 Eu me dou melhor com os adultos do que com crianças da minha idade	FALSO/MAIS OU MENOS VERDADEIRO/VERDADEIRO
+SDQ_c24 Eu sinto muito medo, eu me assusto facilmente	FALSO/MAIS OU MENOS VERDADEIRO/VERDADEIRO
+SC1 	Quando eu fico com medo, eu tenho dificuldade de respirar.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC2 	Eu sinto dor de cabeça quando estou na escola.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC3 	Eu não gosto de estar com pessoas que não conheço bem.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC4 	Eu fico com medo quando eu durmo fora de casa.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC5 	Eu me preocupo se outras pessoas gostam de mim.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC6 	Quando eu fico com medo, eu sinto como se eu fosse desmaiar.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC7 	Eu sou nervoso (a).	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC8 	Eu sigo a minha mãe ou o meu pai aonde eles vão.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC9 	As pessoas me dizem que eu pareço nervoso.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC10 	Eu fico nervoso(a) com pessoas que eu não conheço bem.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC11 	Eu tenho dor de barriga na escola.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC12 	Quando eu fico com medo, eu acho que vou enlouquecer.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC13 	Eu tenho medo de dormir sozinho.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC14 	Eu me preocupo em ser tão bom quanto as outras crianças	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC15 	Quando eu fico com medo, tenho a impressão de que as coisas não são reais.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC16 	Eu tenho pesadelos com coisas ruins acontecendo com os meus pais.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC17 	Eu fico preocupado quando tenho que ir à escola.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC18 	Quando eu fico com medo, o meu coração bate rápido.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC19 	Quando eu fico nervoso, eu tremo de medo.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC20 	Eu tenho pesadelos com alguma coisa ruim acontecendo comigo.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC21 	Eu fico preocupado se as coisas vão dar certo para mim.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC22 	Quando eu fico com medo, eu suo muito.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC23 	Eu sou muito preocupado.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC24 	Eu fico com muito medo sem nenhum motivo.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC25 	Eu tenho medo de ficar sozinho em casa.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC26 	Eu tenho dificuldade para falar com pessoas que não conheço bem. NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC27 	Quando eu fico com medo, eu me sinto sufocado.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC28 	As pessoas dizem que eu me preocupo demais.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC29 	Eu não gosto de ficar longe da minha família.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC30 	Eu tenho medo de ter ataques de ansiedade (ou ataques de pânico)	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC31 	Eu tenho medo de que alguma coisa ruim aconteça com os meus pais.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC32 	Eu fico com vergonha na frente de pessoas que não conheço bem.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC33 	Eu me preocupo muito com o que vai acontecer no futuro.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC34 	Quando eu fico com medo, eu tenho vontade de vomitar.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC35 	Eu me preocupo muito em fazer as coisas bem feitas.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC36 	Eu tenho medo de ir à escola.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC37 	Eu me preocupo com as coisas que já aconteceram.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC38 	Quando eu fico com medo, eu me sinto tonto.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC39	Eu fico nervoso quando estou com outras crianças ou adultos e tenho que fazer algo enquanto eles me olham (por exemplo, ler em voz alta, falar, jogar um jogo ou praticar 	um esporte).	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC40 	Eu fico nervoso para ir a festas, bailes ou qualquer lugar onde estejam pessoas que não conheço bem.	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+SC41 	Eu sou tímido	NUNCA OU RARAMENTE/ÀS VEZES/MUITAS VEZES OU QUASE SEMPRE
+EQ1	Para mim, é realmente fácil me concentrar nas tarefas de casa (temas/lição/dever)	SEMPRE OU QUASE SEMPRE/EM GERAL É FALSO/Às vezes FALSO, às vezes VERDADEIRO 	/EM GERAL É VERDADEIRO/SEMPRE OU QUASE SEMPRE VERDADEIRO
+EQ3 	Eu acho que seria legal me mudar para uma nova cidade.	SEMPRE OU QUASE SEMPRE/EM GERAL É FALSO/Às vezes FALSO, às vezes VERDADEIRO /EM GERAL É VERDADEIRO/SEMPRE OU 	QUASE SEMPRE VERDADEIRO
+EQ7 	Tenho muita dificuldade em terminar as tarefas na data combinada (no prazo).	SEMPRE OU QUASE SEMPRE/EM GERAL É FALSO/Às vezes FALSO, às vezes VERDADEIRO /EM GERAL É 	VERDADEIRO/SEMPRE OU QUASE SEMPRE VERDADEIRO
+EQ8 	Eu me sinto envergonhado com crianças do sexo diferente do meu (perto de meninas/perto de meninos)	SEMPRE OU QUASE SEMPRE/EM GERAL É FALSO/Às vezes FALSO, às vezes 	VERDADEIRO /EM GERAL É VERDADEIRO/SEMPRE OU QUASE SEMPRE VERDADEIRO
+EQ10 	Para mim, é difícil, não abrir os presentes antes da hora combinada.	SEMPRE OU QUASE SEMPRE/EM GERAL É FALSO/Às vezes FALSO, às vezes VERDADEIRO /EM GERAL É 	VERDADEIRO/SEMPRE OU QUASE SEMPRE VERDADEIRO
+EQ14 	Quando alguém me diz para parar de fazer alguma coisa que eu estou fazendo, é muito fácil para mim parar de fazer essa coisa	SEMPRE OU QUASE SEMPRE/EM GERAL É 	FALSO/Às vezes FALSO, às vezes VERDADEIRO /EM GERAL É VERDADEIRO/SEMPRE OU QUASE SEMPRE VERDADEIRO
+EQ15 	Eu fico envergonhado quando tenho que conhecer pessoas novas	SEMPRE OU QUASE SEMPRE/EM GERAL É FALSO/Às vezes FALSO, às vezes VERDADEIRO  /EM GERAL É 	VERDADEIRO/SEMPRE OU QUASE SEMPRE VERDADEIRO
+EQ18 	Antes de começar as minhas tarefas de casa (temas/lição/dever) faço algo divertido durante algum tempo, mesmo quando eu não deveria.	SEMPRE OU QUASE SEMPRE/EM GERAL É 	FALSO/Às vezes FALSO, às vezes VERDADEIRO/EM GERAL É VERDADEIRO/SEMPRE OU QUASE SEMPRE VERDADEIRO
+EQ19 	Eu não gostaria de viver numa cidade grande, mesmo se fosse seguro.	SEMPRE OU QUASE SEMPRE/EM GERAL É FALSO/Às vezes FALSO, às vezes VERDADEIRO /EM GERAL É 	VERDADEIRO/SEMPRE OU QUASE SEMPRE VERDADEIRO
+EQ25 	Fico incomodado quando tento fazer um telefonema/ligação e a linha de telefone está ocupada	SEMPRE OU QUASE SEMPRE/EM GERAL É FALSO/Às vezes FALSO, às vezes 	VERDADEIRO /EM GERAL É VERDADEIRO/SEMPRE OU QUASE SEMPRE VERDADEIRO
+EQ26 	Quanto mais eu tento parar de fazer algo que não devo, mais chance eu tenho de continuar fazendo isso (quando eu estou fazendo algo que eu sei que não devo, quanto
+	mais eu tento parar, mais eu continuo fazendo)	SEMPRE OU QUASE SEMPRE/EM GERAL É FALSO/Às vezes FALSO, às vezes VERDADEIRO /EM GERAL É VERDADEIRO/SEMPRE OU QUASE SEMPRE 	VERDADEIRO
+EQ28 	Descer rapidamente um morro alto de bicicleta me parece assustador.	SEMPRE OU QUASE SEMPRE/EM GERAL É FALSO/Às vezes FALSO, às vezes VERDADEIRO/EM GERAL É 	VERDADEIRO/SEMPRE OU QUASE SEMPRE VERDADEIRO
+EQ30 	Se eu tenho uma tarefa difícil para fazer, começo a fazer ela logo	SEMPRE OU QUASE SEMPRE/EM GERAL É FALSO/Às vezes FALSO, às vezes VERDADEIRO /EM GERAL É 	VERDADEIRO/SEMPRE OU QUASE SEMPRE VERDADEIRO
+EQ32 	Eu fico assustado quando ando de carro com uma pessoa que gosta de correr (na direção).	SEMPRE OU QUASE SEMPRE/EM GERAL É FALSO/Às vezes FALSO, às vezes VERDADEIRO /EM 	GERAL É VERDADEIRO/SEMPRE OU QUASE SEMPRE VERDADEIRO
+EQ34 	É difícil para mim trocar de um assunto (matéria/disciplina) para outro na escola (Por exemplo: começar a entender a matéria de português, depois de sair de uma aula de
+	matemática)	SEMPRE OU QUASE SEMPRE/EM GERAL É FALSO/Às vezes FALSO, às vezes VERDADEIRO /EM GERAL É VERDADEIRO/SEMPRE OU QUASE SEMPRE VERDADEIRO
+EQ35 	Eu me preocupo com a minha família quando não estou com eles.	SEMPRE OU QUASE SEMPRE/EM GERAL É FALSO/Às vezes FALSO, às vezes VERDADEIRO /EM GERAL É VERDADEIRO/SEMPRE 	OU QUASE SEMPRE VERDADEIRO
+EQ36 	Eu fico muito chateado quando quero fazer algo e os meus pais não deixam.	SEMPRE OU QUASE SEMPRE/EM GERAL É FALSO/Às vezes FALSO, às vezes VERDADEIRO /EM GERAL É 	VERDADEIRO/SEMPRE OU QUASE SEMPRE VERDADEIRO
+EQ38 	Quando tento estudar, tenho dificuldade em desviar a atenção do barulho e me concentrar nos estudos. 	SEMPRE OU QUASE SEMPRE/EM GERAL É FALSO/Às vezes FALSO, às vezes 	VERDADEIRO /EM GERAL É VERDADEIRO/SEMPRE OU QUASE SEMPRE VERDADEIRO
+EQ39 	Eu termino as minhas tarefas antes da data combinada (limite/prazo).	SEMPRE OU QUASE SEMPRE/EM GERAL É FALSO/Às vezes FALSO, às vezes VERDADEIRO /EM GERAL É 	VERDADEIRO/SEMPRE OU QUASE SEMPRE VERDADEIRO
+EQ40 	Eu me preocupo com a possibilidade de entrar em confusão (Ex.: como entrar em uma briga sem querer)	SEMPRE OU QUASE SEMPRE/EM GERAL É FALSO/Às vezes FALSO, às vezes 	VERDADEIRO /EM GERAL É VERDADEIRO/SEMPRE OU QUASE SEMPRE VERDADEIRO
+EQ41 	Eu estou sempre prestando atenção nas coisas que acontecendo na minha volta. (sempre ligado em tudo que está acontecendo onde eu estou)	SEMPRE OU QUASE SEMPRE/EM GERAL É 	FALSO/Às vezes FALSO, às vezes VERDADEIRO /EM GERAL É VERDADEIRO/SEMPRE OU QUASE SEMPRE VERDADEIRO
+EQ42 	Não teria medo de praticar um esporte de risco, como mergulhar em alto mar.	SEMPRE OU QUASE SEMPRE/EM GERAL É FALSO/Às vezes FALSO, às vezes VERDADEIRO /EM GERAL É 	VERDADEIRO/SEMPRE OU QUASE SEMPRE VERDADEIRO
+EQ43 	É fácil para mim guardar um segredo.	SEMPRE OU QUASE SEMPRE FALSO/EM GERAL É FALSO/Às vezes FALSO, às vezes VERDADEIRO /EM GERAL É VERDADEIRO/SEMPRE OU QUASE SEMPRE 	VERDADEIRO
+EQ45 	Eu sou tímido (envergonhado).	SEMPRE OU QUASE SEMPRE FALSO/EM GERAL É FALSO/Às vezes FALSO, às vezes VERDADEIRO /EM GERAL É VERDADEIRO/SEMPRE OU QUASE SEMPRE 	VERDADEIRO
+EQ46 	Eu tenho medo de garotos na escola que empurram as pessoas e atiram seus livros no chão.	SEMPRE OU QUASE SEMPRE FALSO/EM GERAL É FALSO/Às vezes FALSO, às vezes 	VERDADEIRO /EM GERAL É VERDADEIRO/SEMPRE OU QUASE SEMPRE VERDADEIRO	SEMPRE OU QUASE SEMPRE FALSO/EM GERAL É FALSO/Às vezes FALSO, às vezes VERDADEIRO /EM GERAL É 	VERDADEIRO/SEMPRE OU QUASE SEMPRE VERDADEIRO
+EQ47 	Eu fico irritado quando tenho que parar de fazer alguma coisa que eu esteja gostando de fazer.	SEMPRE OU QUASE SEMPRE FALSO/EM GERAL É FALSO/Às vezes FALSO, às vezes 	VERDADEIRO /EM GERAL É VERDADEIRO/SEMPRE OU QUASE SEMPRE VERDADEIRO
+EQ48 	Eu não teria medo de tentar algo como escalar montanhas.	SEMPRE OU QUASE SEMPRE FALSO/EM GERAL É FALSO/Às vezes FALSO, às vezes VERDADEIRO /EM GERAL É 	VERDADEIRO/SEMPRE OU QUASE SEMPRE VERDADEIRO
+EQ49 	Eu deixo para fazer o trabalho (as tarefas) depois até quase o prazo acabar (“deixo tudo para última hora”).	SEMPRE OU QUASE SEMPRE FALSO/EM GERAL É FALSO/Às vezes 	FALSO, às vezes VERDADEIRO /EM GERAL É VERDADEIRO/SEMPRE OU QUASE SEMPRE VERDADEIRO
+EQ51 	Eu me preocupo com a possibilidade dos meus pais morrerem ou me deixarem.	SEMPRE OU QUASE SEMPRE FALSO/EM GERAL É FALSO/Às vezes FALSO, às vezes VERDADEIRO /EM 	GERAL É VERDADEIRO/SEMPRE OU QUASE SEMPRE VERDADEIRO
+EQ52 	Eu gosto de estar em locais (lugares) onde há grandes multidões e muita agitação. (Ex.: como num shopping cheia, em uma praça cheia, etc.)	SEMPRE OU QUASE SEMPRE 	FALSO/EM GERAL É FALSO/Às vezes FALSO, às vezes VERDADEIRO /EM GERAL É VERDADEIRO/SEMPRE OU QUASE SEMPRE VERDADEIRO
+EQ53 	Eu não sou tímido.	SEMPRE OU QUASE SEMPRE FALSO/EM GERAL É FALSO/Às vezes FALSO, às vezes VERDADEIRO /EM GERAL É VERDADEIRO/SEMPRE OU QUASE SEMPRE VERDADEIRO
+EQ56 	Eu me incomodo muito de esperar em filas longas.	SEMPRE OU QUASE SEMPRE FALSO/EM GERAL É FALSO/Às vezes FALSO, às vezes VERDADEIRO /EM GERAL É VERDADEIRO/SEMPRE 	OU QUASE SEMPRE VERDADEIRO
+EQ57 	Eu fico com medo quando entro numa sala escura em casa.	SEMPRE OU QUASE SEMPRE FALSO/EM GERAL É FALSO/Às vezes FALSO, às vezes VERDADEIRO /EM GERAL É VERDADEIRO/SEMPRE 	OU QUASE SEMPRE VERDADEIRO
+EQ59 	Eu presto muita atenção quando alguém me diz como fazer algo (Ex.: quando alguém me ensina alguma coisa, ou me explica como eu devo fazer uma tarefa)	SEMPRE OU QUASE 	SEMPRE FALSO/EM GERAL É FALSO/Às vezes FALSO, às vezes VERDADEIRO /EM GERAL É VERDADEIRO/SEMPRE OU QUASE SEMPRE VERDADEIRO
+EQ60 	Eu fico muito frustrado (desapontado/chateado) quando erro nas minhas tarefas da escola.	SEMPRE OU QUASE SEMPRE FALSO/EM GERAL É FALSO/Às vezes FALSO, às vezes 	VERDADEIRO /EM GERAL É VERDADEIRO/SEMPRE OU QUASE SEMPRE VERDADEIRO
+EQ61 	Eu tenho tendência de parar no meio de uma tarefa, interromper o que eu estava fazendo e ir fazer outra coisa. (Ex.: Começar a fazer o dever de casa e parar no meio
+	para ver televisão ou jogar bola, sem terminar o dever)	SEMPRE OU QUASE SEMPRE FALSO/EM GERAL É FALSO/Às vezes FALSO, às vezes VERDADEIRO /EM GERAL É VERDADEIRO/SEMPRE 	OU QUASE SEMPRE VERDADEIRO
+EQ62 	Eu fico frustrado (desapontado/chateado) se as pessoas me interrompem quando estou falando. Eu consigo me focar nos meus planos e objetivos (dar prioridade para aquilo 	que eu planejei e dar prioridade para aquilo que eu quero no futuro)	SEMPRE OU QUASE SEMPRE FALSO/EM GERAL É FALSO/Às vezes FALSO, às vezes VERDADEIRO /EM GERAL É 	VERDADEIRO/SEMPRE OU QUASE SEMPRE VERDADEIRO
+EQ63 	Eu consigo me focar nos meus planos e objetivos (dar prioridade para aquilo que eu planejei e dar prioridade para aquilo que eu quero no futuro)	SEMPRE OU QUASE 	SEMPRE FALSO/EM GERAL É FALSO/Às vezes FALSO, às vezes VERDADEIRO /EM GERAL É VERDADEIRO/SEMPRE OU QUASE SEMPRE VERDADEIRO
+EQ64 	Eu fico chateado se não sou capaz de fazer muito bem uma tarefa.	SEMPRE OU QUASE SEMPRE FALSO/EM GERAL É FALSO/Às vezes FALSO, às vezes VERDADEIRO /EM GERAL É 	VERDADEIRO/SEMPRE OU QUASE SEMPRE VERDADEIRO
+P_FAT22.	Você sofreu “bullying” alguma vez na vida? [LEIA OPÇÕES]	( ) 1 Sim/( ) 0 Não à (MARCAR 88 NAS QUESTÕES CONDICIONAIS ABAIXO)/( ) 99 NÃO SABE à (MARCAR 88 	NAS QUESTÕES CONDICIONAIS ABAIXO)
+P_FAT22a.	Se sim, e neste ano, você sofreu “bullying”?	( ) 1 Sim/( ) 0 Não/( ) 99 NÃO SABE/( ) 88 NA (Não sofreu Bullying)
+P_FAT22b. 	Se sim, com que freqüência você sofreu “bullying” neste ano?	( ) 1 Uma a duas vezes neste ano/( ) 2 Às vezes, “uma vez ou outra”/( ) 3 Cerca de uma vez por 			semana/( ) 4 Diversas vezes por semana / quase todos os dias/( ) 5 Todos os dias/( ) 99 NÃO SABE/( ) 88 NA (Não sofreu Bullying esse ano)
+P_FAT22c.	O quanto isso incomodava ou incomoda você?	( ) 0 Nada; /( ) 1 Um pouco; /( ) 2 Muito; /( ) 3 Extremamente; /( ) 88 NA (Não sofreu Bullying esse ano)
+P_FAT23.	Você fez “bullying” alguma vez na vida? [LEIA OPÇÕES]	( ) 1 Sim/( ) 0 Não à (MARCAR 88 NAS QUESTÕES CONDICIONAIS ABAIXO)/( ) 99 NÃO SABE à (MARCAR 88 NAS 			QUESTÕES CONDICIONAIS ABAIXO)
+P_FAT23a. 	Se sim, e neste ano, você fez “bullying”?	( ) 1 Sim/( ) 0 Não/( ) 99 NÃO SABE/( ) 88 NA (Não fez Bullying)
+P_FAT23b. 	Se sim, com que freqüência você “bullying” neste ano?	( ) 1 Uma a duas vezes neste ano/ ( ) 2 Às vezes, “uma vez ou outra”/( ) 3 Cerca de uma vez por semana
+		( ) 4 Diversas vezes por semana / quase todos os dias/( ) 5 Todos os dias/( ) 99 NÃO SABE/( ) 88 NA (Não fez Bullying esse ano)
+P_FAT23c. 	Você se sentia ou se sente culpado por ter esse comportamento	( ) 0 Nada; /( ) 1 Um pouco; /( ) 2 Muito; /( ) 3 Extremamente; /( ) 88 NA (Não fez Bullying esse 		ano)
+P_FAT34. 	Alguma vez na vida, já aconteceu de você ter apanhado seriamente de um adulto dentro de casa, chegando a deixar você machucado(a) ou com marcas pelo corpo? [LEIA 		OPÇÕES]		( ) 0 Não; /( ) 1 Sim, aconteceu uma ou duas vezes;/ ( ) 2 Sim, acontecia ou acontece de vez em quando;/ ( ) 3 Sim, acontecia ou acontece 			frequentemente:	/( ) 99 NÃO SABE
+P_FAT35. 	Num momento de dificuldade, alguma vez na vida, já aconteceu de você não ter o que comer dentro de casa e/ou de ter que vestir roupas sujas ou rasgadas? [LEIA 			OPÇÕES]		/( ) 0 Não;/( ) 1 Sim, aconteceu uma ou duas vezes;/( ) 2 Sim, acontecia ou acontece de vez em quando;/( ) 3 Sim, acontecia/ ( ) 99 NÃO SABE
+P_FAT37. 	Já aconteceu de você ser xingado por algum adulto (incluindo você), com palavras como “burro(a)”, “idiota”, “estúpido(a)” e/ou de alguém ter dito que você não 			servia para nada, gritando ou berrando com? [LEIA OPÇÕES]	( ) 0 Não;/( ) 1 Sim, aconteceu uma ou duas vezes;/( ) 2 Sim, acontecia ou acontece de vez em 			quando;/( ) 3 Sim, acontecia ou acontece frequentemente:/ ( ) 99 NÃO SABE
+P_FAT38a. 	A sua mãe, sorri(a) para você, fala(va) com uma voz meiga e carinhosa, elogiando as coisas que você faz(ia) corretamente, tentando entender os seus problemas e 		ajudar você a resolver eles? [LEIA OPÇÕES] 	( ) 0 Nunca ou raramente; /( ) 1 Às vezes; /( ) 2 Frequentemente; /( ) 3 Muito frequentemente ou sempre; /( ) 88 		NA
+P_FAT38b. 	A sua mãe dá(va) liberdade para você, deixando você se vestir como você quer(ia) e tomar as suas próprias decisões? [LEIA OPÇÕES]	( ) 0 Nunca ou raramente; 		/( ) 1 Às vezes; /( ) 2 Frequentemente; /( ) 3 Muito frequentemente ou sempre; /( ) 88 NA
+P_FAT38c. 	A sua mãe trata(va) você como se fosse um bebê, isto é, é(era) muito superprotetora, não querendo que você cresça(crescesse)? [LEIA OPÇÕES]	( ) 0 Nunca ou 			raramente; /( ) 1 Às vezes; /( ) 2 Frequentemente; /( ) 3 Muito frequentemente ou sempre; /( ) 88 NA
+P_FAT39a. 	O seu pai sorri(a) para você, fala(va) com uma voz meiga e carinhosa, elogiando as coisas que você faz(ia) corretamente, tentando entender os problemas e ajudar 		você a resolver eles? [LEIA OPÇÕES]	( ) 0 Nunca ou raramente; /( ) 1 Às vezes; /( ) 2 Frequentemente; /( ) 3 Muito frequentemente ou sempre. /( ) 88 NA
+P_FAT39b. 	O seu pai dá(va) liberdade para ele(a), deixando ele(a) se vestir como ele(a) quer(ia), tomar as suas próprias decisões? [LEIA OPÇÕES]	( ) 0 Nunca ou raramente; 		/( ) 1 Às vezes; /( ) 2 Frequentemente; /( ) 3 Muito frequentemente ou sempre; /( ) 88 NA
+P_FAT39c. 	O seu pai trata(va) [nome da criança] como se fosse um bebê, isto é, é(era) muito superprotetor, não querendo que ele(a) cresça(crescesse)? [LEIA OPÇÕES]			( ) 0 Nunca ou raramente; /( ) 1 Às vezes; /( ) 2 Frequentemente; /( ) 3 Muito frequentemente ou sempre; /( ) 88 NA
+P_REG2d. 	ANOTE A HORA EXATA DE TERMINO DA APLICAÇÃO 2: ____ : ____
+P_CHECK1. 	Você está levando 2 cópias ASSINADAS dos termos de consentimento livre e esclarecido	( ) 1 Sim; /( ) 0 Não (material faltante); /( ) 88 Não Recusa
+P_CHECK2. 	O saco plástico pequeno e grande do questionário estão identificados com a etiqueta?	( ) 1 Sim; /( ) 0 Não
+P_CHECK3. 	Você está levando o questionário da PROFESSORA?	( ) 1 Sim;/( ) 0 Não
+P_CHECK4. 	A entrevista foi realizada:	( ) 1 Em um ambiente ótimo (sem barulho e interrupções por afazeres do entrevistado) /( ) 2 Em um ambiente bom, com pouco barulho 		e interrupções /( ) 3 Em um ambiente médio, com algum barulho e algumas interrupções /( ) 4 Em um ambiente ruim, com muito barulho e várias interrupções /( ) 5 		Em um ambiente muito ruim, em que o entrevistador duvida muito das respostas apresentadas pelo respondente
+P_CHECK5. 	A CRIANÇA JÁ TINHA REALIZADO TESTE DE QI NA VIDA? ( ) 1 Sim; /( ) 0 Não;
+P_CHECK 6. 	Você teve a privacidade necessária com o respondente para fazer as perguntas mais delicadas do questionário? Ou sentiu que talvez, em um ambiente com mais 			privacidade outras questões apareceriam? ( ) 1 Senti que a privacidade estava mantida e que o entrevistado se sentiu acolhido para falar questões delicadas
+ 		/( ) 0 Senti que não tivemos a privacidade necessária para que as coisas mais delicadas aparecessem

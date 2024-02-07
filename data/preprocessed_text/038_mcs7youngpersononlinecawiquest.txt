@@ -1,0 +1,1297 @@
+
+Millennium Cohort Study 
+Seventh Sweep (MCS7) 
+Age 17 Survey 
+
+Young Person Online (CAWI) Questionnaire 
+
+January 2020 
+
+
+
+Contents 
+Introduction ......................................................................................................................... 3 
+
+Personality and Attitudes ................................................................................................... 4 
+
+Activities and Risky Behaviours ........................................................................................ 5 
+
+Risk and Time Preference ................................................................................................ 14 
+
+Identity ............................................................................................................................... 16 
+
+Learning and Future ......................................................................................................... 19 
+
+Life and Wellbeing ............................................................................................................ 24 
+
+Index .................................................................................................................................. 29 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+
+Introduction 
+ 
+INTROYPCAWI1 
+{DISPLAY TO ALL} 
+Thank you for logging on to complete the online questionnaire. 
+ 
+Please make sure you have read the booklet we sent you, called “WHAT WOULD WE LIKE 
+YOU TO DO? INFORMATION FOR STUDY MEMBERS”. If you don’t have it to hand, you can 
+find a copy here. If you have any questions before you start the questionnaire, you can call 
+the team on 0808 202 2102 or email childnc@ipsos.com.   
+ 
+ 
+YPCAWIWELSH 
+{IF LIVES IN WALES: HQ.COUNTRY = 2} 
+How are you completing the questionnaire today? 
+ 
+1 Online 
+2 Over the phone with an interviewer 
+ 
+ 
+INTROYPCAWI2 
+{DISPLAY TO ALL} 
+We’d like you to answer some questions about different things in your life. You can stop at 
+any time. It is not a test so there are no right or wrong answers. If you don’t want to answer 
+a question that’s ok, you can skip it.  If you wish to go back and change an answer that 
+you’ve given, click ‘Back’.  It usually takes about 15 minutes. Some of the questions are 
+about things that are personal so please make sure you fill in the questionnaire on your 
+own. We’d like to remind you that all the answers you give will be completely confidential. 
+We hope that you find the questions interesting and enjoy answering them.  
+ 
+ 
+
+INTROYPCAWI3 
+{DISPLAY TO ALL} 
+Some questions are about things that are more personal. Remember no-one in your family 
+will see your answers. If you come to a question that you don’t want to answer that’s ok. 
+You can skip it and move to the next one by pressing ‘next’.  
+ 
+Some questions are about things that not all young people your age will have done. That’s 
+ok – we’re just as interested in what people haven’t done as well as what they have. It’s 
+important that you answer honestly. 
+ 
+ 
+ 
+  
+
+https://childnc.net/resources/
+
+
+Personality and Attitudes 
+ 
+
+***SELF CONTROL 
+ 
+BSCA-BSCD  
+{ASK ALL, ASK AS A GRID} 
+Please read the following statements and for each choose the answer that best represents 
+you. 
+ 
+GRID ROWS 
+BSCA I am good at resisting temptation 
+BSCB I find it hard to break bad habits 
+BSCC I wish I had more self-control 
+BSCD People would say that I have strong self-control 
+ 
+GRID COLS  
+1 Not at all like me  
+2 A little bit like me  
+3 Somewhat like me  
+4 Mostly like me  
+5 Very much like me 
+ 
+ 
+
+**ATTITUDES 
+OPPO-OPEN  
+{ASK ALL, ASK AS A GRID} 
+The next set of questions is a list of opinions on different topics. Select the button that 
+corresponds with how much you agree or disagree with each statement. 
+ 
+GRID ROWS 
+OPPO None of the political parties would do anything to benefit me 
+OPJO Having almost any job is better than being unemployed 
+OPCH Couples who have children should not separate 
+OPAB All women should have the right to choose to have an abortion if they wish 
+OPRA I would not mind if a family from another race moved in next door to me 
+OPRE I would not mind if a family from another religion moved in next door to me 
+OPEN Preserving the environment is more important than any other political issue today  
+ 
+GRID COLS   
+1 Strongly agree 
+2 Agree 
+3 Neither agree or disagree 
+4 Disagree 
+5 Strongly disagree 
+ 
+  
+
+
+
+Activities and Risky Behaviours 
+ 
+
+***ACTIVITIES 
+ 
+DISC-SPFD  
+{ASK ALL, ASK AS GRID} 
+How often do you do the following activities?  
+ 
+GRID ROWS 
+DISC Go to a party, dance, house party or nightclub?  
+THEA Go to the theatre (for example to see a play, pantomime or opera)? 
+SPOR Go to watch live sport (for example at a stadium)?  
+BAND Sing in a choir or play in a band or orchestra?  
+MGIG Go to a live music concert or gig? 
+RJOY Read for enjoyment?  
+ORGA Go to youth clubs, explorer scouts, senior guides or other organised activities?  
+LIBR Go to a library? 
+MUSM Go to museums or galleries, visit a historic place or stately home?  
+VOLW Do voluntary or community work? 
+POLM Go to a political meeting, march, rally or demonstration? 
+RLSV Attend a religious service?  
+SPFD Spend time with friends (outside of school or work)? 
+ 
+GRID COLS 
+1 Most days  
+2 At least once a week  
+3 At least once a month  
+4 Several times a year  
+5 Once a year or less  
+6 Never or almost never  
+ 
+
+  
+
+
+
+TVHO  
+{ASK ALL} 
+On a normal week day, how many hours do you spend <b>watching programmes or 
+films</b> e.g on a television or a device such as a laptop, tablet or smartphone? Please 
+remember to include time spent watching DVDs, Blu-rays etc.  
+  
+1 None  
+2 Less than half an hour  
+3 Half an hour to less than 1 hour  
+4 1 hour to less than 2 hours  
+5 2 hours to less than 3 hours  
+6 3 hours to less than 5 hours  
+7 5 hours to less than 7 hours  
+8 7 hours to less than 10 hours 
+9 10 hours or more 
+ 
+ 
+COMH  
+{ASK ALL}  
+On a normal week day, how many hours do you spend <b>playing games, including online 
+games</b>, on a computer, tablet, smartphone or games systems, such as Wii, Nintendo 
+DS, Xbox or PlayStation?   
+ 
+1 None  
+2 Less than half an hour  
+3 Half an hour to less than 1 hour  
+4 1 hour to less than 2 hours  
+5 2 hours to less than 3 hours  
+6 3 hours to less than 5 hours  
+7 5 hours to less than 7 hours  
+8 7 hours to less than 10 hours 
+9 10 hours or more 
+ 
+ 
+  
+
+
+
+SOME  
+{ASK ALL}  
+On a normal week day, how many hours do you spend on social networking or messaging 
+sites or apps on the internet such as Facebook, Twitter, WhatsApp, Instagram and 
+Snapchat?  
+ 
+1 None  
+2 Less than half an hour  
+3 Half an hour to less than 1 hour  
+4 1 hour to less than 2 hours  
+5 2 hours to less than 3 hours  
+6 3 hours to less than 5 hours  
+7 5 hours to less than 7 hours  
+8 7 hours to less than 10 hours 
+9 10 hours or more  
+ 
+ 
+SOCM-SOCH  
+{ASK ALL, ASK AS A GRID} 
+To what extent do you agree with the following statements?  
+ 
+GRID ROWS 
+SOCM I think I am addicted to social media 
+SOCH I’m more connected and happier online than I am in real life 
+ 
+GRID COLS 
+1 Strongly agree 
+2 Agree 
+3 Disagree 
+4 Strongly disagree 
+ 
+ 
+ 
+  
+
+
+
+**GAMBLING 
+GAMA-GAMJ  
+{ASK ALL, ASK AS A GRID} 
+Have you spent any of your <b>own money</b> on any of the following in the past 4 
+weeks? We want to know about games you played yourself. 
+ 
+GRID ROWS 
+GAMA Fruit machines? 
+GMBL Placing a private bet for money (e.g. with friends)? 
+GAEM Placing a bet at a betting shop (e.g. on football or horseracing)? 
+GAMJ Any other gambling (e.g. online gambling)? 
+ 
+GRID COLS 
+1 Yes 
+2 No 
+
+**KNIFE AND GANG 
+KNIF  
+{ASK ALL} 
+In the last 12 months have you carried a knife or other weapon?  
+ 
+For your own protection, because someone else asked you to or in case you get into a fight. 
+ 
+1 Yes 
+2 No 
+ 
+ 
+GANG  
+{ASK ALL} 
+Are you a member of a <b>street gang</b>? 
+ 
+1 Yes 
+2 No 
+3 I used to be a member but not any more 
+ 
+HELP: A street gang is a group of young people who hang around together and: have a 
+specific area or territory; have a name, a colour or something else to identify the group; 
+possibly have rules or a leader; who may commit crimes together. LINK: gang 
+ 
+
+ 
+  
+
+
+
+**CONTACT WITH POLICE 
+ 
+ 
+POLS  
+{ASK ALL} 
+Have you ever been stopped and questioned by the police? 
+ 
+1 Yes 
+2 No 
+ 
+ 
+CAUT  
+{ASK ALL} 
+Have you ever been given a formal warning or caution by a police officer? 
+ 
+1 Yes 
+2 No 
+ 
+ 
+ARES  
+{ASK ALL} 
+Have you ever been arrested by a police officer and taken to a police station? 
+ 
+1 Yes 
+2 No 
+ 
+ 
+CORT  
+{ASK IF ARRESTED: ARES = 1} 
+Have you appeared in court because you were accused of a crime? 
+ 
+1 Yes 
+2 No 
+ 
+ 
+GLTY  
+{ASK IF ARRESTED AND APPEARED IN COURT: ARES = 1 AND CORT = 1} 
+Were you found guilty or not guilty? 
+ 
+1 Guilty 
+2 Not guilty 
+ 
+ 
+  
+
+
+
+***DIET & BODY IMAGE 
+ 
+ 
+WEGT  
+{ASK ALL} 
+Which of these do you think you are? 
+ 
+1 Underweight 
+2 About the right weight 
+3 Slightly overweight 
+4 Very overweight 
+ 
+ 
+EXWT  
+{ASK ALL} 
+In the last 12 months, have you exercised to lose weight or to avoid gaining weight? 
+ 
+1 Yes 
+2 No 
+ 
+ 
+ETLS  
+{ASK ALL} 
+In the last 12 months, have you eaten less food, fewer calories, or foods low in fat to lose 
+weight or to avoid gaining weight?  
+ 
+1 Yes 
+2 No 
+ 
+ 
+LSWT  
+{ASK ALL} 
+Which of the following are you trying to do about your weight? 
+ 
+1 I am not trying to do anything about my weight 
+2 Lose weight 
+3 Gain weight 
+4 Stay the same weight 
+ 
+ 
+ 
+ 
+  
+
+
+
+BRKN  
+{ASK ALL} 
+How often do you eat breakfast over a week? 
+ 
+1 Never 
+2 Some days, but not all days 
+3 Every day 
+ 
+ 
+FRUT  
+{ASK ALL} 
+How often do you eat at least 2 portions of fruit per day?  
+ 
+A portion of fruit could be a whole piece of fruit, like an apple or banana or 80g of fruit (like 
+in a fruit salad) but does not include fruit juices. 
+ 
+1 Never 
+2 Some days, but not all days 
+3 Every day 
+ 
+ 
+VEGI  
+{ASK ALL} 
+How often do you eat at least 2 portions of vegetables including salad, fresh, frozen or 
+tinned vegetables per day?  
+ 
+A portion is 3 heaped tablespoons of cooked vegetables or beans/pulses or a handful of 
+cherry tomatoes or a small bowl of salad. It does not include potatoes. 
+ 
+1 Never 
+2 Some days, but not all days 
+3 Every day 
+ 
+ 
+BRED  
+{ASK ALL} 
+Which type of bread do you normally eat? 
+ 
+1 I only eat white bread 
+2 I sometimes eat white bread, sometimes I eat brown or granary or wholemeal bread 
+(including 50:50 bread) 
+3 I only eat brown/granary bread (including 50:50 bread) 
+4 I sometimes eat brown/granary bread (including 50:50 bread), sometimes I eat wholemeal 
+bread 
+5 I only eat wholemeal bread 
+6 I never eat bread 
+ 
+
+
+
+MILK  
+{ASK ALL} 
+Which type of milk do you usually have? 
+ 
+1 I only have whole milk 
+2 I sometimes have whole milk, sometimes I have semi-skimmed or skimmed milk 
+3 I only have semi-skimmed milk 
+4 I sometimes have semi-skimmed, sometimes I have skimmed milk 
+5 I only have skimmed milk 
+6 I only have 1% fat milk 
+7 I have soya milk or other non-cow milk 
+8 I never have milk 
+ 
+ 
+ASWD  
+{ASK ALL} 
+How often, if at all, do you drink diet drinks or sugar-free drinks like diet cola or sugar-free 
+squash? 
+ 
+1 More than once a day 
+2 Once a day  
+3 3-6 days a week 
+4 1-2 days a week 
+5 Less often but at least once a month 
+6 Less than once a month 
+7 Hardly ever or never 
+ 
+ 
+SWTD  
+{ASK ALL} 
+How often, if at all, do you drink sugary drinks like regular cola or squash? 
+ 
+1 More than once a day 
+2 Once a day  
+3 3-6 days a week 
+4 1-2 days a week 
+5 Less often but at least once a month 
+6 Less than once a month 
+7 Hardly ever or never 
+ 
+ 
+  
+
+
+
+TKWY  
+{ASK ALL} 
+How often, if at all, do you eat fast food such as McDonalds, Burger King, KFC or other fast 
+food like that? 
+ 
+1 More than once a day 
+2 Once a day  
+3 3-6 days a week 
+4 1-2 days a week 
+5 Less often but at least once a month 
+6 Less than once a month 
+7 Hardly ever or never 
+ 
+ 
+
+  
+
+
+
+Risk and Time Preference 
+ 
+ 
+
+***RISK  
+RSKA-RSKJ  
+{ASK ALL} 
+ 
+You are now going to be asked to make a number of choices between two imaginary 
+alternatives. One alternative involves getting an amount of money for certain. In the other, 
+it is a lottery between greater amount of money or no money at all – think of this as being 
+based on the toss of a coin. In each case, just pick the alternative you’d like most. 
+ 
+  
+ 
+Would you prefer: 
+ 
+
+RSKA   A 50-50 chance of £240 or £132 for certain  
+
+RSKB   A 50-50 chance of £240 or £120 for certain  
+
+RSKC   A 50-50 chance of £240 or £108 for certain   
+
+RSKD   A 50-50 chance of £240 or £96 for certain   
+
+RSKE   A 50-50 chance of £240 or £84 for certain   
+
+RSKF   A 50-50 chance of £240 or £72 for certain   
+
+RSKG   A 50-50 chance of £240 or £60 for certain   
+
+RSKH   A 50-50 chance of £240 or £48 for certain   
+
+RSKI   A 50-50 chance of £240 or £36 for certain   
+
+RSKJ   A 50-50 chance of £240 or £24 for certain   
+
+ 
+
+  
+
+
+
+***TIME PREFERENCE 
+ 
+PRFA-PRFJ  
+{ASK ALL} 
+ 
+You are now going to be asked some more choices between two imaginary alternatives. One 
+alternative involves getting an amount of money 'in two months'. The other alternative 
+involves getting a (usually) larger amount of money ‘in four months'. In each case, just chose 
+the option that you would like the most. 
+ 
+ 
+Would you prefer: 
+ 
+
+PRFA   £50 in two months or £50 in four months  
+
+PRFB   £50 in two months or £52 in four months  
+
+PRFC   £50 in two months or £55 in four months  
+
+PRFD   £50 in two months or £60 in four months  
+
+PRFE   £50 in two months or £70 in four months  
+
+PRFF   £50 in two months or £80 in four months  
+
+PRFG   £50 in two months or £90 in four months  
+
+PRFH   £50 in two months or £100 in four months  
+
+PRFI   £50 in two months or £120 in four months  
+
+PRFJ   £50 in two months or £150 in four months  
+
+ 
+ 
+
+  
+
+
+
+Identity 
+ 
+
+***RELIGIOUS IDENTITY 
+RELE  
+{IF LIVES IN ENGLAND: HQ.COUNTRY = 1} 
+What is your religion?  
+ 
+1 No religion  
+2 Christian (including Church of England, Catholic, Protestant and all other Christian 
+denominations)  
+3 Buddhist  
+4 Hindu  
+5 Jewish  
+6 Muslim  
+7 Sikh  
+8 Any other religion (PLEASE WRITE IN) {VARNAME RLEX 200} 
+ 
+ 
+RELW 
+{IF LIVES IN WALES: HQ.COUNTRY = 2} 
+What is your religion?  
+ 
+1 No religion  
+2 Christian (all denominations)  
+3 Buddhist  
+4 Hindu  
+5 Jewish  
+6 Muslim  
+7 Sikh  
+8 Any other religion (PLEASE WRITE IN)  {VARNAME RLWX 200} 
+ 
+ 
+ 
+RELS  
+{IF LIVES IN SCOTLAND: HQ.COUNTRY = 3} 
+What religion, religious denomination or body do you belong to?  
+ 
+1 None  
+2 Church of Scotland  
+3 Roman Catholic  
+4 Other Christian  
+5 Muslim  
+6 Buddhist  
+7 Sikh  
+8 Jewish  
+9 Hindu  
+10 Another religion or body (PLEASE WRITE IN) {VARNAME RLSX 200} 
+
+
+
+RELN  
+{IF LIVES IN NORTHERN IRELAND: HQ.COUNTRY = 4} 
+What religion, religious denomination or body do you belong to?  
+ 
+1 Roman Catholic  
+2 Presbyterian Church in Ireland  
+3 Church of Ireland  
+4 Methodist Church in Ireland  
+5 Other (PLEASE WRITE IN)  {VARNAME RLNX 200}  
+6 None  
+ 
+
+ 
+***LANGUAGES SPOKEN 
+
+ 
+
+LANF  
+{ASK ALL, MULTICODE} 
+Which languages do you speak with your friends?  
+ 
+<i>Select all that apply</i> 
+ 
+1 English  
+2 Welsh  
+3 Gaelic  
+4 Urdu  
+5 Punjabi  
+6 Gujarati  
+7 Hindi  
+8 Bengali  
+9 Sylheti  
+10 Cantonese  
+11 Somali  
+12 Tamil  
+13 Turkish  
+14 Kurdish  
+15 Arabic  
+16 Other (PLEASE WRITE IN)  {VARNAME LNFO 200} 
+ 
+  
+
+
+
+HLAN  
+{ASK ALL, MULTICODE} 
+Which languages do you speak at home? 
+ 
+<i>Select all that apply</i> 
+ 
+1 English  
+2 Welsh  
+3 Gaelic  
+4 Urdu  
+5 Punjabi  
+6 Gujarati  
+7 Hindi  
+8 Bengali  
+9 Sylheti  
+10 Cantonese  
+11 Somali  
+12 Tamil  
+13 Turkish  
+14 Kurdish  
+15 Arabic  
+16 Other (PLEASE WRITE IN)  {VARNAME HLFO 200} 
+ 
+
+ 
+  
+
+
+
+Learning and Future 
+ 
+
+***UNIVERSITY COSTS 
+ 
+UNIQ  
+{ASK ALL} 
+Are you currently studying at university? 
+ 
+1 Yes 
+2 No 
+ 
+ 
+STYR  
+{IF UNIQ=<>1} 
+How likely (0-100%) do you think it is that you <b>will go</b> to university?  
+ 
+LAYOUT: NUMERIC ENTRY [XXX%] 
+RANGE: 0-100 
+ 
+SOFTCHECK: IF NON-INTEGER VALUE OR VALUE >100: “Please enter a whole number 
+between 0 and 100” 
+ 
+ 
+REUN  
+{ASK IF NOT IN UNIVERSITY AND IF ANY CHANCE OF GOING TO UNIVERSITY: UNIQ=<>1 
+AND STYR > 0} 
+What is the main reason why you might or will <b>go</b> to university?  
+1   To gain qualifications to get a better job/pursue the career I want 
+2   To learn more/ increase my knowledge 
+3   I enjoy education 
+4   I feel I should go to university 
+5   My parent(s)/relatives recommend that I should go 
+6   My teachers recommend that I should go 
+7   My friends will go 
+8   I would enjoy the social life 
+9   To get away from home 
+10 To experience new things/places 
+11 Other (PLEASE WRITE IN)  {VARNAME REUO 200} 
+ 
+ 
+  
+
+
+
+STUN  
+{ASK IF NOT IN UNIVERSITY AND IF ANY CHANCE OF NOT GOING TO UNIVERSITY: 
+UNIQ=<>1 AND STYR < 100} 
+What is the main reason why you might not or will <b>not go</b> to university? 
+1   I will not get the grades 
+2   I / my family can’t afford it  
+3   I would prefer to get a job / start a career  
+4   Going to university will not help me in my future career  
+5   I'm not interested in going to university / I wouldn’t enjoy it  
+6   I want to start a family  
+7   Parent(s) / relatives recommend that I should leave after {IF HQ.COUNTRY = 1 OR 2: Year 
+13} {IF HQ.COUNTRY = 4: Year 14 (U6)} {IF HQ.COUNTRY = 3: S6}  
+8   Because my friends plan to leave after {IF HQ.COUNTRY = 1 OR 2: Year 13} {IF 
+HQ.COUNTRY = 4: Year 14 (U6)} {IF HQ.COUNTRY = 3: S6}  
+9   It is too early to decide whether I would stay on or not  
+10 Other (PLEASE WRITE IN)  {VARNAME STNO 200}  
+ 
+ 
+ 
+COST  
+{ASK ALL} 
+How much do you think it would cost in total to get a three-year undergraduate degree? 
+Include tuition fees and the cost of living expenses from going to university. 
+ 
+1 £1-9,999 
+2 £10,000-19,999 
+3 £20,000-29,999 
+4 £30,000-39,999 
+5 £40,000-49,999 
+6 £50,000-59,999 
+7 £60,000-69,999 
+8 £70,000-79,999 
+9 £80,000-89,999 
+10 £90,000-99,999 
+11 More than £100,000 
+------------------------------ 
+12 Don’t know 
+ 
+HELP: Include expenses such as textbooks; travel; food; rent if you think you will live away 
+from home. LINK: after question stem 
+ 
+ 
+  
+
+
+
+CNFA  
+{IF VALID RESPONSE AT COST: COST = 1-11} 
+How confident are you in your answer about the cost of a three-year undergraduate 
+degree? 
+ 
+1 Very confident 
+2 Confident 
+3 Slightly confident 
+4 Not at all confident 
+ 
+ 
+ 
+QZPY-QZLN 
+{ASK ALL, ASK AS A GRID} 
+State whether you think each of the following statements is true or false for new students. 
+ 
+GRID ROWS 
+QZPY Student loans only start being repaid once earnings are above a certain level 
+QZLN Any student loans outstanding after a given number of years are written off 
+ 
+GRID COLS 
+1 True 
+2 False 
+-------------------- 
+3 Don’t know 
+ 
+ 
+PDJA-PDJB 
+{ASK ALL} 
+Now look ahead to what you might be doing at the age of 30, and imagine how this might 
+depend on the education choices you make.  
+ 
+How likely (0-100%) do you think it is that you will <b>be in a paid job</b> when you are 30 
+if you… 
+ 
+PDJA …<b>don’t<b> go to university?  
+PDJB …<b>do<b> go to university? 
+ 
+LAYOUT: response options should be followed by open text boxes followed by ‘%’ sign after 
+each response option. There should be a vertical line below question stem and response 
+options, showing a 0-100 scale (divisions of 10 labelled).  
+ 
+SOFTCHECK: IF NON-INTEGER VALUE OR VALUE >100: “Please enter a whole number 
+between 0 and 100” 
+ 
+ 
+  
+
+
+
+EARN-ERNU 
+{ASK ALL} 
+If you have a paid job at the age of 30, what is your best estimate of how much you might 
+be earning <b>per year</b> if you… 
+ 
+EARN …<b>don’t</b> go to university? 
+ERNU …<b>were</b> to go to university? 
+ 
+LAYOUT: Response options should be followed by ‘£’ sign then open text box. 
+ 
+NUMERIC 
+RANGE: 0-9999997 
+ 
+SOFTCHECK: IF NON-INTEGER VALUE: “Please enter a whole number” 
+ 
+ 
+ 
+CARR  
+{ASK ALL, OPEN ENDED} 
+What job do you think you will be doing when you are 30? 
+ 
+LAYOUT: OPEN TEXT BOX 500 
+ 
+Don’t know 
+ 
+SOFTCHECK: IF NUMBER OF CHARACTERS < 3: “Please make sure you have entered the 
+details of the job you think you will be doing when you are 30.” 
+ 
+ 
+  
+
+
+
+ASPR  
+{ASK ALL, MULTICODE} 
+By the time you are 30, which of the following do you think you will have achieved?  
+ 
+<i>Select all that apply.</i> 
+ 
+1 Owning your own home 
+2 Having a good car 
+3 Earning a lot of money 
+4 Having a worthwhile job 
+5 Having children 
+6 Having a partner or being married 
+7 Being famous or making a name for yourself 
+8 Having a personal achievement in sport, the arts or travel etc. 
+9 None of these (EXCLUSIVE) 
+ 
+ 
+  
+
+
+
+Life and Wellbeing 
+ 
+
+***SLEEP QUALITY 
+ 
+SQLT  
+{ASK ALL} 
+During the past month, how would you rate your sleep quality overall? Would you say it has 
+been… 
+ 
+1 …Very good  
+2 …Fairly good  
+3 …Fairly bad, or 
+4 …Very bad? 
+ 
+ 
+
+***SOCIAL PROVISION 
+SAFF-NCLS   
+{ASK ALL, ASK AS A GRID} 
+In answering the following questions, think about your current relationships with friends, 
+family members, community members, and so on. Please indicate to what extent each 
+statement describes your current relationships with other people.  
+ 
+GRID ROWS 
+SAFF I have family and friends who help me feel safe, secure and happy  
+TRSS There is someone I trust whom I would turn to for advice if I were having problems 
+NCLS There is no one I feel close to 
+ 
+GRID COLS 
+1 Very true  
+2 Partly true  
+3 Not true at all  
+ 
+ 
+ 
+  
+
+
+
+***RELATIONSHIP WITH RESIDENT PARENTS 
+LWPA 
+{ASK ALL} 
+Do you live with your parent(s)? 
+ 
+1 Yes 
+2 No 
+ 
+ 
+OUTW  
+{IF LIVING WITH ANY PARENTS: LWPA=1}  
+How often do your parents know where you are going when you go out?  
+ 
+1 Always  
+2 Usually  
+3 Sometimes  
+4 Never  
+ 
+OTNT  
+{IF LIVING WITH ANY PARENTS: LWPA=1} 
+If you go out at night, do your parents ever set a time for you to be back by? 
+ 
+1 Always 
+2 Usually 
+3 Sometimes 
+4 Never 
+5 Not allowed out / don't go out 
+ 
+ 
+ 
+  
+
+
+
+***CARING 
+CARE  
+{ASK ALL} 
+Some people have extra responsibilities because they look after someone who has long-
+term physical or mental health difficulties or disability, or problems related to old age. ADD 
+INFO BUTTON: “For example: cooking, cleaning, shopping, providing nursing and personal 
+care, and giving emotional support.” 
+Do you regularly look after anyone who is ill, disabled or elderly and in need of care, without 
+being paid? This includes both people who live with you and those who live elsewhere. 
+Please do not include caring you do for others that you do in a professional capacity (i.e. as a 
+job). 
+ 
+1 Yes 
+2 No 
+ 
+ 
+CRWO  
+{ASK IF CARES FOR ANYONE: CARE = 1; MULTICODE} 
+Please tell us who you care for. 
+ 
+<i>Select all that apply</i>  
+ 
+1 Your mother 
+2 Your father  
+3 Your brother(s) 
+4 Your sister(s) 
+5 Your grandmother(s) 
+6 Your grandfather(s) 
+7 Somebody else (PLEASE WRITE IN)  {VARNAME CRWZ 200} 
+ 
+ 
+CRHR  
+{ASK IF CARES FOR ANYONE: CARE = 1} 
+Taking account of all the unpaid help you give, including travelling time, about how long did 
+you spend looking after people last week?  
+ 
+1 0-2 hours  
+2 3-4 hours  
+3 5-9 hours  
+4 10-19 hours  
+5 20-29 hours  
+6 30 hours or more  
+ 
+ 
+ 
+  
+
+
+
+***TRAVEL 
+TRSC  
+{ASK ALL} 
+Now thinking about getting to the place you study or work. How do you usually travel? 
+ 
+Please tell us which method you use for the longest part of your usual journey. If you’re 
+studying or training and working, please think of the method you use for travelling to your 
+<b>main activity</b>.  
+ 
+1 Public transport, such as bus, train, tram or underground  
+2 School or local authority bus, minibus or coach  
+3 Car or other vehicle (including taxi)  
+4 Bicycle  
+5 Walking  
+6 Other   
+ 
+ 
+CYCF  
+{ASK ALL} 
+How often do you use a bicycle?  
+ 
+Please include travel to and from work, training, school, college or university.  
+ 
+1 Every day or almost every day  
+2 Several times a week  
+3 Once or twice a week  
+4 At least once a month  
+5 Every few months  
+6 At least once a year  
+7 Less often or never  
+8 Do not use a bicycle 
+ 
+  
+
+
+
+TRTI  
+{ASK ALL} 
+Thinking of your usual journey on a typical day, how long does it take you to get from home 
+to school, college, university, training place or work <b>one way</b>?  
+ 
+If you’re studying or training and working, please think of the method you use for travelling 
+to your <b>main activity</b>. 
+ 
+1 Under 5 minutes  
+2 5 minutes to under 15 minutes  
+3 15 minutes to under 30 minutes  
+4 30 minutes to under 45 minutes  
+5 45 minutes to under 1 hour  
+6 1 hour to under 2 hours  
+7 2 or more hours   
+8 I am not in training, in work or going to school, college or university   
+ 
+
+  
+
+
+
+Index 
+ 
+
+A 
+ARES ................. 10 
+ASPR ................. 27 
+ASWD ............... 13 
+ 
+B 
+BAND ...................6 
+BRED ................ 12 
+BRKN ................ 12 
+BSCA ....................4 
+BSCB ....................4 
+BSCC ....................4 
+BSCD ....................4 
+ 
+C 
+CARE ................. 30 
+CARR ................ 26 
+CAUT ................ 10 
+CNFA ................ 24 
+COMH ..................7 
+CORT ................ 10 
+COST ................. 23 
+CRHR ................ 30 
+CRWO ............... 30 
+CRWZ ................ 30 
+CYCF ................. 31 
+ 
+D 
+DISC .....................6 
+ 
+E 
+EARN ................ 26 
+ERNU ................ 26 
+ETLS .................. 11 
+EXWT ................ 11 
+ 
+F 
+FRUT ................. 12 
+
+G 
+GAEM .................. 9 
+GAMA ................. 9 
+GAMJ ................... 9 
+GANG .................. 9 
+GLTY .................. 10 
+GMBL .................. 9 
+ 
+H 
+HLAN ................. 21 
+HLFO .................. 21 
+ 
+K 
+KNIF ..................... 9 
+ 
+L 
+LANF .................. 20 
+LIBR ..................... 6 
+LNFO ................. 20 
+LSWT ................. 11 
+LWPA ................ 29 
+ 
+M 
+MGIG ................... 6 
+MILK .................. 13 
+MUSM ................. 6 
+ 
+N 
+NCLS .................. 28 
+ 
+O 
+OPAB ................... 4 
+OPCH ................... 4 
+OPEN ................... 4 
+OPJO ................... 4 
+OPPO ................... 4 
+OPRA ................... 4 
+OPRE ................... 4 
+
+ORGA .................. 6 
+OTNT ................. 29 
+OUTW ............... 29 
+ 
+P 
+PDJA .................. 24 
+PDJB .................. 24 
+POLM .................. 6 
+POLS .................. 10 
+PRFA .................. 17 
+PRFB .................. 17 
+PRFC .................. 17 
+PRFD .................. 17 
+PRFE .................. 17 
+PRFF .................. 17 
+PRFG .................. 17 
+PRFH .................. 17 
+PRFI ................... 17 
+PRFJ ................... 18 
+ 
+Q 
+QZLN ................. 24 
+QZPY ................. 24 
+ 
+R 
+RELE .................. 19 
+RELN .................. 20 
+RELS .................. 19 
+RELW ................. 19 
+REUN ................. 22 
+REUO ................. 22 
+RJOY .................... 6 
+RLSV .................... 6 
+RSKA .................. 15 
+RSKB .................. 15 
+RSKC .................. 15 
+RSKD .................. 15 
+RSKE .................. 15 
+
+RSKF .................. 15 
+RSKG ................. 15 
+RSKH ................. 15 
+RSKI ................... 16 
+RSKJ ................... 16 
+ 
+S 
+SAFF .................. 28 
+SOCH ................... 8 
+SOCM .................. 8 
+SOME .................. 8 
+SPFD .................... 6 
+SPOR ................... 6 
+SQLT .................. 28 
+STNO ................. 23 
+STUN ................. 23 
+STYR .................. 22 
+SWTD ................ 13 
+ 
+T 
+THEA ................... 6 
+TKWY ................ 14 
+TRSC .................. 31 
+TRSS .................. 28 
+TRTI ................... 32 
+TVHO................... 7 
+ 
+U 
+UNIQ ................. 22 
+ 
+V 
+VEGI .................. 12 
+VOLW .................. 6 
+ 
+W 
+WEGT ................ 11 
+
+ 
+
+
+
+1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Centre for Longitudinal Studies 
+
+Institute of Education 
+
+20 Bedford Way 
+
+London WC1H 0AL 
+
+Tel: 020 7612 6860 
+
+Fax: 020 7612 6880 
+
+Email: clsfeedback@ucl.ac.uk 
+
+Web: cls.ucl.ac.uk 
+
+ 
+
+

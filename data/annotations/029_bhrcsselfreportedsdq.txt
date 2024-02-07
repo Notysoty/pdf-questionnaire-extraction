@@ -1,0 +1,31 @@
+SDQ1.	Tento ser legal com as outras pessoas. Eu me preocupo com os sentimentos dos outros.	Falso/Mais ou menos verdadeiro/Verdadeiro/EMOCIONAL/CONDUTA/HIPERATIVIDADE/SOCIAL/PRO-SOCIAL
+SDQ2.	Sou  inquicto/a, é  dificil para mim ficar sentado por muito tempo	Falso/Mais ou menos verdadeiro/Verdadeiro/EMOCIONAL/CONDUTA/HIPERATIVIDADE/SOCIAL/PRO-SOCIAL
+SDQ3.	Muitas vezes tenho dor d cabeça, dor de barriga ou enjôo	Falso/Mais ou menos verdadeiro/Verdadeiro/EMOCIONAL/CONDUTA/HIPERATIVIDADE/SOCIAL/PRO-SOCIAL
+SDQ4.	Geralmente me disponho a dividir com os outros (ex. comida ou bebida)	Falso/Mais ou menos verdadeiro/Verdadeiro/EMOCIONAL/CONDUTA/HIPERATIVIDADE/SOCIAL/PRO-SOCIAL
+SDQ5.	Fico muito bravo/a e geralmente perco a paciência	Falso/Mais ou menos verdadeiro/Verdadeiro/EMOCIONAL/CONDUTA/HIPERATIVIDADE/SOCIAL/PRO-SOCIAL
+SDQ6.	Prefiro estar sozinho/a do que com outras pessoas	Falso/Mais ou menos verdadeiro/Verdadeiro/EMOCIONAL/CONDUTA/HIPERATIVIDADE/SOCIAL/PRO-SOCIAL
+SDQ7.	Geralmente estou disposto/a fazer o que as outras pessoas querem	Falso/Mais ou menos verdadeiro/Verdadeiro/EMOCIONAL/CONDUTA/HIPERATIVIDADE/SOCIAL/PRO-SOCIAL
+SDQ8.	Tenho muitas preocupações, muitas vezes pareço preocupado/a com tudo	Falso/Mais ou menos verdadeiro/Verdadeiro/EMOCIONAL/CONDUTA/HIPERATIVIDADE/SOCIAL/PRO-SOCIAL
+SDQ9.	Tento ajudar se alguém parece magoado, aflito ou sentidose mal	Falso/Mais ou menos verdadeiro/Verdadeiro/EMOCIONAL/CONDUTA/HIPERATIVIDADE/SOCIAL/PRO-SOCIAL
+SDQ10.	Estou sempre agitado/a, balançando as pernas ou mexendo as mãos Falso/Mais ou menos verdadeiro/Verdadeiro/EMOCIONAL/CONDUTA/HIPERATIVIDADE/SOCIAL/PRO-SOCIAL
+SDQ11.	Eu tenho pelo menos um bom amigo ou amiga	Falso/Mais ou menos verdadeiro/Verdadeiro/EMOCIONAL/CONDUTA/HIPERATIVIDADE/SOCIAL/PRO-SOCIAL
+SDQ12.	Brigo muito. Consigo fazer com que as pessoas façam o que eu quero	Falso/Mais ou menos verdadeiro/Verdadeiro/EMOCIONAL/CONDUTA/HIPERATIVIDADE/SOCIAL/PRO-SOCIAL
+SDQ13.	Frequentemente estou chateado/a, desanimado/a ou choroso/a.	Falso/Mais ou menos verdadeiro/Verdadeiro/EMOCIONAL/CONDUTA/HIPERATIVIDADE/SOCIAL/PRO-SOCIAL
+SDQ14.	Outras pessoas geralmente gostam de mim	Falso/Mais ou menos verdadeiro/Verdadeiro/EMOCIONAL/CONDUTA/HIPERATIVIDADE/SOCIAL/PRO-SOCIAL
+SDQ15.	Facilmente perco a concentração	Falso/Mais ou menos verdadeiro/Verdadeiro/EMOCIONAL/CONDUTA/HIPERATIVIDADE/SOCIAL/PRO-SOCIAL
+SDQ17.	Sou legal com crianças	Falso/Mais ou menos verdadeiro/Verdadeiro/EMOCIONAL/CONDUTA/HIPERATIVIDADE/SOCIAL/PRO-SOCIAL
+SDQ18.	Frequentemente sou acusado/a de mentir ou trapacear	Falso/Mais ou menos verdadeiro/Verdadeiro/EMOCIONAL/CONDUTA/HIPERATIVIDADE/SOCIAL/PRO-SOCIAL
+SDQ19.	Outras pessoas "pegam no meu pé" ou fazem bullying comigo	Falso/Mais ou menos verdadeiro/Verdadeiro/EMOCIONAL/CONDUTA/HIPERATIVIDADE/SOCIAL/PRO-SOCIAL
+SDQ20.	Frequentemente me ofereço para ajudar os outros (pessoas da familia, amigos, colegas) Falso/Mais ou menos verdadeiro/Verdadeiro/EMOCIONAL/CONDUTA/HIPERATIVIDADE/SOCIAL/PRO-SOCIAL
+SDQ21.	Penso antes de fazer as coisas	Falso/Mais ou menos verdadeiro/Verdadeiro/EMOCIONAL/CONDUTA/HIPERATIVIDADE/SOCIAL/PRO-SOCIAL
+SDQ22.	Pego para mim coisas que não são minhas de casa, do trabalho ou de outros lugares	Falso/Mais ou menos verdadeiro/Verdadeiro/EMOCIONAL/CONDUTA/HIPERATIVIDADE/SOCIAL/PRO-SOCIAL
+SDQ23.	Eu me dou melhor com pessoas mais velhas do que com pessoas da minha idade	Falso/Mais ou menos verdadeiro/Verdadeiro/EMOCIONAL/CONDUTA/HIPERATIVIDADE/SOCIAL/PRO-SOCIAL
+SDQ24.	Sinto muito medo. Eu me assusto facilmente	Falso/Mais ou menos verdadeiro/Verdadeiro/EMOCIONAL/CONDUTA/HIPERATIVIDADE/SOCIAL/PRO-SOCIAL
+SDQ25.	Consigo terminar as atividades que começo e prestar atenção	Falso/Mais ou menos verdadeiro/Verdadeiro/EMOCIONAL/CONDUTA/HIPERATIVIDADE/SOCIAL/PRO-SOCIAL
+SDQ26.	De forma geral, você tem dificuldades em uma ou mais das sequintes áreas: emoções, concentração, comportamento ou ser capaz de se relacionar com outras pessoas?	Não/Sim-pequenas dificuldades/Sim-dificuldades bem definidas/Sim-dificuldades graves
+SDQ26a.	Há quanto tempo estas dificuldades existem?	Menos de 1 mês/1-5 meses/6-12 meses/Mais de 1 ano
+SDQ26b.	Estas dificuldades incomodam ou aborrecem você?	Nada/Um pouco/Muito/Extremamente
+SDQ26c.	Relacionamento com pessoas próximas (ex. familia, esposo/a)	Nada/Um pouco/Muito/Extremamente
+SDQ26e.	Trabalho ou estudos	Nada/Um pouco/Muito/Extremamente
+SDQ26f.	Coisas que você gosta de fazer, esportes ou outras atividades de lazer	Nada/Um pouco/Muito/Extremamente
+SDQ26g.	Estas difficuldades tornam as coisas mais dificeis para as pessoas que convivem com você (familia, amigos. etc.)?	Nada/Um pouco/Muito/Extremamente

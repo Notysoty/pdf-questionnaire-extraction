@@ -1,0 +1,115 @@
+1.	Everyone who works hard, no matter what race they are, has an equal chance to become rich.	Strongly Disagree	1/2/3/4/5/6	Strongly Agree
+2.	Race plays a major role in the type of social services (such as type of health care or day care) that people receive in the U.S.	Strongly Disagree	1/2/3/4/5/6	Strongly Agree
+3.	It is important that people begin to think of themselves as American and not African American, Mexican American or Italian American.	Strongly Disagree	1/2/3/4/5/6	Strongly Agree
+4.	Racism may have been a problem in the past, but it is not an important problem today.	Strongly Disagree	1/2/3/4/5/6	Strongly Agree
+5.	Racial and ehtnic minorities do not have the same opportunities as White people in the U.S.	Strongly Disagree	1/2/3/4/5/6	Strongly Agree
+6.	White people in the U.S. are discriminated against because of the color of their skin.	Strongly Disagree	1/2/3/4/5/6	Strongly Agree
+7.	White people in the U.S. have certain advantages because of the color of their skin. Strongly Disagree	1/2/3/4/5/6	Strongly Agree
+8.	Innigrants should try to fit into the culture and adopt the values of the U.S.	Strongly Disagree	1/2/3/4/5/6	Strongly Agree
+9.	White people are more to blame for racial discrimination in the U.S. than racial and ethnic minorities.	Strongly Disagree	1/2/3/4/5/6	Strongly Agree
+10.	Social policies, such as affirmative action, discriminate unfairly against White people.	Strongly Disagree	1/2/3/4/5/6	Strongly Agree
+11.	It is important for public schools to teach about the history and contributions of racial and ethnic minorities.	Strongly Disagree	1/2/3/4/5/6	Strongly 	Agree
+12.	Racial and ethnic minorities in the U.S. have the certain advantages because of the color of their skin.	Strongly Disagree	1/2/3/4/5/6	Strongly Agree
+13.	Racial problems in teh U.S. are rare, isolated situations.	Strongly Disagree	1/2/3/4/5/6	Strongly Agree
+14.	Race plays an important role in who gets sent to prison. Strongly Disagree	1/2/3/4/5/6	Strongly Agree
+1.	Being ignored, overlooked or not given service (in a restaurant, store, etc.)	Never/Less than once a year/A few time a year/About once a month/A few times a month/Once 	a week or more
+2.	Being treated rudely or disrespectfully.	Never/Less than once a year/A few time a year/About once a month/A few times a month/Once a week or more
+3.	Being accused of somthing or treated suspiciously.  Never/Less than once a year/A few time a year/About once a month/A few times a month/Once a week or more
+4.	Others reacting to you as if they were afraid or intimidated.	Never/Less than once a year/A few time a year/About once a month/A few times a month/Once a week or more
+5.	Being observed or followed while in public places.	Never/Less than once a year/A few time a year/About once a month/A few times a month/Once a week or more
+6.	Being treated as if you were "stupid", being "talked down to."	Never/Less than once a year/A few time a year/About once a month/A few times a month/Once a week or more
+7.	Your ideas or opinions being minimized, ignored, or devalued.	Never/Less than once a year/A few time a year/About once a month/A few times a month/Once a week or more
+8.	Overhearing or being told an offensive joke or comment.	Never/Less than once a year/A few time a year/About once a month/A few times a month/Once a week or more
+9.	Being insulted, called a name, or harrased.	Never/Less than once a year/A few time a year/About once a month/A few times a month/Once a week or more
+10.	Others expecting your work to be inferior.	Never/Less than once a year/A few time a year/About once a month/A few times a month/Once a week or more
+11.	Not being taken seriously.	Never/Less than once a year/A few time a year/About once a month/A few times a month/Once a week or more
+12.	Being left out of conversations or activities.	Never/Less than once a year/A few time a year/About once a month/A few times a month/Once a week or more
+13.	Being treated in an "overlay" friendly or superficial way.	Never/Less than once a year/A few time a year/About once a month/A few times a month/Once a week or more
+14.	Being avoided, others moving away from you physically.	Never/Less than once a year/A few time a year/About once a month/A few times a month/Once a week or more
+15.	Being mistaken for someone who serves others (i.e., janitor, bellbot, maid).	Never/Less than once a year/A few time a year/About once a month/A few times a month/Once 	a week or more
+16.	Being stared at by strangers.	Never/Less than once a year/A few time a year/About once a month/A few times a month/Once a week or more
+17.	Being laughed at, made fun of, or taunted.	Never/Less than once a year/A few time a year/About once a month/A few times a month/Once a week or more
+18.	Being mistaken for someone else of your same race (who may not look like you at all)	Never/Less than once a year/A few time a year/About once a month/A few times a 	month/Once a week or more
+19.	Being asked to speak for or represent your entire racial/ethnic group (e.g., "What do ____ people think"?.	Never/Less than once a year/A few time a year/About once a 	month/A few times a month/Once a week or more
+20.	Being considered fascinating or exotic by others.	Never/Less than once a year/A few time a year/About once a month/A few times a month/Once a week or more
+1.	As you were growing up, how much were things related to race or racism talked about by the people or in the settings listed below? Please circle the appropriate number.	a)	Your parents	Not at All/A Little/Some/A lot/Extremely So
+	b)	Other family	Not at All/A Little/Some/A lot/Extremely So
+	c)	Your friends	Not at All/A Little/Some/A lot/Extremely So
+	d)	Your teachers	Not at All/A Little/Some/A lot/Extremely So
+	e)	At your place of worship	Not at All/A Little/Some/A lot/Extremely So
+2.	Directions. Use the scale below to indicate tha racial composition of each of the categories listed. Write the appropriate number on each of the blank lines.
+	a)	your neighborhood growing up	Does Not Apply to Me/Etirely People of My Race/Mostly People of My Race (A Few People from Other Races)/Racially Integrated to a 		Large Degree/Mostly People Different racia/Ethnic Minority Groups than Mine/Mostly or Entirely White (No Not Use This Response if You are White)
+	b)	your current neighborhood	Does Not Apply to Me/Etirely People of My Race/Mostly People of My Race (A Few People from Other Races)/Racially Integrated to a 		Large Degree/Mostly People Different racia/Ethnic Minority Groups than Mine/Mostly or Entirely White (No Not Use This Response if You are White)
+	c)	your current job	Does Not Apply to Me/Etirely People of My Race/Mostly People of My Race (A Few People from Other Races)/Racially Integrated to a Large 			Degree/Mostly People Different racia/Ethnic Minority Groups than Mine/Mostly or Entirely White (No Not Use This Response if You are White)
+	d)	your elementary & jr. high schools	Does Not Apply to Me/Etirely People of My Race/Mostly People of My Race (A Few People from Other Races)/Racially 			Integrated to a Large Degree/Mostly People Different racia/Ethnic Minority Groups than Mine/Mostly or Entirely White (No Not Use This Response if You are White)
+	e)	your high school	Does Not Apply to Me/Etirely People of My Race/Mostly People of My Race (A Few People from Other Races)/Racially Integrated to a 			Large Degree/Mostly People Different racia/Ethnic Minority Groups than Mine/Mostly or Entirely White (No Not Use This Response if You are White)
+	f)	your place of worship growing up	Does Not Apply to Me/Etirely People of My Race/Mostly People of My Race (A Few People from Other Races)/Racially 			Integrated to a Large Degree/Mostly People Different racia/Ethnic Minority Groups than Mine/Mostly or Entirely White (No Not Use This Response if You are White)
+	g)	your place of worship now	Does Not Apply to Me/Etirely People of My Race/Mostly People of My Race (A Few People from Other Races)/Racially Integrated to a 		Large Degree/Mostly People Different racia/Ethnic Minority Groups than Mine/Mostly or Entirely White (No Not Use This Response if You are White)
+	h)	your close friends growing up	Does Not Apply to Me/Etirely People of My Race/Mostly People of My Race (A Few People from Other Races)/Racially Integrated to a 		Large Degree/Mostly People Different racia/Ethnic Minority Groups than Mine/Mostly or Entirely White (No Not Use This Response if You are White)
+	i)	your close friends now	Does Not Apply to Me/Etirely People of My Race/Mostly People of My Race (A Few People from Other Races)/Racially Integrated to a 			Large Degree/Mostly People Different racia/Ethnic Minority Groups than Mine/Mostly or Entirely White (No Not Use This Response if You are White)
+	j)	your intimate relationships	Does Not Apply to Me/Etirely People of My Race/Mostly People of My Race (A Few People from Other Races)/Racially Integrated to a 		Large Degree/Mostly People Different racia/Ethnic Minority Groups than Mine/Mostly or Entirely White (No Not Use This Response if You are White)
+1.	Prayed that things would work themselves out.	Does Not Apply or Did Not Use/Used a Little/Used a Lot/Used a Great Deal
+2.	Got a group of family of friends together to help with the problem.	Does Not Apply or Did Not Use/Used a Little/Used a Lot/Used a Great Deal
+3.	Shared my feelings with a friend or family member.	Does Not Apply or Did Not Use/Used a Little/Used a Lot/Used a Great Deal
+4.	Remembered what a parent (or other relative) once said about dealing with these kinds of situations.	Does Not Apply or Did Not Use/Used a Little/Used a Lot/Used a 	Great Deal
+5.	Tried to forget about the situation.	Does Not Apply or Did Not Use/Used a Little/Used a Lot/Used a Great Deal
+6.	Went to church (or other religious meeting) to get help from the group.	Does Not Apply or Did Not Use/Used a Little/Used a Lot/Used a Great Deal
+7.	Thought of all the struggles Black people have had to endure and this gave me the strength to deal with the situation.	Does Not Apply or Did Not Use/Used a Little/Used a 	Lot/Used a Great Deal
+8.	To keep from thinking about the situation I found other things to keep me busy.	Does Not Apply or Did Not Use/Used a Little/Used a Lot/Used a Great Deal
+9.	Sought advice about how to handle the situation form an older person in my family or community.	Does Not Apply or Did Not Use/Used a Little/Used a Lot/Used a Great Deal
+10.	Read a 	scripture from the Bible (or similar book) for comfort and/or guidance.	Does Not Apply or Did Not Use/Used a Little/Used a Lot/Used a Great Deal
+11.	Asked for suggestions on how to deal with the situation during a meeting of my organization or club.	Does Not Apply or Did Not Use/Used a Little/Used a Lot/Used a 	Great Deal
+12.	Tried to convince myself that it wasn't that bad.	Does Not Apply or Did Not Use/Used a Little/Used a Lot/Used a Great Deal
+13.	Asked someone to ray for me.	Does Not Apply or Did Not Use/Used a Little/Used a Lot/Used a Great Deal
+14.	Spent more time than usual doing group activities.	Does Not Apply or Did Not Use/Used a Little/Used a Lot/Used a Great Deal
+15.	Hoped that things would get better with time.	Does Not Apply or Did Not Use/Used a Little/Used a Lot/Used a Great Deal
+16.	Read passage from a daily meditaion book.	Does Not Apply or Did Not Use/Used a Little/Used a Lot/Used a Great Deal
+17.	Spent more time than usual doing things withd friends and family.	Does Not Apply or Did Not Use/Used a Little/Used a Lot/Used a Great Deal
+18.	tried to remove myself from the situation.	Does Not Apply or Did Not Use/Used a Little/Used a Lot/Used a Great Deal
+19.	Sought out people I thought would make me laugh.	Does Not Apply or Did Not Use/Used a Little/Used a Lot/Used a Great Deal
+20.	Got dressed up in my best clothing.	Does Not Apply or Did Not Use/Used a Little/Used a Lot/Used a Great Deal
+21.	Asked for blessings from a spiritual or religious person.	Does Not Apply or Did Not Use/Used a Little/Used a Lot/Used a Great Deal
+22.	Helped others  with their problems.	Does Not Apply or Did Not Use/Used a Little/Used a Lot/Used a Great Deal
+23.	Lit a candle for strength or guidance in dealing with the problem.	Does Not Apply or Did Not Use/Used a Little/Used a Lot/Used a Great Deal
+24.	Sought emotional support from family and friends.	Does Not Apply or Did Not Use/Used a Little/Used a Lot/Used a Great Deal
+26.	Attended a social event (dance, party, movie) to reduce stress caused by the situation.	Does Not Apply or Did Not Use/Used a Little/Used a Lot/Used a Great Deal
+27.	Sung a song to myself to help reduce stress.	Does Not Apply or Did Not Use/Used a Little/Used a Lot/Used a Great Deal
+28.	Used a cross or other object for its special powers in dealing with the problem.	Does Not Apply or Did Not Use/Used a Little/Used a Lot/Used a Great Deal
+29.	Found myself watching more comedy shows on TV.	Does Not Apply or Did Not Use/Used a Little/Used a Lot/Used a Great Deal
+30.	Left matters in God's hands.	Does Not Apply or Did Not Use/Used a Little/Used a Lot/Used a Great Deal
+1.	Been a very nervous person.	All of the Time/Most of the Time/A Good Bit of the Time/Some of the Time/A Little More of the Time/None of the Time
+2.	Felt calm and peaceful.	All of the Time/Most of the Time/A Good Bit of the Time/Some of the Time/A Little More of the Time/None of the Time
+3.	Felt downhearted and blue.	All of the Time/Most of the Time/A Good Bit of the Time/Some of the Time/A Little More of the Time/None of the Time
+4.	Been a happy person.	All of the Time/Most of the Time/A Good Bit of the Time/Some of the Time/A Little More of the Time/None of the Time
+5.	Felt so down in the dumps that nothing could cheer you up.	All of the Time/Most of the Time/A Good Bit of the Time/Some of the Time/A Little More of the Time/None of 	the Time
+1.	I have met people who are supposed to be experts who are no better than I.	Completely Undescriptive/Mostly Undescriptive/Partly Undescriptive/Mostly 	Descriptive/Completely 	Descriptive
+2.	Some of my friends  have habits that annoy and bother me very much.	Completely Undescriptive/Mostly Undescriptive/Partly Undescriptive/Mostly Descriptive/Completely 	Descriptive
+3.	At times, I feel angry for no specific reason.	Completely Undescriptive/Mostly Undescriptive/Partly Undescriptive/Mostly Descriptive/Completely Descriptive
+4.	I can make myself angry about something in the past just by thinking about it.	Completely Undescriptive/Mostly Undescriptive/Partly Undescriptive/Mostly 	Descriptive/Completely 	Descriptive
+5.	People can bother me just being around.	Completely Undescriptive/Mostly Undescriptive/Partly Undescriptive/Mostly Descriptive/Completely Descriptive
+6.	When I get angry, I stay angry for hours.	Completely Undescriptive/Mostly Undescriptive/Partly Undescriptive/Mostly Descriptive/Completely Descriptive
+7.	I am on my guard with people who are friendlier than I expected.	Completely Undescriptive/Mostly Undescriptive/Partly Undescriptive/Mostly Descriptive/Completely 	Descriptive
+8.	I get angry when someone lets me down.	Completely Undescriptive/Mostly Undescriptive/Partly Undescriptive/Mostly Descriptive/Completely Descriptive
+9.	I get angry when people are unfair.	Completely Undescriptive/Mostly Undescriptive/Partly Undescriptive/Mostly Descriptive/Completely Descriptive
+10.	I get angry when I have to take orders from someone less capable than I.	Completely Undescriptive/Mostly Undescriptive/Partly Undescriptive/Mostly 	Descriptive/Completely Descriptive
+11.	i get angry when I have to work with incompetent people.	Completely Undescriptive/Mostly Undescriptive/Partly Undescriptive/Mostly Descriptive/Completely 	Descriptive
+12.	I get angry when I am not given credit for something I have done.	Completely Undescriptive/Mostly Undescriptive/Partly Undescriptive/Mostly Descriptive/Completely 	Descriptive
+13.	I harbor grudges that I don't tell anyone about.	Completely Undescriptive/Mostly Undescriptive/Partly Undescriptive/Mostly Descriptive/Completely Descriptive
+14.	I try to get even when I am angry with someone.	Completely Undescriptive/Mostly Undescriptive/Partly Undescriptive/Mostly Descriptive/Completely Descriptive
+15.	I feel guilty about expressing my anger.	Completely Undescriptive/Mostly Undescriptive/Partly Undescriptive/Mostly Descriptive/Completely Descriptive
+16.	Even after I have expressed my anger, I have trouble forgetting about it.	Completely Undescriptive/Mostly Undescriptive/Partly Undescriptive/Mostly 	Descriptive/Completely Descriptive
+17.	When I hide my anger from others, I think about it for a long time.	Completely Undescriptive/Mostly Undescriptive/Partly Undescriptive/Mostly Descriptive/Completely 	Descriptive
+18.	If I let people see the way I feel, I'd be considered person to get along with.	Completely Undescriptive/Mostly Undescriptive/Partly Undescriptive/Mostly 	Descriptive/Completely Descriptive
+1.	Age:	___
+2.	Gender:	Male/Female
+3.	What is your racial group (e.g., Black, Latino, White, Asian)?	_____
+4.	What is your  ethnic group (e.g., African American, Mexican, Italian, Chinese)?	______
+5.	What is the highest level of education you have completed?	a. Elementary school (8th grade)/b. Some High School/C. Some College/e. Associate or two-year  degree/g. 	Some graduate or professional school/h. Business or trade school/i. Graduate or professional degree
+6.	Currently, how religious or spiritual are you?	Not all religious/spiritual/b. A little religious/spiritual/c. Somewhat religious/spiritual/d. Very religious/spiritual
+7.	Which religion or spiritual beliefs do you identify with?	a. Christian/Catholic/b. Protestant/c. Muslim/d. Hindu/e. Jewish/f. Buddhism/g. Agnostic or Stheist/h. 	Other (specify) _____
+8.	What political party did you most strongly identify with in the recent election?	a. Democrat/b. Republican/c. Green/d. Independent/e. Other (specify) _____
+9.	What is your current occupation?	
+10.	Are you employed:	Fulltime/Partime/Unemployed
+11.	How would you describe your current physical health?	Very Poor/Poor/Fair/Good/Very Good
+12.	How would you describe your current menta health?	Very Poor/Poor/Fair/Good/Very Good
+14.	What is your current address AND/OR the closest cross streets to your home, including city/state, zip code, and how long you have lived at this address? PLEASE NOTE WE 	WILL DETACH THIS SHEET FROM THE REST OF THE SURVEY.	

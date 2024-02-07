@@ -1,0 +1,61 @@
+
+ 1 
+
+QUESTIONÁRIO DE HUMOR E SENTIMENTOS (MFQ Short) 
+[LEIA] Este questionário é sobre como você pode estar se sentindo ou agindo recentemente. 
+ 
+Para cada pergunta, por favor diga como você esteve se sentindo ou agindo nas últimas duas semanas. 
+ 
+Se a frase não for verdadeira sobre você, diga NÃO É VERDADE. 
+Se a frase for verdadeira apenas às vezes, diga ÀS VEZES. 
+Se a frase for verdadeira sobre você na maior parte do tempo, diga VERDADE. 
+ 
+[PSICO] Pontue o MFQ da seguinte forma: 
+ 
+NÃO É VERDADE = 0 
+ÀS VEZES = 1 
+VERDADE = 2 
+
+ 
+ 
+
+Para preencher, por favor use “X” para cada afirmação? 
+NAÕ É 
+
+VERDADE ÀS VEZES VERDADE 
+
+MFQ1 Eu me senti muito triste ou infeliz. (  ) 0 (  ) 1 (  ) 2 
+
+MFQ2 Eu não consegui me divertir com absolutamente nada. (  ) 0 (  ) 1 (  ) 2 
+
+MFQ3 Eu me senti tão cansado(a) que só ficava sentado(a) sem 
+fazer nada. (  ) 0 (  ) 1 (  ) 2 
+
+MFQ4 Eu estive muito agitado(a). (  ) 0 (  ) 1 (  ) 2 
+
+MFQ5 Eu senti que eu não valia mais nada. (  ) 0 (  ) 1 (  ) 2 
+
+MFQ6 Eu chorei muito. (  ) 0 (  ) 1 (  ) 2 
+
+MFQ7 Eu achei difícil raciocinar ou me concentrar. (  ) 0 (  ) 1 (  ) 2 
+
+MFQ8 Eu me odiei. (  ) 0 (  ) 1 (  ) 2 
+
+MFQ9 Eu me senti uma pessoa ruim. (  ) 0 (  ) 1 (  ) 2 
+
+MFQ10 Eu me senti sozinho(a). (  ) 0 (  ) 1 (  ) 2 
+
+MFQ11 Eu pensei que ninguém me amava de verdade. (  ) 0 (  ) 1 (  ) 2 
+
+MFQ12 Eu pensei que eu nunca seria tão bom(boa) quanto as outras 
+pessoas. (  ) 0 (  ) 1 (  ) 2 
+
+MFQ13 Eu fiz tudo errado. (  ) 0 (  ) 1 (  ) 2 
+
+ 
+
+ 
+ 
+ 
+
+
