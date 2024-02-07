@@ -48,9 +48,29 @@ kaggle competitions download -c harmony-pdf-and-word-questionnaires-extract
 unzip harmony-pdf-and-word-questionnaires-extract.zip 
 ```
 
-5. Run [create_sample_submission.py](https://github.com/harmonydata/pdf-questionnaire-extraction/blob/main/data/create_sample_submission.py) in the folder containing your data. It will create a CSV file `submission.csv`.
+5. Run [create_sample_submission.py](https://github.com/harmonydata/pdf-questionnaire-extraction/blob/main/data/create_sample_submission.py) in the folder containing your data to create your train and test predictions:
 
-6. Submit your CSV file to Kaggle
+To generate predictions for the training data and write to train_predictions.csv:
+
+```
+python create_sample_submission.py train
+```
+
+To evaluate the train predictions:
+
+```
+python evaluate_train_results.py
+```
+
+6. To modify the prediction logic or inject your own model, you can edit the function `dummy_extract_questions`.
+
+7. To generate predictions for the test data and write to submission.csv:
+
+```
+python create_sample_submission.py test
+```
+
+8. Submit your CSV file to Kaggle
 
 ```
 kaggle competitions submit -c harmony-pdf-and-word-questionnaires-extract -f submission.csv -m "Message"
