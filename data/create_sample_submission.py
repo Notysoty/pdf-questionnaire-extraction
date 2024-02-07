@@ -25,20 +25,32 @@ SOFTWARE.
 
 '''
 
-import os, pandas as pd
+import os
+import pandas as pd
 import sys
 import re
+import json
 
-def dummy_extract_questions(pdf_plain_text: str) -> str:
+def dummy_extract_questions(pdf_plain_text: str, tables_as_dict: dict) -> str:
     '''
     Placeholder function for extracting questionnaire items from a PDF
     '''
     predictions = []
-    for line in pdf_plain_text.split("\n"):
-        line = re.sub(r'\s+', ' ', line).strip()
-        line = re.sub(r'\n+', '', line)
-        line = re.sub(r'^\d+\.?', '', line).strip()
-        predictions.append("\t" + line)
+    if len(tables_as_dict) > 0:
+        if len(tables_as_dict['pageTables']) == 1:
+            for table in tables_as_dict['pageTables'][0]:
+                for row in table:
+                    col = row[0].strip()
+                    if re.findall("[a-z]", col):
+                        predictions.append("\t" + col)
+    if len(predictions) > 0:
+        return "\n".join(predictions)
+    else:
+        for line in pdf_plain_text.split("\n"):
+            line = re.sub(r'\s+', ' ', line).strip()
+            line = re.sub(r'\n+', '', line)
+            line = re.sub(r'^\d+\.?', '', line).strip()
+            predictions.append("\t" + line)
     return "\n".join(predictions)
 
 
@@ -86,18 +98,27 @@ if DATASET != "train" and DATASET != "test":
     exit()
 
 if DATASET == "test":
-    files_to_process = test_files
+    txt_files_to_process = test_files
     output_file = "submission.csv"
 else:
-    files_to_process = os.listdir("preprocessed_text")
+    txt_files_to_process = os.listdir("preprocessed_text")
     output_file = "train_predictions.csv"
+all_json_files = set(os.listdir("preprocessed_tables"))
 
 ids = []
 predictions = []
-for test_file in files_to_process:
-    with open("preprocessed_text/" + test_file, "r") as f:
-        predictions.append(dummy_extract_questions(f.read()))
-        ids.append(test_file)
+for txt_file in txt_files_to_process:
+    json_file = re.sub(r'txt$', 'json', txt_file)
+    with open("preprocessed_text/" + txt_file, "r") as f:
+        file_in_plain_text = f.read()
+    if json_file in all_json_files:
+        with open("preprocessed_tables/" + json_file, "r") as f:
+            file_in_json = f.read()
+        tables_as_dict = json.loads(file_in_json)
+    else:
+        tables_as_dict = {}
+    predictions.append(dummy_extract_questions(file_in_plain_text, tables_as_dict))
+    ids.append(txt_file)
 df = pd.DataFrame()
 df["ID"] = ids
 df["predict"] = predictions
