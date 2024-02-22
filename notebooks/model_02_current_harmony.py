@@ -30,6 +30,8 @@ import re
 from harmony.schemas.requests.text import RawFile, Instrument
 from harmony.parsing.pdf_parser import convert_pdf_to_instruments
 
+# This script is to evaluate Harmony as installed from pip
+# requirements: pip install harmonydata==0.5.0
 
 MODEL_NO = "02"
 
