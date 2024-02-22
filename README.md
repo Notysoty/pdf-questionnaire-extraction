@@ -76,6 +76,34 @@ python create_sample_submission.py test
 kaggle competitions submit -c harmony-pdf-and-word-questionnaires-extract -f submission.csv -m "Message"
 ```
 
+# Testing the existing models
+
+Go into `notebooks` folder and run
+
+```
+python model_0x_baseline_extract_everything.py
+```
+
+to run each model in that folder.
+
+Then to evaluate a model, run:
+
+```
+python evaluate.py 0x
+```
+
+Here are the scores of model 01 and model 02, for comparison:
+
+```
+Model 01 (baseline, just extracting text)
+Mean precision = 0.11, mean recall = 0.28
+	Precision over all instances = 0.05, recall over all instances = 0.30
+
+Model 02 (current Harmony 0.5.0)
+Mean precision = 0.52, mean recall = 0.53
+	Precision over all instances = 0.37, recall over all instances = 0.44
+```
+
 # How PDFs are extracted
 
 Harmony relies on two libraries to extract questionnaire items from PDFs:
