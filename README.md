@@ -44,8 +44,8 @@ pip install kaggle
 4. Download and unzip the competition data:
 
 ```
-kaggle competitions download -c harmony-pdf-and-word-questionnaires-extract
-unzip harmony-pdf-and-word-questionnaires-extract.zip 
+kaggle competitions download -c harmony-pdf-and-word-questionnaires-extract-v2
+unzip harmony-pdf-and-word-questionnaires-extract-v2.zip 
 ```
 
 5. Run [create_sample_submission.py](https://github.com/harmonydata/pdf-questionnaire-extraction/blob/main/data/create_sample_submission.py) in the folder containing your data to create your train and test predictions:
@@ -73,7 +73,7 @@ python create_sample_submission.py test
 8. Submit your CSV file to Kaggle
 
 ```
-kaggle competitions submit -c harmony-pdf-and-word-questionnaires-extract -f submission.csv -m "Message"
+kaggle competitions submit -c harmony-pdf-and-word-questionnaires-extract-v2 -f submission.csv -m "Message"
 ```
 
 # Testing the existing models
