@@ -31,29 +31,223 @@ import sys
 import re
 import json
 
-# TODO: AMOL
+import numpy as np
+import pickle
+from sentence_transformers import SentenceTransformer
+#from tensorflow.keras.models import load_model
+from sklearn.base import BaseEstimator, TransformerMixin
+from sentence_transformers import SentenceTransformer
+
+# Load the pretrained Sentence Transformer model
+model_name = 'sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2'
+sentence_model = SentenceTransformer(model_name)
+
+
+class SentenceTransformerEmbedder(BaseEstimator, TransformerMixin):
+    def __init__(self, model_name='sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2'):
+        self.model = SentenceTransformer(model_name)
+        
+    def fit(self, X, y=None):
+        return self  # nothing to fit
+    
+    def transform(self, X):
+        # Convert texts to embeddings
+        embeddings = self.model.encode(X, show_progress_bar=True)
+        return np.array(embeddings)
+    
+# Function to preprocess text data using Sentence Transformer
+def get_embeddings(sentences):
+    return sentence_model.encode(sentences, batch_size=64, show_progress_bar=True)
+
+def txt_to_df(lines):
+    # Remove newline characters from each line
+    cleaned_lines = [line.strip() for line in lines]
+
+    df = pd.DataFrame(cleaned_lines, columns=['Text'])
+
+    print(f"Converted text to dataframe")
+    return df
+def combine_text_rows(df):
+    combined_text = []
+    combined_other = []
+    current_text = ''
+    df["Text"] = df["Text"].fillna('')
+    for _, row in df.iterrows():
+        if row['Text'] != '':
+            current_text += str(row['Text']) + ' '
+            
+        else:
+            if current_text != '':
+                combined_text.append(current_text.strip())
+                current_text = ''
+    
+    # If there's remaining text after the loop ends
+    if current_text != '':
+        combined_text.append(current_text.strip())
+    
+    combined_df = pd.DataFrame({'Text': combined_text})
+    return combined_df
+def preprocess_json(json_data):
+    data = json_data
+
+    # Prepare data for DataFrame
+    df_data = []
+
+    # Iterate over each table in the JSON file
+    for table_number, table_info in enumerate(data['pageTables'], start=1):
+        table_data = table_info['tables']
+
+        # Iterate over each cell in the table
+        for row in table_data:
+            for cell in row:
+                df_data.append({
+                    'Cell Data': cell,
+                    'Table Number': table_number
+                })
+
+    # Create DataFrame
+    df = pd.DataFrame(df_data)
+    return df
+
+def find_questions(text, json_data, lstm=False):
+    final_questions = []
+    if len(json_data) > 0 and len(json_data['pageTables']) > 0:
+        #try:
+            
+        json_df = preprocess_json(json_data)
+        # Load the model from the pickle file
+        with open('models/json_xgb.pkl', 'rb') as file:
+            json_model = pickle.load(file)
+        y_pred_json = json_model.predict(json_df['Cell Data'].tolist())
+        y_pred_series = pd.Series(y_pred_json)
+        questions = json_df[y_pred_series == 1]
+        questions['Cell Data'] = questions['Cell Data'].str.strip()
+
+        final_questions = questions['Cell Data'].tolist()
+            # print(final_questions)
+        #except:
+        #    print("Error in json")
+    ################text##########################
+    #try:
+    
+    if True:
+        df = txt_to_df(text)
+        df = combine_text_rows(df)
+        #regex to find questions
+        pattern = r'(^.*(?:who|what|when|where|why|how|Who|What|When|Where|Why|How|Do\?)$)|(^\d+\.\sI.*\.$)'        
+        df['Text'] = df['Text'].str.strip()
+        mask_df = df['Text'].str.contains(pattern, regex=True)
+        valid_questions = df[mask_df]
+        final_questions.extend(valid_questions['Text'].tolist())
+        df = df[~mask_df]
+        if not df.empty:
+            if lstm:
+                model_file_path = r'models/lstm_with_undersampling.keras'
+                model = load_model(model_file_path)
+
+                predict_embeddings = get_embeddings(df['Text'].tolist())
+                predict_embeddings = np.expand_dims(predict_embeddings, axis=1)
+                y_pred = model.predict(predict_embeddings)
+
+                mask = (y_pred > 0.75).astype(int)
+                mask = mask.flatten()
+
+                # Create a boolean Series with the same index as df
+                y_pred_series = pd.Series(mask, index=df.index)
+
+                # Filter the DataFrame using boolean indexing
+                questions = df[y_pred_series == 1]
+                
+                final_questions.extend(questions['Text'].tolist())
+                # print(final_questions)
+            else:
+                with open('models/stack_model_with_undersampling.pkl', 'rb') as file:
+                    text_model = pickle.load(file)
+                y_pred_text = text_model.predict(df['Text'].tolist())
+                df["y_pred_series"] = list(y_pred_text)
+                questions = df[df.y_pred_series == 1]
+                final_questions.extend(questions['Text'].tolist())
+    # except:
+    #     print("Error in text")
+    return list(set(final_questions))
+
+
 def extract_questions(pdf_plain_text: str, tables_as_dict: dict) -> str:
     '''
     Placeholder function for extracting questionnaire items from a PDF
     '''
     predictions = []
-    if len(tables_as_dict) > 0:
-        if len(tables_as_dict['pageTables']) == 1:
-            for table in tables_as_dict['pageTables'][0]:
-                for row in table:
-                    col = row[0].strip()
-                    if re.findall("[a-z]", col):
-                        predictions.append("\t" + col)
-    if len(predictions) > 0:
-        return "\n".join(predictions)
-    else:
-        for line in pdf_plain_text.split("\n"):
-            line = re.sub(r'\s+', ' ', line).strip()
-            line = re.sub(r'\n+', '', line)
-            line = re.sub(r'^\d+\.?', '', line).strip()
-            predictions.append("\t" + line)
-    return "\n".join(predictions)
+    predictions = find_questions(pdf_plain_text, tables_as_dict, lstm=False)
+    # if len(tables_as_dict) > 0:
+    #     if len(tables_as_dict['pageTables']) == 1:
+    #         for table in tables_as_dict['pageTables'][0]:
+    #             for row in table:
+    #                 col = row[0].strip()
+    #                 if re.findall("[a-z]", col):
+    #                     predictions.append("\t" + col)
+    # if len(predictions) > 0:
+    #     return "\n".join(predictions)
+    # else:
+    #     for line in pdf_plain_text.split("\n"):
+    #         line = re.sub(r'\s+', ' ', line).strip()
+    #         line = re.sub(r'\n+', '', line)
+    #         line = re.sub(r'^\d+\.?', '', line).strip()
+    #         predictions.append("\t" + line)
+    
+    print(predictions)
+    
+    """
+    predictions= [re.sub(r'^\d+\.\s*', '', item) for item in predictions]                #10               57
+    predictions= [re.sub(r  bb   '\s*0 1 2\s*', '', p) + "\t" for p in predictions]              #2                48
+    predictions= [re.sub(r'^[^\s.]+\.', '', p) + "\t" for p in predictions]               #3                81
+    predictions= [re.sub(r'^[^\s.]+\.', '', p) + "\t" for p in predictions]             #18                83
+    predictions= [re.sub(r'\s*o\s*o\s*o\s*', '', p) + "\t" for p in predictions]          #18
+    predictions= [re.sub(r'^\d+\.\s*', '', p) + "\t" for p in predictions]                #18
+    predictions= [re.sub(r"^[0-9]+\.\s*", '', p) + "\t" for p in predictions]              #22 & 28 & 33   80+
+    predictions= [re.sub(r"^[0-9]+\.\s*|\.{3,}.*$", '', p) for p in predictions]          #25             80+
+    predictions= [re.sub(r"\w{6}\.\s*", '', p) + "\t" fo   r p in predictions]              #29              27   
+    predictions= [re.sub(r"^\d+[a-z]?\s*-\s*", '', p) + "\t" for p in predictions]       #35              69
+    predictions= [re.sub(r'^\d+\.\s*', '', p) + "\t" for p in predictions]               #36              49
+    predictions= [re.sub(r'^\d+\.\s*', '', p) + "\t" for p in predictions]                #40              10    
+    predictions= [re.sub(r'^\d+\s+', '', p) + "\t" for p in predictions]                  #41              95
+    predictions= [re.sub(r'Never Sometimes Often Always', '', p) + "\t" for p in predictions] #41          95
+    predictions= [re.sub( r"^[A-Z]{4}\s*{.*?}\s*", '', p) + "\t" for p in predictions]   #38              40
 
+    #40------
+    
+    predictions = [re.sub(r"\b(PSICO[12]_[0-9a-z]+|SC[0-9]+|INCÔMODO:\s*O\s*quanto\s*você\s*se\s*incomoda\s*com\s*esse\s*sintoma\?|CAPE[0-9]+[a-z]?|\(  \)\s[0-9]\s\(  \)\s[0-9]\s\(  \)\s[0-9]\s\(  \)\s[0-9]\s\(  \)\s[0-9]|CAPE5d|\(  \)\s2\sSim)\b", ' ',p) + "\t" for p in predictions] 
+    predictions = [re.sub(r"(?<=\s)\[PSICO\]\s|^(\b\[PSIC[ÓÓ]LOGO\]|PSICO[12]_[0-9a-z]+|KDEL[0-9]+|SDQ_c[0-9]+|EQ[0-9]+|KALU[0-9]+)\b\s*|\(\s*\)\s[0-9]\s\(\s*\)\s[0-9]\s\(\s*\)\s[0-9]", ' ',p) + "\t" for p in predictions]
+    predictions= [re.sub(r"^\.*\b(\[LEIA\]|\.SINTOMA[ ]?REAL|\.FREQUENCIA|\.INCÔMODO|SQQ_c[0-9]+|SDQ[0-9]+)\b\s*", '', p) + "\t" for p in predictions]     
+     
+
+    predictions= [re.sub(r"^[0-9]+[R.]?\s*", '', p) + "\t" for p in predictions]          #43             73
+    predictions= [re.sub(r"^[A-Z1-9]\d+\.\s*", '', p) + "\t" for p in predictions]        #48             30
+    predictions= [re.sub(r'[a-zA-Z][0-9]{2}\.\s*', '', p) + "\t" for p in predictions]     #49             35
+    predictions= [re.sub(r'[A-Z][0-9]\.\s*', '', p) + "\t" for p in predictions]           #49
+    predictions= [re.sub(r'\[.*?\]', '', p) + "\t" for p in predictions]                   #49
+    predictions= [re.sub(r'^\d+\.\s*', '', p) + "\t" for p in predictions]
+    predictions= [re.sub(r'^[^?]*$', '', p) + "\t" for p in predictions]                   #61              75
+    predictions= [re.sub(r"^3:\d{2}\s", '', p) + "\t" for p in predictions]              #63                 12
+    predictions= [re.sub(r"(^3:\d{2}[a-z]?\s)|(Q\d:[a-z0-9]+)|,|'|\.|\?", ' ', p) + "\t" for p in predictions]   #63
+    predictions= [re.sub(r'^\d+\s*', '', p) + "\t" for p in predictions]                    #51              46
+    predictions= [re.sub(r'\(.*?\)', '', p) + "\t" for p in predictions]                    #51
+    predictions= [re.sub(r'\b(?:[1-9]|1[1-9]|20)\.', '', p) + "\t" for p in predictions]    #53             52
+    predictions= [re.sub(r'\b(?:1[0-2]|[1-9])\b', '', p) + "\t" for p in predictions]       #53
+    predictions= [re.sub(r'^[^?]$[\r\n]', '', p) + "\t" for p in predictions]               #53
+    """
+
+    #OPTIMAL REGEX -----------> 36 ACCURACY
+     
+    predictions = [re.sub(r"^(?:\d+[a-z]?\s*-\s*|\d+\.\s*|\w{6}\.\s*|[^\s.]+\.|[0-9]+\.\s*|\.{3,}.*$|o{4}\s*)", ' ',p) + "\t" for p in predictions]
+
+    predictions = [re.sub(r"^[A-Z1-9]\d+\.\s*|[a-zA-Z][0-9]{2}\.\s*|[A-Z][0-9]\.\s*|^[0-9]+[R.]?\s*|^\d+\.\s*|^\d+\s+|\[.*?\]|^[A-Z]{4}\s*{.*?}\s*|Never Sometimes Often Always", '', p) + "\t" for p in predictions]
+
+    predictions = [re.sub(r"(^3:\d{2}[a-z]?\s)|(Q\d:[a-z0-9]+)|\[.*?\]|\(.*?\)|\b(?:[1-9]|1[1-9]|20)\.|\b(?:1[0-2]|[1-9])\b|^\d+\.\s*|^\d+\s*|,|'|\.|\?|^[^?]*$[\r\n]", ' ', p) + "\t" for p in predictions]
+
+    
+    
+
+    return "\n".join(["\t" + re.sub(r'\s+', '', p) + "\t" for p in predictions]) 
 
 test_files = ["000_mfqchildselfreportshort.txt",
 "001_patienthealthquestionnaire.txt",
@@ -102,18 +296,21 @@ if DATASET == "test":
     txt_files_to_process = test_files
     output_file = "submission_amol.csv"
 else:
-    txt_files_to_process = os.listdir("preprocessed_text")
+    txt_files_to_process = os.listdir("test")
     output_file = "train_predictions_amol.csv"
 all_json_files = set(os.listdir("preprocessed_tables"))
 
 ids = []
 predictions = []
 for txt_file in txt_files_to_process:
+    print(txt_file)
+    # if "eoin" not in txt_file:
+    #     continue
     json_file = re.sub(r'txt$', 'json', txt_file)
-    with open("preprocessed_text/" + txt_file, "r") as f:
-        file_in_plain_text = f.read()
+    with open("preprocessed_text/" + txt_file, "r", encoding="utf-8") as f:
+        file_in_plain_text = f.readlines()
     if json_file in all_json_files:
-        with open("preprocessed_tables/" + json_file, "r") as f:
+        with open("preprocessed_tables/" + json_file, "r", encoding='utf-8') as f:
             file_in_json = f.read()
         tables_as_dict = json.loads(file_in_json)
     else:
